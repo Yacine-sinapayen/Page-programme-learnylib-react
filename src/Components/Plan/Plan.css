@@ -1,0 +1,50 @@
+.programme-visible img{
+    width: 20px;
+    margin-right: 5px; 
+}
+
+.programme {
+    height: auto;
+    border: 1px solid rgba(0,0,0,0.2);
+    border-radius: 3px;
+}
+
+.programme-visible {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.divider{
+    height: 1px;
+    background: #d3d3d3;
+}
+
+.programme-toggle{
+    font-size: 18px;
+    opacity: 0;
+    transition:
+    /* ... je fais apparâitre mon para */
+    opacity 0.4s 0.4s ease-in-out,
+    /*j'aggrandi la hauteur de mon élem puis ..  */
+    height 0.4s ease-in-out;
+}
+/* je vais créer ma fonctinon d'animation. Il va y avoir une transition sur deux choses : la hauteur, et l'opacity. Animated va permettre à mon élément d'aggrandir la hauteur puis de faire apparaître le texte  */
+.animated {
+    opacity: 1 ;
+    transition:
+     /*j'aggrandi la hauteur de mon élem puis ..  */
+    height 0.4s ease-in-out,
+    /* ... je fais apparâitre mon para */
+    opacity 0.4s 0.4s ease-in-out;
+}
+/* l'inverse de `.animated` se passe dans la class `.programme-toggle` et pour cela il suffit jute d'inverser l'ordre de height et opacity */
+
+/* Il n' y a pas de reset dans ce mini projet donc à moi de coder 'mini reset */
+
+.programme-toggle p {
+    margin: 0;
+    padding: 22px 15px;
+    pointer-events: none;
+    line-height: 1.3;
+}
