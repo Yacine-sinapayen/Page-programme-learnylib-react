@@ -1,33 +1,36 @@
- {
-    "id": "",
-    "title": "Le collage de A à Z Réflexion, préparation et assemblage des onlays, inlays et overlays",
-    "shortDescription": "Ensemble, apprenons tout ce qu’il faut savoir de A à Z, pour réussir vos restaurations postérieures partielles collées, dans votre pratique quotidienne.",
-    "supports": ["dpc", "fifpl"],
-    "teaser": "655893082",
-    "description": "Face aux attentes esthétiques grandissantes de nos patients, l’extraction implantation immédiate en secteur antérieur se doit de relever le défi de satisfaire vos attentes.<br>Cette technique est incontournable pour la prise en charge de patients victimes de la perte d’une incisive maxillaire.<br>En effet, que vous soyez débutants ou expérimentés, vous serez confrontés au remplacement d’une dent en secteur esthétique.<br>L’enjeu esthétique et les contraintes fonctionnelles de cette région anatomique font de cette méthode, un geste opératoire délicat qui se doit être mené a bien après analyses, réflexions et avec une bonne maitrise technique.<br>Grâce à cette formation, vous aurez toutes les clés pour réaliser le remplacement de cette dent par une solution implantaire, immédiate, de manière prédictible et reproductible en toute sérénité.<br>De la réflexion initiale au traitement final, apprenons ensemble, dans cette formation validante, à maitriser les extractions implantations et mises en charges immédiates.",
-	"goals": [
-            "Comprendre quand et comment réaliser un onlay, inlay et overlay.",
-            "Analyser et anticiper votre préparation.",
-            "Appliquer les protocoles détaillés de la préparation au collage.",
-            "Utiliser les meilleurs matériaux et produits.",
-            "Les trucs et astuces pour simplifier votre pratique quotidienne immédiatement.",
-            "Communiquer et présenter efficacement votre plan de traitement et votre choix thérapeutique à vos patients."
-    ],
-    "program": [
-        {
-            "title": "Comprendre la philosophie et les grands principes des restaurations collées postérieures",
-            "description": "Nous débuterons par étudier et définir ce que doit être un onlay, inlay ou overlay réussi.",
-        },
-		{
-            "title": "État actuel de la pratique",
-            "description": "Faisons un tour des articles et données scientifiques actuelles concernant les restaurations postérieures collées."
-        }
-    ],
-    "teachers": [
-        {
-            "name": "Dr Dorian BONNAFOUS",
-            "description": "Passionné par la dentisterie esthétique dans sa pratique libérale quotidienne, le Dr Dorian Bonnafous se consacre également à partager ses connaissances, acquises lors de nombreuses formations, CES, DU et formations privées, dans son activité de conférencier et formateur. Il est également assistant hospitalo-universitaire à l’université de Montpellier.",
-            "picture": "bonnafous.jpg"
-        }
-    ]
-}
+ [
+    {
+        "id": "",
+        "title": "Le collage de A à Z Réflexion, préparation et assemblage des onlays, inlays et overlays",
+        "shortDescription": "Ensemble, apprenons tout ce qu’il faut savoir de A à Z, pour réussir vos restaurations postérieures partielles collées, dans votre pratique quotidienne.",
+        "supports": ["dpc", "fifpl"],
+        "teaser": "655893082",
+        "description": "Face aux attentes esthétiques grandissantes de nos patients, l’extraction implantation immédiate en secteur antérieur se doit de relever le défi de satisfaire vos attentes.<br>Cette technique est incontournable pour la prise en charge de patients victimes de la perte d’une incisive maxillaire.<br>En effet, que vous soyez débutants ou expérimentés, vous serez confrontés au remplacement d’une dent en secteur esthétique.<br>L’enjeu esthétique et les contraintes fonctionnelles de cette région anatomique font de cette méthode, un geste opératoire délicat qui se doit être mené a bien après analyses, réflexions et avec une bonne maitrise technique.<br>Grâce à cette formation, vous aurez toutes les clés pour réaliser le remplacement de cette dent par une solution implantaire, immédiate, de manière prédictible et reproductible en toute sérénité.<br>De la réflexion initiale au traitement final, apprenons ensemble, dans cette formation validante, à maitriser les extractions implantations et mises en charges immédiates.",
+        "goals": [
+                "Comprendre quand et comment réaliser un onlay, inlay et overlay.",
+                "Analyser et anticiper votre préparation.",
+                "Appliquer les protocoles détaillés de la préparation au collage.",
+                "Utiliser les meilleurs matériaux et produits.",
+                "Les trucs et astuces pour simplifier votre pratique quotidienne immédiatement.",
+                "Communiquer et présenter efficacement votre plan de traitement et votre choix thérapeutique à vos patients."
+        ],
+        "program": [
+            {
+                "title": "Comprendre la philosophie et les grands principes des restaurations collées postérieures",
+                "description": "Nous débuterons par étudier et définir ce que doit être un onlay, inlay ou overlay réussi."
+            },
+            {
+                "title": "État actuel de la pratique",
+                "description": "Faisons un tour des articles et données scientifiques actuelles concernant les restaurations postérieures collées."
+            }
+        ],
+        "teachers": [
+            {
+                "name": "Dr Dorian BONNAFOUS",
+                "description": "Passionné par la dentisterie esthétique dans sa pratique libérale quotidienne, le Dr Dorian Bonnafous se consacre également à partager ses connaissances, acquises lors de nombreuses formations, CES, DU et formations privées, dans son activité de conférencier et formateur. Il est également assistant hospitalo-universitaire à l’université de Montpellier.",
+                "picture": "bonnafous.jpg"
+            }
+        ]
+    }
+
+]
