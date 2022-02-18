@@ -12,27 +12,16 @@ export default function Plan() {
     }
 
     return (
-
-        <div className='programme'>
-        {data.map((data) => {
-            return (
-                <h1>{data.title}</h1>
-            )
-        })}
-            <div
-                onClick={toggleState}
-                className="programme-visible">
-                <img src={Chevron} alt="chevron down" />
-                <h2>Patie 1 : Présentation et philosophie</h2>
-            </div>
-
-            <div className="divider"></div>
-
-            {toggle && <div>
-                <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis nam ducimus illo architecto repudiandae, consequatur animi corrupti omnis veritatis aut ex nobis itaque in odit error neque? Nemo, quisquam voluptatum!
-                </p>
-            </div>}
+        <div className='plan'>
+            <h1>Programe de la formation</h1>
+            {data.map (( data ) => {
+                return data.program.map (( data ) => (
+                    <>
+                        <h3>{data.title}</h3>
+                        <p>{data.description}</p>
+                    </>
+                ))
+            })}
         </div>
     )
 }

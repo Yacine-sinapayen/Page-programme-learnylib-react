@@ -3,6 +3,8 @@ import "./Button.css"
 
 export default function Button() {
   return (
-    <div>Button</div>
+    <div className="button-container">
+      <button>S'inscrire à la formation</button>
+    </div>
   )
 }
