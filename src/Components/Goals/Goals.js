@@ -1,29 +1,29 @@
 import React from 'react'
 import "./Goals.css"
-import data from '../../Data/Data.json';
+import data from '../../Data/data.json';
+import check from '../../assets/check.svg';
 
 export default function Goals() {
-  // return data.map((data) =>
-  //   <>
-  //   <h1 key={data.id}>Ce que vous allez mettre en pratique</h1>
-  //     <ul key={data.id}>
-  //       {data.goals.map((data) => (
-  //         <li key={data.id}>{data}</li>
-  //       ))}
-  //     </ul>
-  //   </>
-  // )
 
   return (
-    <div className='Goals'>
-      <h1> Ce que vous allez mettre en pratique</h1>
-      {data.map (( data )  => {
-        return data.goals.map(( data, index ) => (
-          <ul key={index}>
-            <li key={index}>{data}</li>
-          </ul>
-        ))
-      })}
-    </div>
+
+    <section className='goals-section center-content light-bg'>
+
+      <div className='description-container w75p flex column center-content'>
+
+        <h1> Ce que vous allez mettre en pratique</h1>
+
+        <div>
+          {data.goals.map((data, index) => (
+            <div key={index} className='flex'>
+              <img src={check} alt="check" />
+              <p>{data}</p>
+            </div>
+          ))}
+        </div>
+
+      </div>
+
+    </section>
   )
 }

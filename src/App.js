@@ -12,11 +12,11 @@ function App() {
     <>
       <Header />
       <Teaser />
-      <Button />
+      {/* <Button /> */}
       <Description />
       <Goals />
       <Plan />
-      <Teachers />
+      {/* <Teachers /> */}
     </>
   );
 }
