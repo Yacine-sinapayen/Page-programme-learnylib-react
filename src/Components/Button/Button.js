@@ -3,7 +3,7 @@ import "./Button.css"
 
 export default function Button() {
   return (
-    <div className="button-container center-content">
+    <div className="mrg-30 button-container center-content">
       <button>S'inscrire à la formation</button>
     </div>
   )

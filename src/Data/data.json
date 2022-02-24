@@ -32,9 +32,14 @@
     ],
     "teachers": [
         {
+            "id": "bonnafous",
             "name": "Dr Dorian BONNAFOUS",
-            "description": "Passionné par la dentisterie esthétique dans sa pratique libérale quotidienne, le Dr Dorian Bonnafous se consacre également à partager ses connaissances, acquises lors de nombreuses formations, CES, DU et formations privées, dans son activité de conférencier et formateur. Il est également assistant hospitalo-universitaire à l’université de Montpellier.",
-            "picture": "bonnafous.jpg"
+            "description": "Passionné par la dentisterie esthétique dans sa pratique libérale quotidienne, le Dr Dorian Bonnafous se consacre également à partager ses connaissances, acquises lors de nombreuses formations, CES, DU et formations privées, dans son activité de conférencier et formateur. Il est également assistant hospitalo-universitaire à l’université de Montpellier."
+        },
+        {
+            "id": "layan",
+            "name": "Dr Pierre LAYAN",
+            "description": "Aujourd’hui formé à la pointe des connaissances scientifiques et techniques, le Dr Pierre Layan privilégie, dans sa pratique libérale, une dentisterie moderne. Formé aux thérapeutiques mini invasives au cours des ces nombreux D.U et formations privées, il a à cœur de partager son savoir-faire en tant que conférencier et formateur."
         }
     ]
 }

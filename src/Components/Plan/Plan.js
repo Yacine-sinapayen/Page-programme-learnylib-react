@@ -22,9 +22,10 @@ export default function Plan() {
     }
 
     return (
-        <section className='plan-section center-content'>
+        <section className='plan-section center-content pdg-t15 pdg-b15'>
 
             <div className="plan-container w75p flex column">
+ 
                 <h1 className='self-center'>Programe de la formation</h1>
                 {data.program.map((data, index) => (
 

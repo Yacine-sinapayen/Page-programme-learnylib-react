@@ -4,10 +4,10 @@ import data from '../../Data/data.json';
 import Emojie from '../../assets/Emojie.svg';
 
 export default function Description() {
-  
+
   return (
 
-    <section className='description-section center-content'>
+    <section className='description-section center-content pdg-b15'>
 
       <div className='description-container w75p center-content flex column'>
 
@@ -24,5 +24,6 @@ export default function Description() {
       </div>
 
     </section>
+    
   )
 }

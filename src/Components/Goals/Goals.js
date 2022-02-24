@@ -7,7 +7,7 @@ export default function Goals() {
 
   return (
 
-    <section className='goals-section center-content light-bg'>
+    <section className='goals-section center-content light-bg pdg-t15 pdg-b15'>
 
       <div className='description-container w75p flex column center-content'>
 

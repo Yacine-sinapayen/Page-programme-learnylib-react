@@ -4,7 +4,9 @@ import data from '../../Data/data.json';
 
 export default function Teaser() {
   return (
+
     <div className='teaser-section dark-bg center-content pdg-b15'>
+
       <iframe
         className='w75p'
         title={data.teaser}
@@ -17,6 +19,7 @@ export default function Teaser() {
       </iframe>
 
     </div>
+    
   );
 }
 

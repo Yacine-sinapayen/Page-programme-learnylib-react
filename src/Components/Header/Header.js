@@ -7,7 +7,7 @@ export default function Header() {
 
   return (
 
-    <section className="header-section  dark-bg center-content pdg-b15">
+    <section className="header-section  dark-bg center-content pdg-b30 pdg-t15">
 
       <div className="header w75p flex column">
 
@@ -23,10 +23,6 @@ export default function Header() {
           <div className='white-bg w50 text-center light-bg' > {data.supports[0]} </div>
           <div className='header-btn-page-program white-bg w50 text-center light-bg mrg-l15'> {data.supports[1]} </div>
         </div>
-
-        {/* {data.supports.map((data, index) => (
-          <div key={index} className='white-bg w50 text-center light-bg mrg-5'> {data.supports} </div>
-        ))} */}
 
       </div>
 

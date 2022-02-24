@@ -5,18 +5,19 @@ import Button from './Components/Button/Button';
 import Description from './Components/Description/Description';
 import Goals from './Components/Goals/Goals';
 import Plan from './Components/Plan/Plan';
-import Teachers from './Components/Teachers/Teachers';
+import TeachersContainer from './Components/Teachers/TeachersContainer/TeachersContainer';
+
 
 function App() {
   return (
     <>
       <Header />
       <Teaser />
-      {/* <Button /> */}
+      <Button />
       <Description />
       <Goals />
       <Plan />
-      {/* <Teachers /> */}
+      <TeachersContainer />
     </>
   );
 }
