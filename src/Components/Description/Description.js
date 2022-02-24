@@ -14,7 +14,7 @@ export default function Description() {
         <h1 className='description-container-h1'>Rejoignez une formation unique</h1>
 
         <div className="description-container-subtitle flex row center">
-        <div className='flex row'>
+        <div className='flex row w100p center'>
           <h2 className='subtitle-h1'>98% de satisfaction </h2>
           <img className='subtitle-img w50' src={Emojie} alt="Emojie merci" />
         </div>

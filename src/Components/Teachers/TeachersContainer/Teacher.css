@@ -13,4 +13,7 @@
     .teacher-para{
         margin-bottom: 15px;
     }
+    .teacher-img-container{
+        justify-content: center;
+    }
  }
