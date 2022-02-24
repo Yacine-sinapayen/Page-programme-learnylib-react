@@ -22,7 +22,7 @@ export default function Plan() {
     }
 
     return (
-        <section className='plan-section center-content pdg-t15 pdg-b15'>
+        <section className='plan-section center-content mrg-t20 mrg-b20'>
 
             <div className="plan-container w75p flex column">
  

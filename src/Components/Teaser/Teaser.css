@@ -1,3 +1,5 @@
-iframe {
-    height: 500px;
-}
+@media (max-width: 500px) { 
+    .teaser-section{
+        height: 300px;
+    }
+ }

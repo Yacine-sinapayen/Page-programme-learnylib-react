@@ -15,11 +15,11 @@ export default function Header() {
           <img src={Logo} alt="Logo learnylib" className='w150' />
         </div>
 
-        <h2 className='text-center'> {data.title} </h2>
+        <h1 className='text-center'> {data.title} </h1>
 
-        <p> {data.shortDescription} </p>
+        <p className='mrg-b10'> {data.shortDescription} </p>
 
-        <div className="header-button-container flex ">
+        <div className="header-button-container flex">
           <div className='white-bg w50 text-center light-bg' > {data.supports[0]} </div>
           <div className='header-btn-page-program white-bg w50 text-center light-bg mrg-l15'> {data.supports[1]} </div>
         </div>

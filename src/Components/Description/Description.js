@@ -7,15 +7,17 @@ export default function Description() {
 
   return (
 
-    <section className='description-section center-content pdg-b15'>
+    <section className='description-section center-content mrg-b20'>
 
-      <div className='description-container w75p center-content flex column'>
-
+      <div className='description-container w75p flex column text-center'>
+      
         <h1 className='description-container-h1'>Rejoignez une formation unique</h1>
 
-        <div className="description-container-subtitle flex row">
+        <div className="description-container-subtitle flex row center">
+        <div className='flex row'>
           <h2 className='subtitle-h1'>98% de satisfaction </h2>
           <img className='subtitle-img w50' src={Emojie} alt="Emojie merci" />
+        </div>
         </div>
 
         <p dangerouslySetInnerHTML={{ __html: data.description }}>

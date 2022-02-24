@@ -1,3 +1,5 @@
-.pdg-b10{
-    padding-bottom: 10px;
-}
+@media (max-width: 500px) { 
+    .header-button-container{
+        justify-content: center;
+    }
+ }

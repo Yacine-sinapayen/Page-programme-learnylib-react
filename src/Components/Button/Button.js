@@ -3,8 +3,10 @@ import "./Button.css"
 
 export default function Button() {
   return (
-    <div className="mrg-30 button-container center-content">
-      <button>S'inscrire à la formation</button>
+    <section className="btn-section mrg-b20 mrg-t20 center-content">
+    <div className='w75p center-content'>
+      <button >S'inscrire à la formation</button>
     </div>
+    </section>
   )
 }
