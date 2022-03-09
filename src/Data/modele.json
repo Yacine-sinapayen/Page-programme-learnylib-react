@@ -1,0 +1,73 @@
+{
+    "id": "",
+    "title": "",
+    "shortDescription": "",
+    "supports": [
+        " ",
+        " "
+    ],
+    "teaser": " ",
+    "description": " <br/><br/>  <br/><br/>  <br/><br/>  <br/><br/> ",
+    "goals": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : ",
+            "description": ""
+        },
+        {
+            "title": "Partie 2 : ",
+            "description": " "
+        },
+        {
+            "title": "Partie 3 : ",
+            "description": " "
+        },
+        {
+            "title": "Partie 4 : ",
+            "description": " "
+        },
+        {
+            "title": "Partie 5 : ",
+            "description": " "
+        },
+        {
+            "title": "Partie 6 : ",
+            "description": " "
+        },
+        {
+            "title": "Partie 7 : ",
+            "description": " "
+        },
+        {
+            "title": "Partie 8 : ",
+            "description": " "
+        },
+        {
+            "title": " ",
+            "description": " "
+        },
+        {
+            "title": "Partie 10 : ",
+            "description": " "
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "",
+            "name": "",
+            "description": ""
+        }
+    ]
+}

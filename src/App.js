@@ -6,12 +6,14 @@ import Description from './Components/Description/Description';
 import Goals from './Components/Goals/Goals';
 import Plan from './Components/Plan/Plan';
 import TeachersContainer from './Components/Teachers/TeachersContainer/TeachersContainer';
+
+
 import Timer from './Components/Timer/Timer';
 
 function App() {
   return (
     <>
-    <Timer />
+    
       {/* <Header />
       <Teaser />
       <Button />
@@ -20,6 +22,8 @@ function App() {
       <Plan />
       <Button />
       <TeachersContainer /> */}
+      <Timer />
+
     </>
   );
 }

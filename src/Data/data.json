@@ -1,5 +1,5 @@
 {
-    "id": "1",
+    "id": "colage",
     "title": "Le collage de A à Z Réflexion, préparation et assemblage des onlays, inlays et overlays",
     "shortDescription": "Ensemble, apprenons tout ce qu’il faut savoir de A à Z, pour réussir vos restaurations postérieures partielles collées, dans votre pratique quotidienne.",
     "supports": [
@@ -7,7 +7,7 @@
         "fifpl"
     ],
     "teaser": "655893082",
-    "description": "Face aux attentes esthétiques grandissantes de nos patients, l’extraction implantation immédiate en secteur antérieur se doit de relever le défi de satisfaire vos attentes.<br/><br/> Cette technique est incontournable pour la prise en charge de patients victimes de la perte d’une incisive maxillaire.<br/><br/>En effet, que vous soyez débutants ou expérimentés, vous serez confrontés au remplacement d’une dent en secteur esthétique. <br/><br/>L’enjeu esthétique et les contraintes fonctionnelles de cette région anatomique font de cette méthode, un geste opératoire délicat qui se doit être mené a bien après analyses, réflexions et avec une bonne maitrise technique.<br/><br/>Grâce à cette formation, vous aurez toutes les clés pour réaliser le remplacement de cette dent par une solution implantaire, immédiate, de manière prédictible et reproductible en toute sérénité.<br/><br/>De la réflexion initiale au traitement final, apprenons ensemble, dans cette formation validante, à maitriser les extractions implantations et mises en charges immédiates.",
+    "description": " <br/><br/>De nos jours, les inlays, onlays et overlays, prennent une part grandissante dans notre thérapeutique quotidienne.<br/><br/>Le recours à ces techniques collées, sur dent vivante comme non vivante, est devenu une proposition particulièrement pertinente, tant au niveau biologique, qu’esthétique et économique.<br/><br/>Cependant, leur réalisation nécessite des protocoles et des techniques spécifiques à mettre en place, pour vous assurer un succès optimal.<br/><br/>De la réflexion initiale à la pose finale, apprenons ensemble, dans cette formation, à maitriser le collage de A à Z.",
     "goals": [
         "Comprendre quand et comment réaliser un onlay, inlay et overlay.",
         "Analyser et anticiper votre préparation.",
@@ -26,8 +26,68 @@
             "description": "Faisons un tour des articles et données scientifiques actuelles concernant les restaurations postérieures collées."
         },
         {
-            "title": "Partie 3 : Test",
-            "description": "Faisons un tour des articles et données scientifiques actuelles concernant les restaurations postérieures collées."
+            "title": "Partie 3 : Maîtriser les étapes par étapes et leurs approches",
+            "description": "Rentrons dans le vif du sujet : nous verrons ici les lignes et les objectifs étape par étape du collage, avant de rentrer dans les moindres détails de chacune d’entre elles dans les parties suivantes."
+        },
+        {
+            "title": "Partie 4 : Comprendre quand choisir un recouvrement partiel ou total et les réaliser",
+            "description": "Avant de faire un onlay, il faut analyser l’état de délabrement de la dent, quand abaisser notre cuspide, l’importance de la biomécanique et gérer les fissures."
+        },
+        {
+            "title": "Partie 5 : Appliquer le principe moderne du curetage carieux",
+            "description": "Après l’analyse et la réflexion, place au curetage carieux : faut-il conserver de la dentine affectée ? Comment préparer sans effracter la pulpe ? Nous verrons tous les principes et techniques à l’aide de cas cliniques commentés."
+        },
+        {
+            "title": "Partie 6 : L’IDS : hybridation dentinaire immédiate",
+            "description": "Pourquoi faire l’IDS, quel est son rôle. Quel système adhésif choisir entre SAM et M&R. Quels sont les mécanisme d’adhésion. L’IDS n’aura plus aucun secret grâce aux nombreuses situations et cas cliniques présentés."
+        },
+        {
+            "title": "Partie 7 : Utiliser les substituts dentinaires",
+            "description": "Aménageons maintenant notre cavité. Nous verrons comment combler les contre-dépouilles, assurer notre étanchéité coronaire et quels matériaux utiliser en fonction de différentes situations cliniques."
+        },
+        {
+            "title": "Partie 8 : Maîtriser la remontée de marge",
+            "description": "Il est fréquent après notre curetage d’être confrontés à des limites profondes juxta ou sous-gingivales. Nous verrons ici à l’aide de nombreux cas cliniques, quand et comment remonter coronairement notre limite."
+        },
+        {
+            "title": "Partie 9 : Réaliser de belles empreintes",
+            "description": "Nous verrons la technique du « double fil », idéale pour parfaitement bien saisir les limites de notre préparation."
+        },
+        {
+            "title": "Partie 10 : Effectuer une temporisation efficace",
+            "description": "Nous verrons quels matériaux utiliser en inter séance, comment mettre en place notre obturation provisoire et obtenir une rétention efficace, que ce soit pour une temporisation unitaire ou multiple."
+        },
+        {
+            "title": "Partie 11 : Les étapes du laboratoire de A à Z",
+            "description": "En tant que praticien, une bonne connaissance des biomatériaux et de ce que nous allons demander à notre prothésiste est primordiale, tant du point de vue de l’esthétique, que des contraintes mécaniques. Faisons un tour complet des étapes pour les onlays pressés et CFAO."
+        },
+        {
+            "title": "Partie 12 : Les protocoles de l’assemblage lors de la 2e séance",
+            "description": "L’essayage de la pièce prothétique, la protection des dents adjacentes, le traitement de l’intrados prothétique et de la dent, le support sur lequel coller, ces étapes et protocoles n’auront plus de secrets pour vous après cette partie."
+        
+        },
+        {
+            "title": "Partie 13 : Le collage de A à Z : toutes les étapes et cas cliniques commentés",
+            "description": "A l’aide de nombreux cas cliniques pratiques, nous vous exposerons toutes les étapes pour réussir votre collage des matériaux jusqu’à la pose finale."
+        },
+        {
+            "title": "Partie 14 : Photopolymériser efficacement",
+            "description": "La photopolymérisation est une étape cruciale dans le collage. Nous verrons quelle lampe choisir, à quelle distance nous mettre et le temps idéal de photopolymérisation."
+        },
+        {
+            "title": "Partie 15 : Le collage induit inévitablement des excès qu’il va falloir gérer et enlever. Nous verrons l’importance de la radio, les instruments à utiliser, comment et à quel moment précis enlever nos excédents."
+        },
+        {
+            "title": "Partie 16 : Régler l’occlusion",
+            "description": "Les restaurations partielles collées présentent à certains points des fragilités à l’occlusion, nous verrons quels sont ces points et comment régler l’occlusion favorablement."
+        },
+        {
+            "title": "Partie 17 : Savoir expliquer notre plan de traitement à nos patients est un pré-requis indispensable pour une pratique sereine. Voyons toutes les bonnes pratiques à mettre en place pour une communication claire et efficace à l’aide d’illustrations et de cas cliniques.",
+            "description": "Savoir expliquer notre plan de traitement à nos patients est un pré-requis indispensable pour une pratique sereine. Voyons toutes les bonnes pratiques à mettre en place pour une communication claire et efficace à l’aide d’illustrations et de cas cliniques. "
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description":"Évaluez vos connaissances acquises tout le long de votre formation (QCM), téléchargez et imprimez toutes les fiches récapitulatives."
         }
     ],
     "teachers": [
