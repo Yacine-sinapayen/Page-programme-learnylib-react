@@ -1,0 +1,26 @@
+.modal1{
+    position: absolute;
+    top: 7%;
+    left: 15%;
+    /* transform: translate(-50%, -50%); */
+    background: #f1f1f1;
+    padding: 10px;
+    max-width: 500px;
+    min-width: 300px;
+    color: black;
+    border-radius: 5px;
+    margin: 10px;
+}
+.modal2{
+    position: absolute;
+    top: 23%;
+    left: 15%;
+    /* transform: translate(-50%, -50%); */
+    background: #f1f1f1;
+    padding: 10px;
+    max-width: 500px;
+    min-width: 300px;
+    color: black;
+    border-radius: 5px;
+    margin: 10px;
+}

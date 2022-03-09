@@ -1,0 +1,45 @@
+{
+    "id": "installation-liberale",
+    "title": "L'installation libérale",
+    "shortDescription": "Dès les toutes premières démarches post thèse, jusqu’à votre installation libérale finale, décortiquons toutes les étapes pour réussir votre activité libérale.",
+    "supports": [
+
+    ],
+    "teaser": " ",
+    "description": "Ca y est, vous êtes diplômé.e et vous avez hâte de démarrer votre activité de chirurgien-dentiste.<br/><br/>Cependant, cette étape est perçue par beaucoup avec inquiétude.<br/><br/>Lors de vos études, vous avez appris à être de bons cliniciens et à respecter les données acquises de la science.<br/><br/>En revanche, vous avez sûrement peu abordé la question cruciale : « comment devenir un bon chef d’entreprise ».<br/><br/>Dès toutes premières démarches post thèse, en passant par vos premiers remplacements, jusqu’à votre installation finale, nous verrons dans cette formation, tout ce que vous devez savoir pour réussir sereinement votre activité de chirurgien-dentiste.",
+    "goals": [
+        "Démystifier et comprendre de A à Z, les premières démarches administratives, juridiques et financières post-thèse.",
+        "Organiser, gérer et déléguer sa comptabilité, expliqués par un cabinet d'experts-comptables.",
+        "Maitriser les rouages et les spécificités de la fiscalité des libéraux.​",
+        "Réussir votre installation libérale :  l'association, la reprise de cabinet, les statuts juridiques..."
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : Les étapes avant le démarrage de votre activité libérale",
+            "description": "Nous aborderons étapes par étapes les démarches à effectuer, de l’enregistrement à l’assurance maladie en passant par l’Urssaf jusqu’à la Caisse de retraite." 
+        },
+        {
+            "title": "Partie 2 : Les premières années d’exercices",
+            "description": "Nous détaillerons les règles de comptabilité et de fiscalité de l’exercice libéral. Nous verrons comment choisir le statut juridique, ainsi que les avantages et inconvénients des différents types d’exercice."
+        },
+        {
+            "title": "Partie 3 : L’installation en tant que propriétaire",
+            "description": "Nous verrons s’il faut travailler seul ou en groupe ? Quel statut juridique ? Où s’installer ? Louer ou acheter le cabinet ? Reprendre ou créer un cabinet ? Comment organiser le cabinet ? Comment s’équiper et financer son projet ?"
+        },
+        {
+            "title": "Partie 4 : Le point de vue du cabinet d’expert-comptable",
+            "description": "Extencia, cabinet spécialisé pour les professions libérales, vous partagera de manière exhaustive, les 10 clés d’une installation libérale réussie."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation, téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "falla",
+            "name": "Dr Cédric FALLA",
+            "description": "Ancien Assistant Hospitalo-Universitaire de la faculté de Bordeaux, le Docteur Cédric FALLA est installé en libéral avec une activité d’omnipratique. Curieux des questions du droit, il obtient en 2017 un Master II en droit de la santé lui permettant de faire le lien entre ces disciplines complémentaires.  Reconnu pour sa pédagogie, ses connaissances lui permettent aujourd’hui de proposer à ses confrères des formations pratiques alliant clinique et devoirs légaux."
+        }
+    ]
+}

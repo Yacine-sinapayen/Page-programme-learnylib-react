@@ -2,6 +2,8 @@ import React from 'react'
 import "./Header.css"
 import data from '../../Data/data.json';
 import Logo from '../../assets/Logo.svg';
+import arrow from '../../assets/arrow.svg';
+
 
 export default function Header() {
 
@@ -11,17 +13,21 @@ export default function Header() {
 
       <div className="header w75p flex column">
 
-        <div className="header-img-container self-center">
-          <img src={Logo} alt="Logo learnylib" className='w150' />
+        <div className="header-img-container w100p flex middle">
+          <img className='header-img-arrow w30' src={arrow} alt="Logo learnylib" />
+          <img className='w150 self-center' src={Logo} alt="Logo learnylib" />
         </div>
 
-        <h1 className='text-center'> {data.title} </h1>
+        <h1 className='header-title'> {data.title} </h1>
 
-        <p className='mrg-b10'> {data.shortDescription} </p>
+        <p className='header-description mrg-b10'> {data.shortDescription} </p>
 
         <div className="header-button-container flex">
-          <div className='white-bg w50 text-center light-bg' > {data.supports[0]} </div>
-          <div className='header-btn-page-program white-bg w50 text-center light-bg mrg-l15'> {data.supports[1]} </div>
+
+          {data.supports.map((data, index) => (
+            <div key={index} className='white-bg w50 text-center light-bg mrg-5' > {data.toUpperCase()} </div>
+          ))}
+
         </div>
 
       </div>

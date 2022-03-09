@@ -1,5 +1,9 @@
-@media (max-width: 500px) { 
-    .header-button-container{
+@media (max-width: 550px) { 
+    .header-button-container, .header-title{
         justify-content: center;
+        text-align: center;
+    }
+    .header-description{
+        text-align: center;
     }
  }

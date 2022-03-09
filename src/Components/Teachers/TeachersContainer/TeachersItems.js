@@ -5,7 +5,7 @@ export default function TeachersItems() {
   return (
     <div className='teacher-container w75p'>
 
-      <h1 className='center-content mrg-b20'>Qui sont vos conférenciers ?</h1>
+      <h1 className='center-content mrg-b30'>Qui sont vos conférenciers ?</h1>
 
       {data.teachers.map((teacher, index) => (
 
