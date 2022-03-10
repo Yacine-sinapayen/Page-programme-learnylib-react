@@ -1,0 +1,64 @@
+{
+    "id": "digue",
+    "title": "La digue : techniques, méthodes et cas cliniques",
+    "shortDescription": "Ensemble, apprenons tout ce qu’il faut savoir pour poser facilement une digue dans l’ensemble de vos cas du quotidien.",
+    "supports": [
+        " ",
+        " "
+    ],
+    "teaser": "655893258",
+    "description": "Nous pensons souvent, à tort, que la pose de la digue est chronophage et laborieuse. <br/><br/> Cependant, une bonne maitrise de cet acte permet en réalité de nous faire gagner à la fois, du temps, du confort et de la sérénité, dans notre pratique quotidienne, quels que soient les actes réalisés.  <br/><br/> Apprenons ensemble, dans cette formation, à maitriser la digue.",
+    "goals": [
+        "L'importance de la mise en place d'un champ opératoire pour gagner en sérénité et accroître la qualité de vos actes. ",
+        "Utiliser tout le matériel indispensable pour poser sans contrainte votre digue. ",
+        "Poser facilement et rapidement votre digue. ",
+        "Les stratégies de positionnement et d'utilisation de la digue dans tous les cas cliniques rencontrés.",
+        " "
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : Introduction",
+            "description": "Nous débuterons par les principes de la digue et ses intérêts cliniques multiples."
+        },
+        {
+            "title": "Partie 2 : État actuel de la pratique",
+            "description": "Faisons un tour des articles et données scientifiques actuelles concernant la digue."
+        },
+        {
+            "title": "Partie 3 : Le confort de la digue",
+            "description": "Pourquoi la digue vous procurera un réel confort de travail et comment en tirer parti facilement."
+        },
+        {
+            "title": "Partie 4 : Les indispensables : tout le matériel nécessaire",
+            "description": "Comment choisir votre matériel, le positionner ? Comment et pourquoi l’utiliser ? Nous aborderons ici la digue et sa sécurisation, les pinces à perforer, le patron, les perforations, les crampons, les pinces et les cadres, les accessoires, les crampons accessoires."
+        },
+        {
+            "title": "Partie 5 : Technique de positionnement de la digue",
+            "description": "Nous verrons à l’aide d’une vidéo clinique de pose de digue, toutes les techniques et astuces pour parfaitement maîtriser la pose de votre digue."
+        },
+        {
+            "title": "Partie 6 : Les différentes stratégies de positionnement à travers de nombreux cas cliniques",
+            "description": "Passons maintenant à de nombreux cas cliniques. <br/> Nous allons voir ensemble tout ce dont vous aurez besoin pour vous repérer et aborder sereinement tous les cas qui se présenteront à vous. <br/> Cas simples et complexes, techniques directes et indirectes, digue unitaire ou multiple, digue ouverte, restaurations prothétiques, élongation coronaire, traitement endodontique, IDS et bien d’autres… <br/> Voir le programme complet plus bas."
+        },
+        {
+            "title": "Partie 7 : Cas cliniques commentés en vidéo",
+            "description": "Nous allons voir comment le Dr Layan pose ses digues selon différentes situations cliniques, de la dent unitaire jusqu’à la pose de digues multiples et complexes, le tout commenté et expliqué en vidéo."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "bonnafous",
+            "name": "Dr Dorian BONNAFOUS",
+            "description": "Passionné par la dentisterie esthétique dans sa pratique libérale quotidienne, le Dr Dorian Bonnafous se consacre également à partager ses connaissances, acquises lors de nombreuses formations, CES, DU et formations privées, dans son activité de conférencier et formateur.Il est également assistant hospitalo-universitaire à l’université de Montpellier."
+        },
+        {
+            "id": "layan",
+            "name": "Dr Pierre LAYAN",
+            "description": "Aujourd’hui formé à la pointe des connaissances scientifiques et techniques, le Dr Pierre Layan privilégie, dans sa pratique libérale, une dentisterie moderne. Formé aux thérapeutiques mini invasives au cours des ces nombreux D.U et formations privées, il a à cœur de partager son savoir-faire en tant que conférencier et formateur."
+        }
+    ]
+}

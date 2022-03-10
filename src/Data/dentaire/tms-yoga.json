@@ -1,0 +1,48 @@
+{
+    "id": "tms-yoga",
+    "title": "Santé du chirurgien-dentiste : Et si on se mettait au yoga ?",
+    "shortDescription": "Apprenez à déterminer les douleurs liées aux TMS du chirurgien dentiste et ainsi comment les soulager et les éviter grâce au Yoga. ",
+    "supports": [
+        "",
+        ""
+    ],
+    "teaser": "661935868",
+    "description": "Au cours de nos études, nous sommes formés à soigner, soulager la douleur, prendre soins de nos patients. Mais qui prend soin de nous ? <br/><br/>La dentisterie est une profession exigeante qui nécessite : <ul><li> le maintien de postures contraignantes</li><li>une concentration constante </li><li>associée à des mouvements d’une haute précision.</li> </ul>  <br/><br/> Nous avons beau connaître les principes de l’ergonomie, l’importance d’une bonne posture au fauteuil, nous avons tous tout de même tendance à nous pencher/courber et adopter des postures néfastes afin d‘avoir un meilleur accès et une meilleure visibilité de la cavité buccale. <br/><br/> Ceci affectant particulièrement les chaînes musculaires du haut du corps. <br/><br/> Peu d’entre nous y échappe : mal de dos, tensions musculaires au niveaux des épaules, douleurs cervicales, lombaires, faiblesses musculaires, tendinites, hernies… Les TMS sont un problème reconnu chez le chirurgien dentiste.<br/><br/>Si nous ne faisons pas attention à notre santé, nous ne pourrons pas faire attention à la leur non plus. <br/><br/> Cette inattention peut avoir des tas d’effets néfastes, de la souffrance et du stress inutile à la baisse de rentabilité due à des arrêts de travail récurrents et prolongés…  <br/><br/> Le bien-être est donc le mot d’ordre de cette vidéo. Mais qu’est ce que cela signifie vraiment ? <br/><br/>Je vais vous parler du yoga et comment cette pratique pourra avoir des effets bénéfiques à la fois sur le physique et sur le mental pour augmenter vos chances d’avoir une carrière longue, prospère sans impact négatif sur votre vie personnelle et professionnelle.  ",
+    "goals": [
+        "Comprendre les enjeux du métier de chirurgien dentiste sur notre santé physique et mentale",
+        "Découvrir la pratique du yoga et ses bienfaits sur notre santé",
+        "Soulager les douleurs liées aux TMS du chirurgien dentiste à l’aide d’exercices de yoga ciblés",
+        "Diminuer les effets du stress à l’aide d’exercices de relaxation",
+        "Intégrer de courtes séances de yoga dans votre quotidien",
+        "Faire de votre bien-être une priorité afin d’appréhender vos journées de travail, vos patients et vos actes plus sereinement"
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : Introduction",
+            "description": "La Dentisterie : un métier à risque ?Nous verrons dans cette partie que la dentisterie est une profession exigeante physiquement et mentalement. Nous souffrons de TMS : Mal de dos, tensions cervicales, raideurs, fatigues musculaires … Autant de symptômes s’insinuant petit à petit et pouvant représenter un réel handicap au quotidien."
+        },
+        {
+            "title": "Partie 2 : Les TMS et le stress",
+            "description": "Ensuite, nous détaillerons les TMS qui sont des affections multi-factorielles à composante professionnelles pouvant aller du simple mal de dos, aux hernies discales, avec des douleurs au début légères et sporadiques puis chroniques et invalidante avec le temps. À ces symptômes physiques s’ajoutent souvent fatigue et stress liés à la gestion du cabinet dentaire et des patients. On en parle moins et pourtant c’est un phénomène bien présent: entre actes difficiles, pression de la ponctualité, de la rentabilité du cabinet, gestion des patients compliqués etc, on peut facilement être soumis à un haut niveau de stress si l’on ne s’en protège pas."
+        },
+        {
+            "title": "Partie 3 : Le yoga et ses outils pour prendre soin de soi au quotidien",
+            "description": "Dans cette partie, nous parlerons du Yoga, une pratique ancestrale reconnue comme ayant des bénéfices se répercutant non seulement sur le physique mais aussi sur l’état mental et émotionnel. Cette pratique peut constituer un outil efficace et une première approche de prise en charge globale de la santé du chirurgien-dentiste. Plusieurs études ont montré que ces bénéfices sont perceptibles rapidement dès 10 minutes de pratique par jours. "
+        },
+        {
+            "title": "Partie 4 : Exercices pratiques",
+            "description": "Dans cette partie, nous y détaillerons des cas pratiques sur plusieurs exercices. Plusieurs thèmes y seront abordés comme l’anti-mal de dos du soir, la routine matinale, le réveil des lombaires, du dos et des cervicales. Nous verrons également les étirements intenses, comment se libérer les tensions de la nuque, des cervicales et du dos. Nous aborderons le renforcement et l’étirement du haut du corps, comment relâcher les tensions lombaires et enfin la respiration anti-stress / relaxation."
+        },
+        {
+            "title": "Partie 5 : Conclusion",
+            "description": "Enfin, le gain de temps lié à l’essor de la dentisterie à 4 mains et de la prévention sur l’ergonomie a contribué à l’augmentation des TMS. Nous verrons dans cette formation que le yoga est donc une activité parfaitement accessible aux chirurgiens- dentistes, qui peut être mise en place facilement dans le quotidien du cabinet dentaire."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "bottemanne",
+            "name": "Dr Clémentine BOTTEMANNE",
+            "description": "Dr Clémentine Bottemanne, chirurgien dentiste diplômée de la fac de bordeaux en 2019, et professeur de yoga vinyasa certifiée ( RYT 200h yoga alliance). L’idée de pouvoir partager les bienfaits de la pratique de yoga à tous mes confrères et consoeurs dentistes m’anime et c’est donc tout naturellement qu’après ma formation de yoga je me lance dans l’écriture de ma thèse qui s’intitule « Effets du yoga sur les troubles musculo-squelettiques et le stress chez le chirurgien dentiste : revue systématique de la littérature » que j’ai soutenue en Avril 2021."
+        }
+    ]
+}

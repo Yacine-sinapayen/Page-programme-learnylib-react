@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Goals.css"
-import data from '../../Data/data.json';
+import data from '../../Data/installation-liberale.json';
 import check from '../../assets/check.svg';
 
 export default function Goals() {

@@ -29,8 +29,6 @@ export default function Timer(props) {
 
     return (
         <>
-            <h1>Timer 1</h1>
-
             <div className='flex row'>
 
                 <div className='flex middle'>
@@ -40,9 +38,8 @@ export default function Timer(props) {
                     : 
                     <img className='w10' src={timerGrey} alt="" />
                     }
-
-
-                    <p className={duration === timeSpent ? 'blue' : 'grey'}>  {timeSpent} / {duration} </p>
+                
+                    {duration === timeSpent ? <p className='blue'>  {timeSpent} / {timeSpent} </p> : <p className='grey'>  {timeSpent} / {duration} </p>}
 
                     {duration === timeSpent ? 
                     <img onClick={event => toggleModal(event)} className='pointer w10' src={questionBlue} alt="" /> : 
@@ -56,7 +53,7 @@ export default function Timer(props) {
                         <img onClick={toggleModal} className='pointer w10' src={close} alt="Button fermeture de la modale" />
 
                         <div className="modal-content">
-                            <p> Cet indicateur correspond aux nombres d'heures passées sur la formation par rapport aux nombres d'heures exigées par l'organisme.</p>
+                            <p> Cet indicateur correspond aux nombres d'heures passées sur votre formation par rapport aux nombres d'heures exigées par l'organisme.</p>
                         </div>
                     </div>
                 )}

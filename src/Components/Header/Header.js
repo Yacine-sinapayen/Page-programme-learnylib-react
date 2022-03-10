@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Header.css"
-import data from '../../Data/data.json';
+import data from '../../Data/installation-liberale.json';
 import Logo from '../../assets/Logo.svg';
 import arrow from '../../assets/arrow.svg';
 

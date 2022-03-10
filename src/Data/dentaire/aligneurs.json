@@ -1,0 +1,75 @@
+{
+    "id": "aligneurs-omnipratique",
+    "title": "Les aligneurs en omnipratique",
+    "shortDescription": "Apprenez toutes les étapes de A à Z, du diagnostic jusqu’à la mise en place de la contention pour un traitement orthodontique par aligneurs appliqué à votre omnipratique.",
+    "supports": [
+        " ",
+        " "
+    ],
+    "teaser": "655895601",
+    "description": " <br/><br/> Face aux attentes esthétiques grandissantes de nos patients, ces derniers sont de plus en plus soucieux d’avoir des dents parfaitement alignées. <br/><br/> Pour répondre à cette demande croissante, les aligneurs sont des bijoux technologiques qui pourront s’intégrer pleinement au sein de votre activité quotidienne. <br/><br/> En effet, que vous soyez débutant ou expérimenté, vous serez confronté à cette demande de la part de vos patients. <br/><br/> Bien que sécurisant et élaboré sous contrôle, un plan de traitement orthodontique nécessite quelques connaissances techniques et cliniques afin d’être mené à bien sereinement. <br/><br/> Grâce à cette formation, vous aurez toutes les clés et la méthodologie pour diagnostiquer un cas éligible à un traitement par aligneur, ainsi que les mouvements possibles et les limites de ce système. <br/><br/> De la réflexion initiale au traitement final, apprenons ensemble, dans cette formation, à maitriser et intégrer les aligneurs dans votre pratique quotidienne.",
+    "goals": [
+        "Comprendre quand et comment mettre en place un traitement par aligneurs.",
+        "Maitriser les mouvements en orthodontie.",
+        "Appliquer et comprendre la technologie des aligneurs.",
+        "Définir quels patients peuvent être traités, reconnaitre les cas simples et complexes.",
+        "Appliquer la méthodologie des plans de traitement, pouvoir les analyser et les corriger.",
+        "Réaliser aisément vos strippings, taquets et vos contentions.",
+        "Communiquer pour intégrer vos patients dans le traitement et la surveillance de leur traitement.",
+        "Organiser clairement et facilement votre plan de traitement et facturer vos actes."
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : Introduction sur l’orthodontie par aligneurs",
+            "description": "Pourquoi faire un traitement par aligneurs ? Quels sont les avantages du système par aligneurs. Nous verrons l’Histoire de l’orthodontie par aligneurs et les orientations futures."
+        },
+        {
+            "title": "Partie 2 : Le diagnostic en orthodontie",
+            "description": "Nous verrons les différentes pathologies en orthodontie. Nous apprendrons également à sélectionner les cas éligibles à un traitement par aligneurs en omnipratique et vous verrez ils sont nombreux."
+        },
+        {
+            "title": "Partie 3 : Plan de traitement et planification du traitement par aligneurs",
+            "description": "Nous rentrerons ici dans les coulisses du traitement par aligneurs : le formulaire de prescription, la biomécanique des aligneurs, les taquets, le stripping, l’outil de superposition, l’étude de l’occlusion finale et la communication avec le technicien… Tout, vous serez tout sur les aligneurs."
+        },
+        {
+            "title": "Partie 4 : Pourquoi les dents ne suivent pas ma planification ?",
+            "description": "Comment passons-nous du virtuel au réel ? Pourquoi tout ne se passe pas toujours comme prévu. Nous verrons la prédictibilité des mouvements, les limites des mouvements, les mouvements indésirables et les éventuelles phases de finitions."
+        },
+        {
+            "title": "Partie 5 : Stratégie de traitement",
+            "description": "Nous aborderons les indication des aligneurs, ainsi que toutes les corrections qu’ils sont capables d’apporter et comment les mettre en exécution. En bref, place à l’action."
+        },
+        {
+            "title": "Partie 6 : Exécution clinique du plan de traitement",
+            "description": "Ca y est, la théorie est dans la poche, place à la pratique ! Nous verrons toutes les étapes cliniques de A à Z : la 1ère consultation, les différents examens en orthodontie, la communication, les explications au patient, le suivi jusqu’à la mise en place des contentions."
+        },
+        {
+            "title": "Partie 7 : Les bénéfices dans les actes d’omnipratique",
+            "description": "Comment les aligneurs peuvent vous aider à mener à bien des traitements d’omnipratiques ? Les aligneurs au service de la restauration, de la parodontie et de l’occlusodontie !"
+        },
+        {
+            "title": "Partie 8 : Cas cliniques de A à Z",
+            "description": "Nous décortiquerons toutes les étapes cliniques point par point pour lancer à votre tour dans les traitements par aligneurs."
+        },
+        {
+            "title": "Le matériel et les produits à utiliser",
+            "description": "Le Dr Kenzey vous détaillera tout le matériel et les produits indispensables pour faciliter vos traitements par aligneurs."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "kenzey",
+            "name": "Dr David KENZEY",
+            "description": "Le Dr David KENZEY, est diplômé de l’Université Libre de Bruxelles depuis 2017, en tant que chirurgien-dentiste. Il s’enrichit, dès son retour à Paris, de la certification pour l’utilisation des aligneurs orthodontiques, lui permettant d’avoir aujourd’hui une activité exclusivement orientée en orthodontie par gouttières d’alignement : Il devient en 2021 le plus jeune Diamond Invisalign® de France. Rédacteur de nombreux articles concernant l’Orthodontie par aligneurs, conférencier et formateur dans ce domaine, il a l’intime conviction que l’Orthodontie numérique peut et doit être enseignée aux omnipraticiens."
+        }
+        {
+            "id": "laulan",
+            "name": "Dr Camille LAULAN",
+            "description": "Omnipraticienne, adepte de la prévention et soucieuse de proposer la meilleure prise en charge des jeunes patients, le Dr Camille LAULAN s’est formée de manière poussée en dentisterie pédiatrique. Titulaire de plusieurs DU et formations privées en pédodontie comme en dentisterie esthétique et mini-invasive, elle partage son activité de dentiste libérale entre l’omnipratique et la dentisterie pédiatrique. Ancienne attachée en pédodontie à l’université de Bordeaux, elle a à coeur de partager ses connaissances en tant que conférencière et formatrice pour rendre plus d’omnipraticiens « kids-friendlys »."
+        }
+    ]
+}

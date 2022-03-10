@@ -1,41 +1,31 @@
 # Integration de la nouvelle page programme sur la plateforme learnylib
+(lire attentivement le readme pour récupérer certaines infos)
 
-## 1) Définition
-### 1.a) Objectif de la nouvelle intégration
+Les données de cette page sont totalement indépendantes du reste de l'application.
 
-L'objectif est de refaire l'integration de la page programme des formations afin que les apprenants puisse avoir accès à une page plus précise.
+À chaque formation mise en ligne, il va falloir importer manuellement les data dans le dossier "data" :wink:, pour alimenter la "page programme".
 
-## 2) Conception
-### 2.a) Spécifications focntionnelles : User stories
+## Récupérer l'id du teaser 
 
-En tant qu'apprenant je veux avoir accès aux informations suivante sur la page programme d'une formation : description formation / teaser / listes objectifs
+![id-teaser](/src/assets/id-teaser.png)
 
-### 2.b) Spécifications techniques
+1 - Se connecter sur vimeo (pour des raisons de sécurité évidente je n'ai pas mis les codes à dispo sur ce readme). Pour les récupérer s'adresser à manu.
 
-## 3) Wireframe de la page
+2 - Cliquez sur l'onglet "vidéos" à gauche de l'écran :
 
-## 4) Réalisation
+![vimeo-1](/src/assets/vimeo-1.png)
 
-### 4.1) Production (nouveau code !)
+3 - Sélectionner une filière. Pour l'exemple nous allons prendre "santé visuelle" => puis aller dans le dossier "teaser"
 
-Suivi (évolution & maintenance du code existant !)
-Documentation (!!!)
+![vimeo-3](/src/assets/vimeo-3.png)
 
-## 5) Validation
+4 - Vous cliquez sur un teaser et récupérez son id dans la barre de navigation. 
 
-Validation des spécifications
-Vérifications de conformité (qualité)
+![vimeo-5](/src/assets/vimeo-5.png)
 
-## 6) Livraison
+![vimeo-6](/src/assets/vimeo-6.png)
 
-Revue qualité
 
-Maintenance
+Et voilà ! Si vous avez des idées d'amélioration de process n'hésitez pas. 
 
-Pour insérer une var html à l'intérieur de mon paragraphe il va faloir utiliser la fonction dangerouslysetinnerhtml.
-
-Incrémentation du num 1 et trois dans ma boucle pour les parties
-
-Présentation formateur bloc simple
-
-Insérer vignette dpc Fifpl pour présenter les prises en charge auxquelles ils sont éligibles
+Toutes ces infos sont valides l'instant T, si jamais l'une d'entre elle n'est plus à jour merci de prendre deux petites minutes pour vos futures collègues dev afin de leur fluidifier le travail. L'efficience collective passe par des actions comme ça.

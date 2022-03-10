@@ -1,0 +1,78 @@
+{
+    "id": "chirurgie-muco",
+    "title": "La chirurgie muco-gingivale",
+    "shortDescription": "Apprenez à maitriser l’ensemble des étapes et des techniques indispensables pour intégrer la chirurgie muco-gingivale dans votre pratique quotidienne.",
+    "supports": [
+        "dpc",
+        " "
+    ],
+    "teaser": "655896082",
+    "description": " <br/><br/>Les problèmes de récessions et défauts des tissus mous sont souvent source de stress et d’angoisse pour nos patients.  <br/><br/>De plus, certaines chirurgies muco-gingivales sont parfois nécessaire afin d’assurer la pérennité d’un traitement prothétique.<br/><br/>Les greffes et gestion des tissus mous font appellent à des connaissances histologiques particulières mais aussi à une certaine maitrise technique.<br/><br/> L’objectif de cette formation est de vous apprendre à mener à bien diagnostiquer les récessions, d’identifier leurs origines, de supprimer leurs étiologies puis de les traiter. <br/><br/> À la fin de cette formation, vous maitriserez toutes les étapes de A à Z nécessaires à la mise en place de la chirurgie muco-gingivale dans votre pratique quotidienne.",
+    "goals": [
+        "Maitriser les fondamentaux de l’anatomie et de l’histologie pour savoir où et comment prélever.",
+        "Identifier et poser le bon diagnostic pour obtenir un résultat prédictible et stable dans le temps.",
+        "Poser l’indication des greffes muco-gingivales et leurs limites.",
+        "Réaliser sereinement vos premières greffes épithélio-conjonctive, conjonctif enfoui en tunnel et lambeaux déplacés coronairement.",
+        "Gérer les échecs et les complications.",
+        "Les trucs et astuces pour simplifier votre pratique quotidienne immédiatement.",
+        "Utiliser les bons instruments pour inciser et suturer proprement.",
+        "Communiquer efficacement avec vos patients, délivrer les bons conseils post-opératoires et codifier correctement vos actes."
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : Les indications",
+            "description": "Débutons par définir toutes les indications et les objectifs des différentes chirurgies muco-gingivales.<br/> Nous verrons les étiologie des récessions, les conseils de brossage, les objectifs et la nécessité de greffer, ainsi que les contre-indications et classifications actuelles."
+        },
+        {
+            "title": "Partie 2 : Le matériel indispensable",
+            "description": "Nous passerons en revue l’ensemble du matériel indispensable à nos chirurgies et comment l’utiliser."
+        },
+        {
+            "title": "Partie 3 : Les incisions et les sutures",
+            "description": "Nous décortiquerons la base indispensable pour réaliser sereinement l’ensemble de vos chirurgies muco-gingivales, à l’aide de protocoles cliniques en vidéos détaillés de A à Z. "
+        },
+        {
+            "title": "Partie 4 : La greffe épithélio-conjonctive",
+            "description": " Rentrons dans le vif du sujet : nous verrons tout le protocole complet en vidéo en « over the shoulder » pour réaliser votre toute première greffe épithélio-conjonctive."
+        },
+        {
+            "title": "Partie 5 :La greffe conjonctive enfouie en tunnel ",
+            "description": "Place à la greffe de conjonctif enfouie tunnélisée détaillée et commentée étape par étape en vidéo."
+        },
+        {
+            "title": "Partie 6 : Les lambeaux déplacés coronairement",
+            "description": "Les Drs Rzeznik et Jalladaud vous décortiqueront tout le protocole clinique des lambeaux déplacés coronairement, de l’indication jusqu’aux sutures et contrôle post-op."
+        },
+        {
+            "title": "Partie 7 :Prescription et conseils post-opératoire ",
+            "description": " Une chirurgie réussie se réalise également à l’aide d’une prescription réussie et au suivi rigoureux des conseils post-opératoire de vos patients."
+        },
+        {
+            "title": "Partie 8 : Échecs et complications",
+            "description": " Toutes vos chirurgies ne se passeront pas comme prévu et c’est normal. Nous verrons dans cette partie toutes les techniques et astuces pour gérer ces aléas sereinement : pourquoi, quand et comment (ré)intervenir."
+        },
+        {
+            "title": "Partie 9 : La mise en place dans votre pratique quotidienne",
+            "description": "Comment parfaitement intégrer vos chirurgies dans la réalité de votre pratique quotidienne : comment communiquer avec vos patients, quels honoraires facturer et quels actes CCAM utiliser."
+        },
+        {
+            "title": "Partie 10 :  Cas particuliers pour aller plus loin",
+            "description": "Nous explorerons les cas particuliers et les perspectives d’avenir avec de nouvelles techniques. Nous verrons également comment mettre la chirurgie muco-gingivale au service de l’orthodontie. "
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "rzenzik",
+            "name": "Dr Matthias RZEZNIK",
+            "description": "Pratique à Paris une activité de Parodontologie et Implantologie orale exclusive. L’intégration d’un master spécialisé en parodontie lui a permis d’allier la recherche clinique à la pratique. Il a complété sa formation par un diplôme inter-universitaire européen en implantologie orale dont il est sorti major en 2018. Ancien assistant hospitalo-universitaire à l’université de Paris Descartes, pendant 4 années, il est également auteur de nombreuses publications et articles scientifiques et d’un ouvrage spécialisé sur la parodontie. Il a su développer une philosophie de traitement parodontal basée sur la prévention et la mise en place de thérapeutiques très peu invasives. Fort de nombreuses années d’expériences en tant que formateur et conférencier international, il puise sa motivation dans le partage et l’échange d’expériences entre confrères et consoeurs pour insuffler une nouvelle vision à la parodontie."
+        }
+        {
+            "id": "jalladaud",
+            "name": "À la suite du DU de Parodontie Clinique de Paris 5 et du Master 2 spécialité Parodontie, le Dr Jalladaud a complété sa formation avec un DU d’Implantologie. Ces formations lui ont permis d’acquérir des connaissances et compétences en parodontologie, qui est une discipline qu’elle apprécie particulièrement pour sa dimension médicale. Actuellement, Assistante Hospitalo-Universitaire en Parodontologie à Paris 5, elle exerce au sein d’un cabinet de groupe, une pratique axée sur la parodontie médicale et chirurgicale, ainsi que sur la dentisterie numérique, adhésive et esthétique. Vice présente de la Société Odontologie de Paris, et membre de la Bioteam Paris, elle est auteure de nombreuses publications et a su animer plus d’une vingtaine de conférences au cours de ces dernières années."
+        }
+    ]
+}

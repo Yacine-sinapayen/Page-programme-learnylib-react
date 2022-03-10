@@ -1,0 +1,58 @@
+{
+    "id": "recrutement",
+    "title": "Le recrutement au cabinet dentaire : Trouver, recruter et intégrer le meilleur profil",
+    "shortDescription": "Ensemble, apprenons tout ce qu’il faut savoir pour réussir la sélection, le recrutement et l’intégration des nouveaux membres de votre cabinet.",
+    "supports": [
+        "",
+        ""
+    ],
+    "teaser": "655893788",
+    "description": "Le recrutement est une étape incontournable pour tout cabinet en croissance, mais il s’agit d’une étape qui peut être stressante pour vous, comme pour votre équipe. <br/><br/>Y accorder un peu de temps au départ sera la clé pour que le processus se passe sans heurt, du choix du meilleur profil disponible à une intégration optimale au sein de votre cabinet, pour développer une relation de travail productive et enrichissante à long terme.  <br/><br/> Vous souhaitez avoir un aperçu de la marche à suivre ? N’hésitez pas à démarrer avec <a href='https://www.learnylib.fr/recrutement-en-cabinet-dentaire/'>notre article sur le sujet.</a> Sinon, place à la formation ! <br/><br/> Apprenons ensemble, par des méthodes simples et directement applicables, à mener un recrutement de A à Z. <br/><br/> ",
+    "goals": [
+        "Planifier votre recrutement.",
+        "Rédiger la fiche de poste.",
+        "Définir les critères objectifs de choix des candidat.e.s.",
+        "Construire les outils simples qui vous accompagneront dans votre choix.",
+        "Ajuster votre comportement en entretien et quelles questions poser.",
+        "Annoncer votre décision positive ou négative au.x candidat.e.s.",
+        "Éviter les écueils et biais psychologiques qui peuvent vous écarter du choix rationnel.",
+        "Réussir l’intégration du candidat.e au sein de votre équipe."
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : Préparer le processus de recrutement",
+            "description": "Nous débuterons par identifier les moyens nécessaires pour initier correctement son recrutement : temps, lieux, intervenants, budget, outils…"
+        },
+        {
+            "title": "Partie 2 : Définissez les critères de choix des candidat.e.s",
+            "description": "Apprenons à définir les principaux déterminants qui feront la différence entre les candidat.e.s, pour définir le plus précisément le profil idéal que nous souhaitons intégrer en fonction de vos besoins."
+        },
+        {
+            "title": "Partie 3 : Les étapes clés du recrutement",
+            "description": "Nos critères sont définis, il est temps de passer au recrutement en lui même. Nous verrons toutes les étapes à mettre en place pour démarrer votre processus : les premiers contacts avec votre candidat.e, de l’entretien physique jusqu’aux essais."
+        },
+        {
+            "title": "Partie 4 : Le bilan et la décision",
+            "description": "Nous verrons comment faire le bon choix entre toutes les candidatures, comment annoncer notre choix aux candidat.e.s, qu’il soit positif ou négatif."
+        },
+        {
+            "title": "Partie 5 : Réussir l’intégration du candidat",
+            "description": "Votre choix est donc fait, félicitations. Cependant, il est maintenant essentiel de réussir l’intégration de votre employé.e. Nous verrons comment réussir son intégration et optimiser sa prise de poste."
+        },
+        {
+            "title": "Partie 6 : Entretiens en conditions réelles",
+            "description": "Passons à la pratique. Nous verrons comment Julien Da Silva mène ses entretiens téléphoniques et physiques pour recruter une assistante dentaire. Nous décortiquerons les scripts et trames utilisés."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "silva",
+            "name": "Julien Da Silva",
+            "description": "Expert en gestion des risques, son parcours lui a permis de mettre en œuvre ses compétences organisationnelles et rédactionnelles dans le cadre de projets ambitieux à l’international. Chef d’entreprise, et aujourd’hui responsable administratif et financier, il a une connaissance pointue des ressources humaines et des problématiques de gestion. Avec de nombreux proches chirurgiens-dentistes, il est parfaitement au courant de notre réalité et de nos attentes."
+        }
+    ]
+}

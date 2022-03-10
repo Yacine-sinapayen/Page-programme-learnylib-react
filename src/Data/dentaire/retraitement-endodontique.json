@@ -1,12 +1,12 @@
 {
-    "id": "chir-endodontique",
+    "id": "retraitement-endodontique",
     "title": "Le retraitement et la chirurgie endodontique",
     "shortDescription": "Apprenez à maitriser l’ensemble des étapes du RTE orthograde et chirurgical, de l’analyse initiale à l’obturation finale, dans votre pratique quotidienne.",
     "supports": [
-        " Programme intégré dpc ",
+        "dpc",
         " "
     ],
-    "teaser": " ",
+    "teaser": "655894101",
     "description": "Nous sommes régulièrement amenés à réaliser des retraitements endodontiques, souvent sources de stress et de difficultés : comment planifier votre traitement, contourner et retirer les instruments cassés, comment gérer les perforations et les fausses routes et bien d’autres obstacles.",
     "goals": [
         "Comprendre quand et comment réaliser votre retraitement endodontique.",
@@ -135,9 +135,14 @@
     ],
     "teachers": [
         {
-            "id": "",
-            "name": "",
-            "description": ""
+            "id": "minard",
+            "name": "Dr Alexandra MINARD",
+            "description": "Endodontiste exclusive à Paris, le Dr Alexandra Minard est passionnée par cette discipline. Elle s’est formée grâce au compagnonnage auprès de praticiens très expérimentés et reconnus ainsi que par de nombreuses formations privées. Elle est animée également par l’envie de partager ses connaissances et transmettre sa passion aux praticiens en manque de confiance et d’appétence pour cette discipline."
+        },
+        {
+            "id": "setbon",
+            "name": "Dr Hugo SETBON",
+            "description": "Depuis ses premiers stages cliniques, le Dr Hugo Setbon a montré un tropisme certain pour l’endodontie. Après s’être spécialisé dans cette discipline à l’Université Libre de Bruxelles, il est resté attaché au milieu universitaire en étant assistant hospitalier pendant 6 ans. Aujourd’hui il a une pratique libérale exclusive d’endodontie à Bruxelles et continue de transmettre sa passion en tant que conférencier et formateur."
         }
     ]
 }

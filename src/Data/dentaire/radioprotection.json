@@ -1,0 +1,62 @@
+{
+    "id": "radioprotection",
+    "title": "Radioprotection et contrôle qualité :formation validante",
+    "shortDescription": "Maitrisez les principes de la radioprotection et du contrôle qualité, pour votre sécurité et celle de vos patients. <br/> Et obtenez votre attestation validante valable 10 ans.",
+    "supports": [
+        "",
+        ""
+    ],
+    "teaser": "655893605",
+    "description": "Au cabinet dentaire, la radioprotection, comme l’hygiène est un gage de sécurité pour le patient. <br/><br/> Cette formation à caractère obligatoire, a été élaborée à partir de la dernière décision de l’autorité de sûreté nucléaire, en tenant compte aussi du guide professionnel des sociétés savantes en chirurgie dentaire.<br/><br/> A partir de situations concrètes évoquées, vous serez en mesure de mettre en oeuvre les principes de justification et d’optimisation. ",
+    "goals": [
+        "Comprendre l’intérêt de la radioprotection et la mise en place de ces principes dans sa pratique quotidienne.",
+        "Maitriser les rayonnements ionisants et les facteurs influençant les effets biologiques d’une exposition.",
+        "Interpréter les différentes unités de mesure et apprendre l'échelle d'effets déterministes.",
+        "Avoir conscience des doses habituellement délivrées en radiologie dentaire.",
+        "Maitriser les règles de radiovigilance et réaliser un contrôle qualité.",
+        "Intervenir chez des populations à risque comme les enfants, les accompagnants et les femmes enceintes.",
+        "Répondre à l'obligation d'assurance qualité.",
+        "Appliquer les moyens de communication efficaces afin de faire comprendre les enjeux à vos patients."
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : Pourquoi cette formation ?",
+            "description": "Commençons par définir l’intérêt de cette formation, et son caractère obligatoire."
+        },
+        {
+            "title": "Partie 2 : Généralités en radioprotection",
+            "description": "Découvrons l’histoire, les définitions et les principes fondamentaux de la radioprotection et de son utilisation médicale."
+        },
+        {
+            "title": "Partie 3 : Effets biologiques des rayonnements ionisants",
+            "description": "Analysons les différents rayonnements ionisants et les facteurs influençant les différents effets biologiques d’une exposition. "
+        },
+        {
+            "title": "Partie 4 : Les unités de mesure ",
+            "description": "Nous étudierons toutes les différentes unités de mesure, échelle d’effets et doses habituellement délivrées en radiologie dentaire."
+        },
+        {
+            "title": "Partie 5 : Assurance de qualité",
+            "description": "Nous aborderons l’obligation d’assurance qualité, le concept de NRD, le contrôle qualité et les obligations réglementaires. Nous verrons également la radiovigilance et les évènements significatifs de radioprotection"
+        },
+        {
+            "title": "Partie 6 : Les patients à risques",
+            "description": "Nous décrirons les cas particuliers des patients à risques que sont les enfants, les accompagnants et les femmes enceintes, et comment les prendre en charge."
+        },
+        {
+            "title": "Partie 7 : Le contrôle qualité",
+            "description": "Revenons sur le contrôle qualité, avec un abord plus clinique et pratico-pratique. Nous verrons à l’aide d’un tutoriel comment être en mesure de réaliser soi-même son contrôle qualité."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "binet",
+            "name": "Laurent BINET",
+            "description": "Initialement diplômé en tant que manipulateur en électroradiologie médicale, Mr Laurent Binet est maintenant Cadre de Santé Enseignant en Imagerie Médicale Institut des Métiers de la Santé – IFMEM CHU de Bordeaux. Il a su tout au long de sa carrière multiplier les formations dans le domaine de la radioprotection afin de pouvoir à son tour former dans ce domaine. En plus de la radioprotection, Mr Binet a également une expertise en ce qui concerne le Code Beam et la mise en œuvre des tests de contrôle qualité en imagerie médicale."
+        }
+    ]
+}

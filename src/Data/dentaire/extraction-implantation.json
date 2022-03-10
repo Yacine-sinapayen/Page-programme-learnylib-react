@@ -1,0 +1,63 @@
+{
+    "id": "extraction-implantation",
+    "title": "Extraction implantation et mise en charge immédiate en secteur antérieur",
+    "shortDescription": "Apprenez toutes les étapes de A à Z, de l’analyse 3D et la planification, jusqu’à l’intervention chirurgicale en secteur esthétique antérieur.",
+    "supports": [
+        "dpc",
+        " "
+    ],
+    "teaser": "655896669",
+    "description": "Face aux attentes esthétiques grandissantes de nos patients, l’extraction implantation immédiate en secteur antérieur se doit de relever le défi de satisfaire vos attentes. <br/><br/> Cette technique est incontournable pour la prise en charge de patients victimes de la perte d’une incisive maxillaire. <br/><br/>En effet, que vous soyez débutants ou expérimentés, vous serez confrontés au remplacement d’une dent en secteur esthétique. <br/><br/>L’enjeu esthétique et les contraintes fonctionnelles de cette région anatomique font de cette méthode, un geste opératoire délicat qui se doit être mené a bien après analyses, réflexions et avec une bonne maitrise technique.  <br/><br/> Grâce à cette formation, vous aurez toutes les clés pour réaliser le remplacement de cette dent par une solution implantaire, immédiate, de manière prédictible et reproductible en toute sérénité. <br/><br/> De la réflexion initiale au traitement final, apprenons ensemble, dans cette formation validante, à maitriser les extractions implantations et mises en charges immédiates. <br/><br/> ",
+    "goals": [
+        "Comprendre et interpréter les différents examens cliniques et radiologiques pré-opératoires.",
+        "Maitriser les techniques d'aménagements osseux et tissulaires antérieures maxillaire dans le cadre d’une extraction implantation immédiate.",
+        "Prendre en charge les complications sans stress.",
+        "Appliquer les protocoles de l'intervention chirurgicale, jusqu’aux réévaluations et contrôles de cicatrisation.",
+        "Simplifier votre pratique quotidienne immédiatement.​",
+        "Communiquer et sensibiliser vos patients aux traitements et délivrer les bons conseils post-opératoires.​",
+        "Utiliser les meilleurs instruments et matériaux.​",
+        "Organiser clairement et facilement votre plan de traitement et facturer vos actes.​"
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : Introduction",
+            "description": "Nous ferons un point général de tout ce qu’il faut savoir avant d’aborder sereinement les extractions implantations et mise en charge immédiate dans le secteur antérieur maxillaire : les définitions, l’anatomie et les grands principes."
+        },
+        {
+            "title": "Partie 2 : Pourquoi intervenir ?",
+            "description": "Pourquoi vouloir passer par une technique d’extraction implantation et mise en charge immédiate ? Nous aborderons les notions esthétiques fondamentales, l’extraction et le remodelage ainsi que les stratégies de préservation anatomique."
+        },
+        {
+            "title": "Partie 3 : Quand intervenir ?",
+            "description": "Nous aborderons ici les différentes analyses cliniques à réaliser pour envisager une extraction implantation immédiate. <br/> Quelles sont les indications de ces techniques et leurs limites."
+        },
+        {
+            "title": "Partie 4 : Comment intervenir ?",
+            "description": "Rentrons dans le vif du sujet : nous verrons tous les protocoles cliniques en vidéo et commentés, adaptés au cas par cas : opératoires, analogiques, mixtes et 100% digital.<br/> La planification et l’intervention n’auront plus aucun secret pour vous."
+        },
+        {
+            "title": "Partie 5 : À votre tour de vous lancer !",
+            "description": "Nous verrons toutes les techniques et astuces immédiatement applicables dans votre pratique quotidienne. <br/> Nous aborderons également tout un volet sur la mise en place d’une communication efficace et sereine avec vos patients."
+        },
+        {
+            "title": "Le matériel et les produits à utiliser",
+            "description": "Les Drs Cortasse et Mourlaas vous détailleront tout le matériel et les produits indispensables pour faciliter la mise en place de vos extractions implantations en secteur antérieur."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "cortasse",
+            "name": "Dr Benjamin CORTASSE",
+            "description": "Le Dr Benjamin CORTASSE est diplômé de l’université de Montpellier. Il poursuit ses études avec l’obtention d’un CES de Biomatériaux, puis un CES de Parodontologie, avant d’obtenir une DU en Implantologie Orale puis Expertise Maxillofaciale. Il exerce en cabinet privé en Provence et est formateur en implantologie et parodontologie au sein de différents diplômes universitaires, ainsi que dans de nombreuses sociétés scientifiques. Il est l’auteur de nombreux articles et partage en tant que conférencier reconnu au national et international, sa passion au sein de la profession."
+        },
+        {
+            "id": "mourlaas",
+            "name": "Dr Julien MOURLAAS​",
+            "description": "Le Docteur Julien Mourlaas est diplômé de l’Université René Descartes- Paris V. Après plusieurs années d’exercice en omnipratique à Paris, il devient Résident à l’Ashman Department for Periodontology and Implant Dentistry de New York University pour 2 ans en temps plein. De retour en France, il limite son activité à l’implantologie et développe activement la chirurgie micro-gingivale et chirurgie plastique parodontale. Le Docteur Mourlaas est également co-rédacteur en chef du journal scientifique « Titane » (Quintessence Publishing), conférencier et intervenant au sein de divers organismes et sociétés scientifiques."
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "cone-beam",
+    "title": "Cone Beam CBCT : formation validante",
+    "shortDescription": "Utilisez et cotez vos examens CBCT. Sa cotation CCAM LAQK027 est subordonnée au suivi de cette formation spécifique à la lecture, analyse et application du Cone Beam.",
+    "supports": [
+        " ",
+        " "
+    ],
+    "teaser": "655896293",
+    "description": "Au cabinet dentaire, le cone beam assure une imagerie efficace et un diagnostic fiable. Il permet un suivi plus spécifique de certaines pathologies et de développer une activité d’implantologie. <br/><br/> Cette formation à caractère obligatoire vous permettra d’exploiter le potentiel d’un code beam et de respecter le principe d’optimisation des doses en radioprotection, tout en bénéficiant de la prise en charge pour vos patients de la cotation de son utilisation.   <br/><br/> Grâce à cette formation, vous aurez tous les fondements théoriques de l’imagerie numérique ainsi qu’une maitrise des paramètres d’acquisition et leurs influences sur les critères de qualité d’image. <br/><br/> Une partie clinico-pratique viendra compléter cette formation. Elle est présentée par des chirurgiens dentistes qui enseigneront leurs techniques et astuces d’analyse et de lecture et de l’intérêt du Cone Beam dans les différentes disciplines de la dentisterie. <br/><br/> <br/><br/> À l’image des réglementations qui évoluent rapidement, cette formation est actualisée régulièrement. Si vous souhaitez en savoir plus avant de démarrer, découvrez <a href='https://www.learnylib.fr/cone-beam-les-informations-a-connaitre-par-les-dentistes/'>notre article sur le Cone Beam</a>, les informations à connaître pour les dentistes.",
+    "goals": [
+        "Comprendre le fonctionnement et les indications du Cone Beam.",
+        "Connaitre les principes fondamentaux de la radioprotection.",
+        "Maitriser les différents réglages en fonctions des différentes indications.",
+        "Interpréter les résultats obtenus et savoir se repérer sur les différents plans, et reconnaitre les éléments anatomiques.",
+        "Analyser et reconnaitre les différents types de lésions et intervenir sur les réglages pour les mettre en évidence dans toutes les situations possibles.",
+        "Mettre le Cone Beam au service des différentes disciplines de la dentisterie. Délivrer les bonnes informations aux patients.",
+        "Connaitre les moyens de communication efficaces afin de faire comprendre les enjeux à ses patients et ses accompagnateurs.",
+        "Comprendre à l’aide de vidéos pratiques commentées afin d'illustrer l'ensemble du contenue de cette formation."
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : Les spécificités de l’imagerie numérique médicale",
+            "description": "Débutons par voir les bases de l’imagerie numérique et son application dans le médicale. Définitions, terminologie, fonctionnement, vous saurez tout à l’issue de cette partie."
+        },
+        {
+            "title": "Partie 2 : Le Cone Beam dans la pratique dentaire",
+            "description": "Rentrons de manière plus spécifique sur la place du Cone Beam dans la pratique dentaire : son histoire, les différents appareils, les méthodes d’acquisition et tout l’aspect technique."
+        },
+        {
+            "title": "Partie 3 : La clinique",
+            "description": "Nous aborderons toutes les applications possible du cone beam dans les différentes disciplines de la dentisterie."
+        },
+        {
+            "title": "Partie 4 : Chirurgie orale",
+            "description": "Nous verrons les indications, limites et conseils d’utilisation du Cone Beam au service de la chirurgie orale, de l’extraction des dents de sagesse, à la chirurgie maxillo-faciale."
+        },
+        {
+            "title": "Partie 5 : Parodontologie",
+            "description": "Nous verrons les indications, limites et conseils d’utilisation du Cone Beam au service de la parodontologie, de l’exploration de lésions infra-osseuses et inter-radiculaire aux lésions endo-parodontales."
+        },
+        {
+            "title": "Partie 6 : Endodontie",
+            "description": "Nous découvrirons les indications, limites et conseils d’utilisation du Cone Beam au service de l’endodontie, des traitements et retraitements endodontiques, à la recherche de fractures et fêlures. Nous verrons également les méthodes pour réduire les artefacts et les recommandations pour bien choisir ses plans."
+        },
+        {
+            "title": "Partie 7 : Planification implantaire",
+            "description": "Nous découvrirons les indications, limites et conseils d’utilisation du cone beam au service de la planification implantaire, pour un implant simple ou un projet d’implants multiples. "
+        },
+        {
+            "title": "Partie 8 : Sinus",
+            "description": " Nous découvrirons les indications, limites et conseils d’utilisation du Cone Beam pour l’exploration sinusienne. L’exploration d’un sinus sain, versus un sinus pathologique. Cet examen est utile dans le cas d’une planification d’augmentation de volume osseux de cette zone par abord cristal ou latéral, nous verrons comment bien l’exploiter."
+        },
+        {
+            "title": "Partie 9 : Pathologies osseuses",
+            "description": " Nous verrons les indications, les limites et conseils d’utilisation du Cone Beam au service de la recherche de pathologies osseuses. Plusieurs cas clinique seront présentés pour aiguiser votre regard."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "binet",
+            "name": "Laurent BINET",
+            "description": "Initialement diplômé en tant que manipulateur en électroradiologie médicale, Mr Laurent Binet est maintenant Cadre de Santé Enseignant en Imagerie Médicale Institut des Métiers de la Santé – IFMEM CHU de Bordeaux. Il a su tout au long de sa carrière multiplier les formations dans le domaine de la radioprotection afin de pouvoir à son tour former dans ce domaine. En plus de la radioprotection, Mr Binet a également une expertise en ce qui concerne le Code Beam et la mise en œuvre des tests de contrôle qualité en imagerie médicale."
+        },
+        {
+            "id": "savanne",
+            "name": "Dr Loïc SAVANNE",
+            "description": "Le Dr Loïc Savanne est diplômé de l’université Paris Descartes. Il est Assistant Hospitalo-Universitaire en Chirurgie Orale à l’hôpital Henri Mondor, et assure les enseignements d’Imagerie à la Faculté de Chirurgie-Dentaire de l’université de Paris. Il a renforcé sa formation en Chirurgie (C.E.S de Paris), en Implantologie (D.U d’Evry), en Pathologie de la Muqueuse Buccale (D.I.U de Sorbonne Université) et en Carcinologie Buccale (D.U de Sorbonne Université). Il a une activité libérale limitée à la Chirurgie Orale à Paris XVII."
+        },
+        {
+            "id": "brun",
+            "name": "Dr Adrian BRUN",
+            "description": "Le Dr Adrian Brun est diplômé de l’université Paris Descartes. Il est Maître de Conférences en Parodontologie à la Faculté de Chirurgie-Dentaire de l’université de Paris. Il est également Praticien Hospitalier à l’hôpital Henri Mondor où il est responsable de la discipline de Parodontologie et au sein duquel il exerce aujourd’hui une pratique exclusive en Parodontologie, Implantologie Orale et Pathologie de la Muqueuse Buccale. Après sa formation clinique en Parodontologie (master et C.E.S à Paris), il a renforcé sa formation en Implantologie (SAPO Implant) et en Pathologie de la Muqueuse Buccale (D.I.U à Sorbonne Université). Il est membre fondateur de l’association “ParoClap” et de la structure de formation “La Parodontie Autrement”."
+        }
+    ]
+}

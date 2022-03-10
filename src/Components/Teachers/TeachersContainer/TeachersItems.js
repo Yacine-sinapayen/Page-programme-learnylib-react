@@ -1,5 +1,5 @@
 import React from 'react'
-import data from '../../../Data/data.json';
+import data from '../../../Data/installation-liberale.json';
 
 export default function TeachersItems() {
   return (
@@ -16,6 +16,7 @@ export default function TeachersItems() {
             <p className='teacher-para'>{teacher.description}</p>
           </div>
 
+        
           <div className='teacher-img-container mrg-l15 flex middle'>
             <img className='teacher-img w200 ' src={'https://formations.learnylib.com/api/v1/uploads/public/teacher_' + teacher.id + '.jpg'} alt="teacher" />
           </div>

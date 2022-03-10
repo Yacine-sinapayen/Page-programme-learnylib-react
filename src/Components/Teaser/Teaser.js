@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Teaser.css"
-import data from '../../Data/data.json';
+import data from '../../Data/installation-liberale.json';
 
 export default function Teaser() {
   return (

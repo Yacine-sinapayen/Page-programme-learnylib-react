@@ -1,0 +1,50 @@
+{
+    "id": "flux-numerique",
+    "title": "Le flux numérique en dentisterie",
+    "shortDescription": "Ensemble, apprenons tout ce qu’il faut savoir pour utiliser, maitriser et intégrer le flux numérique dans votre pratique quotidienne.",
+    "supports": [
+        "",
+        ""
+    ],
+    "teaser": "655890897",
+    "description": "Empreintes optiques, scanners faciaux, guides chirurgicaux… : la dentisterie moderne est au cœur de la révolution numérique. <br/><br/>En tant que chirurgien dentiste, le flux numérique permet d’aborder d’une nouvelle façon les plans de traitements, avec plus de sérénité et de manière reproductible dans le temps.  <br/><br/>Il permet de simplifier des thérapeutiques complexes, tout en améliorant la communication au sein du trio patient-praticien-prothésiste.  <br/><br/> Ces outils, qui semblent de premier abord difficiles à appréhender, nécessitent en effet de nouvelles connaissances, bien différentes du flux analogique. <br/><br/> L’objectif de cette formation est de vous permettre de prendre le virage de cette révolution de façon simple et éclairée. <br/><br/> Pour cela, les différences fondamentales entre le flux analogique et numérique seront exposées. Puis de façon progressives les spécificités inhérentes à ce dernier seront détaillées: de l’empreinte optique, en passant par le fichier 3D, jusqu’au fameux flux 100% digital. <br/><br/> Dans le but d’apprivoiser ces nouvelles technologies et permettre la mise en place d’une pratique moderne et sécuritaire au sein de votre cabinet.",
+    "goals": [
+        "Connaitre la différence, les avantages et inconvénients, entre un flux numérique et analogique.",
+        "Assimiler les possibilités et l’étendue des applications du flux numériques dans les différents domaine de la dentisterie.",
+        "Comprendre le fichier 3D, les sources d’acquisitions, l'empreinte optique, le scanner et le CBCT.",
+        "Superposer des données numériques.",
+        "Analyser et exploiter les différents formats d’acquisition.",
+        "Réaliser des empreintes sous digues.",
+        "S’affranchir des problèmes d’occlusion numériques grâce à une technique spécifique.",
+        "S’équiper correctement et intelligemment pour mettre le flux numérique au service de sa pratique."
+    ],
+    "program": [
+        {
+            "title": "Partie 1 :Flux analogiques et numériques",
+            "description": "Nous commencerons par définir les clés de compréhension du flux numérique, tout en faisant une mise en parallèle avec le flux conventionnel."
+        },
+        {
+            "title": "Partie 2 :Le fichier 3D",
+            "description": "Nous verrons l’ensemble des moyens et outils nécessaires à l’obtention d’un fichier 3D. L’empreinte optique, le scanner de table ou encore le CBCT seront présentés en détail afin de connaitre les indications et limites ainsi que les type de fichiers générés et leurs intérêts."
+        },
+        {
+            "title": "Partie 3 :La superposition des données numériques",
+            "description": "Apprenons à exploiter le plein potentiel du flux numérique et à en tirer profit. Les coordonnées 3D, le Matching, l’empreinte sous digue, les problématique de l’occlusion numérique, l’empreinte sur implant, la prothèse amovible complète numérique et autre n’auront plus de secret pour vous."
+        },
+        {
+            "title": "Le matériel à utiliser",
+            "description": "Le Dr Rabiey vous détaillera tout le matériel et les produits indispensables pour vous équiper numériquement."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "rabiey",
+            "name": "Dr Ahmed RABIEY",
+            "description": "Après un cursus classique et une solidification des connaissances par l’expérience, le Dr Rabiey avait comme vocation première d’apprendre la chirurgie avancée. Il s’est alors formé à la pratique de l’implantologie dans laquelle il découvre la chirurgie guidée, une des applications de la dentisterie numérique. Passionné de nouvelles technologies depuis son enfance, c’est en toute logique que le Dr Rabiey s’intéresse à l’application de ces nouveaux outils dans d’autres pans de la dentisterie : Prothèse, Esthétique, Occlusion. Il visionne alors les possibilités offertes par un tel flux et décide de se spécialiser dans la gestion prothétique et dans l’optimisation du flux numérique au quotidien. Il exerce actuellement une activité libérale spécialisée dans la prise en charge prothétique globale et partage avec plaisir sa passion au cours d’évènements/formations/R.Sociaux dans le but de transmettre cette nouvelle méthode de travail au plus grand nombre ; pour assurer des soins les plus prédictibles aux patients."
+        }
+    ]
+}

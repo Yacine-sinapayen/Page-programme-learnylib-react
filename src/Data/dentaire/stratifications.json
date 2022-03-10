@@ -1,0 +1,66 @@
+{
+    "id": "stratification",
+    "title": "Les stratifications directes antérieures",
+    "shortDescription": "Apprenez à maîtriser l’ensemble des étapes et des techniques indispensables pour faciliter vos restaurations directes antérieures, des cas simples aux plus complexes.",
+    "supports": [
+        "dpc",
+        ""
+    ],
+    "teaser": "655895375",
+    "description": "Avec le progrès de la dentisterie moderne, l’intégration du principe de l’économie et de la conservation tissulaire, les pertes de substances antérieures peuvent se traiter par des reconstitutions collées par méthode directe. <br/><br/>La restauration des dents antérieures par technique de stratification directe est une proposition très pertinente, tant au niveau biologique, qu’esthétique et économique.  <br/><br/>L’objectif de cette formation est de vous apprendre à mener à bien votre étude, réflexion, ainsi que de maitriser toutes les étapes de A à Z nécessaires à la restauration d’une ou plusieurs dent.s antérieure.s par technique de stratification directe, pour une mise en place immédiate dans votre pratique quotidienne.  <br/><br/>Du diagnostic, à l’analyse jusqu’au polissage final, en passant par la communication avec votre patient et le rôle de l’assistante, apprenons ensemble, dans cette formation validante, à maitriser les restaurations directes antérieures.",
+    "goals": [
+        "Poser l’indication des composites antérieurs et leurs limites.",
+        "Isoler correctement la zone de travail, préparer efficacement et de manière la plus conservatrice possible la dent à traiter.",
+        "Choisir judicieusement vos résines composites et systèmes adhésifs.",
+        "Maitriser l’analyse esthétique et morphologique des dents concernées et être capable de définir avec précision la couleur de la résine à utiliser.",
+        "Réussir la procédure d'adhésion, la stratification et la sculpture de la reconstitution pour un résultat optimal.",
+        "Appliquer les protocoles détaillés de A à Z, le réglage, la finition et le polissage des cas simples aux plus complexes.",
+        "Organiser efficacement et sans perte de temps vos séances de stratifications.",
+        "Communiquer efficacement avec vos patients et côter correctement vos actes."
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : Introduction",
+            "description": "Nous commencerons par un balayage de la littérature et une présentation des principes élémentaires des stratifications directes antérieures."
+        },
+        {
+            "title": "Partie 2 : Longévité des composites anterieurs",
+            "description": "Découvrons ensuite tous les facteurs influençant la durée de vie des restaurations antérieures par composite. Les facteurs patient, praticien et matériaux seront détaillés."
+        },
+        {
+            "title": "Partie 3 : Critères de décision",
+            "description": "Comment proposer la solution la plus adaptée à la situation de votre patient ? Nous listerons ici tous les éléments à prendre en compte pour faire le bon choix."
+        },
+        {
+            "title": "Partie 4 : Évolution des concepts",
+            "description": "Nous verrons les différents concepts de la stratification directe antérieure ainsi que leur évolution. Nous détaillerons le concept de l’érosion infiltration."
+        },
+        {
+            "title": "Partie 5 : Protocoles cliniques de A à Z",
+            "description": "Nous verrons tout le protocole de A à Z de la stratification : le choix de la couleur des différentes masses, l’élaboration d’un Wax Up, l’utilisation de la clé palatine, la mise en forme des préparations, l’isolation, le protocole d’adhésion, la constitution des murs palatins et proximaux, la photopolymérisation, la finition et le polissage final."
+        },
+        {
+            "title": "Partie 6 : Facturation et organisation du cabinet",
+            "description": "Nous détaillerons l’organisation du cabinet et de l’équipe clinique autour de ces séances de soins : de la facturation / cotation jusqu’à la communication praticien-patient."
+        },
+        {
+            "title": "Partie 7 : Cas cliniques expliqués et décortiqués",
+            "description": "Nous décortiquerons des dizaines de cas cliniques différents, filmés dans le cabinet du Dr Boujemaa : les protocoles complets, les succès et surtout les erreurs commises et comment aborder les échecs."
+        },
+        {
+            "title": "Le matériel et les produits à utiliser",
+            "description": "Le Dr Boujemaa vous détaillera tout le matériel et les produits indispensables pour faciliter vos traitements parodontaux."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "boujemaa",
+            "name": "Dr Wallid BOUJEMAA",
+            "description": "Le docteur Wallid Boujemaa exerce en cabinet libéral à Ondres. Diplômé de l’Université de Bordeaux en 2014, il a suivi de nombreuses formations post-universitaires – CES, DU, formations privées – dans des domaines aussi variés que la dentisterie restauratrice, l’endodontie, la prothèse fixée ou l’implantologie. Omnipraticien, il s’est très rapidement découvert une affinité pour la dentisterie contemporaine et adhésive. Ancien assistant hospitalo-universitaire en dentisterie restauratrice et endodontie, il est resté chargé d’enseignements à l’Université de Bordeaux. La transmission et le partage du savoir représentent pour lui une dimension fondamentale pour une profession de santé. Il a animé des conférences et travaux pratiques dans les domaines de la dentisterie restauratrice en France et à l’étranger. En outre, il est membre des groupes de réflexion esthétique Symbiose Bordeaux et Bioteam Bordeaux, ainsi que de la société de formation Restore."
+        }
+    ]
+}

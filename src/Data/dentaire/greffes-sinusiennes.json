@@ -1,0 +1,84 @@
+{
+    "id": "greffes-sinusiennes",
+    "title": "Les greffes sinusiennes",
+    "shortDescription": "Apprenez toutes les étapes de A à Z, de l’analyse 3D et la planification, jusqu’à l’intervention chirurgicale du comblement osseux sinusien pré-implantaire.",
+    "supports": [
+        "",
+        ""
+    ],
+    "teaser": "655891007",
+    "description": "Toutes réhabilitations implantaires nécessitent un volume osseux suffisant. <br/><br/> Cependant, la hauteur d’os disponible en regard des sinus maxillaire peut être déficiente, il est alors souvent indiqué d’avoir recourt aux greffes osseuses sinusiennes pré-implantaires pour réhabiliter les secteurs maxillaires postérieurs. <br/><br/>  Le comblement osseux sous sinusien nécessite cependant des pré-requis indispensables anatomiques, médicaux et chirurgicaux. <br/><br/>  Dans cette formation, nous verrons toutes les indications, contre indication, techniques et astuces chirurgicales étapes par étapes pour simplifier l’ensemble de l’intervention.<br/><br/> De la réflexion initiale au traitement final, apprenons ensemble, dans cette formation validante, à maitriser les greffes sinusiennes.",
+    "goals": [
+        "Connaitre l'anatomie de la région maxillaire-sinusienne.",
+        "Comprendre et interpréter les différents examens cliniques et radiologiques pré-opératoires.",
+        "Maitriser pas à pas les techniques d'aménagement osseux sinusien par voie crestale et latérale.",
+        "Les protocoles chirurgicaux détaillés de A à Z, des cas cliniques simples aux plus complexes.",
+        "Les trucs et astuces pour simplifier votre pratique quotidienne immédiatement.",
+        "Communiquer pour intégrer vos patients dans le traitement et le suivi post-opératoire.",
+        "Utiliser les meilleurs les produits et matériel chirurgical.",
+        "Prendre en charge les complications et comprendre les alternatives thérapeutiques."
+    ],
+    "program": [
+        {
+            "title": "Partie 1 :Comprendre l’anatomie du maxillaire",
+            "description": "Débutons par rappeler l’anatomie de la région maxillaire, les tissus, l’innervation et la vascularisation."
+        },
+        {
+            "title": "Partie 2 :La consultation pré-opératoire",
+            "description": "Nous verrons comment mener à bien tous nos examens pré-opératoire. L’examen médical avec les contre indications absolues et relatives. L’examen radiologique et clinique : l’abord latéral ou crestal. Et enfin l’analyse de l’espace prothétique disponible."
+        },
+        {
+            "title": "Partie 3 :La greffe sinusienne : description et techniques",
+            "description": "Rentrons dans le vif du sujet avec l’abord crestal et la technique de summers et toutes les étapes chirurgicales de l’abord latéral : l’incision et le décollement, le volet latéral, le décollement de la membrane, le comblement et le repositionnement de la fenêtre-suture."
+        },
+        {
+            "title": "Partie 4 :La biologie de la cicatrisation des greffes sinusiennes",
+            "description": ""
+        },
+        {
+            "title": "Partie 5 :Complications chirurgicales",
+            "description": "Comme toutes chirurgies, nous pouvons être amenés à faire face à des complications. Nous verrons comment les appréhender en per-opératoires : les perforations et les hémorragies. Et en post-opératoires : les hématomes/ecchymoses, l’hémosinus, les infections, la sinusite et les complications tardives (péri-implantites, sinus…)"
+        },
+        {
+            "title": "Partie 6 :La communication et le suivi chirurgical",
+            "description": "Nous verrons dans le détail toutes les prescriptions, les conseils post-opératoires, les informations à délivrer aux patients, l’importance du consentement et la réalisation du devis."
+        },
+        {
+            "title": "Partie 7 :Les alternatives thérapeutiques",
+            "description": "Nous étudierons les implants courts, les implants angulés, les implants zygomatiques et la pénétration sinusienne."
+        },
+        {
+            "title": "Partie 8 :Les techniques avancées de comblements sous-sinusiens",
+            "description": "Maintenant que les greffes sinusiennes n’ont plus de secrets pour vous, il est temps de passer au cas complexes. Nous verrons l’évaluation d’un sinus complexe, l’apposition de la fenêtre, la ROG, l’abord palatin, le sinus expansion, le sinus mini invasif, le « Dask » et la réintervention sinusienne."
+        },
+        {
+            "title": "Partie 9 :Travaux pratiques en vidéo",
+            "description": "Entrainons-nous sur un œuf pour réaliser une fenêtre « osseuse » et un soulevé de membrane."
+        },
+        {
+            "title": "Le matériel et les produits à utiliser",
+            "description": "Vos conférenciers vous détailleront tout le matériel et les produits indispensables pour faciliter vos greffes sinusiennes dans votre pratique quotidienne."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "thollot",
+            "name": "Dr Aurélien THOLLOT",
+            "description": "Pratiquant une activité libérale exclusive en implantologie, chirurgie osseuse et muco-gingivale péri-implantaire il est attaché d’enseignement dans différents diplômes universitaire. Le Dr THOLLOT s’est formé grâce au suivi de praticiens expérimentés et reconnus. Il a aussi suivi de nombreuses formations universitaires en France et des formations privées à l’étranger."
+        },
+        {
+            "id": "chaleil",
+            "name": "Dr Romain CHALEIL",
+            "description": "Diplômé de la faculté dentaire de Lyon en 2008, il a poursuivi son cursus d’apprentissage à travers de nombreuses formations privées et universitaires. Le Dr Chaleil, attaché d’enseignement pour différents DU d’implantologie, a une activité exclusive en chirurgie muco-gingivale, chirurgie pré implantaire et implantologie avec son associé le Dr Aurélien Thollot."
+        },
+        {
+            "id": "millot",
+            "name": "Dr Gaël MILLOT",
+            "description": "Pratiquant une activité libérale et hospitalière à Paris et ancien interne, il est spécialisé en chirurgie orale, avec une pratique exclusive en chirurgie et implantologie. Assistant Hospitalo-Universitaire au sein de l’Hôpital Henri Mondor où il enseigne cliniquement la chirurgie orale, il fait également partie de l’équipe enseignante pour les cours théoriques  de la faculté de Montrouge (Université de Paris). Il est aussi chargé d’enseignement pour des DU en implantologie et chirurgie pré-implantaire pour les université d’Evry, de Nice et Paris Sud."
+        }
+    ]
+}

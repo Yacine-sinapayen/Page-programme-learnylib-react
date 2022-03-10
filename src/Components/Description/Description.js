@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Description.css"
-import data from '../../Data/data.json';
+import data from '../../Data/installation-liberale.json';
 import Emojie from '../../assets/Emojie.svg';
 
 export default function Description() {
