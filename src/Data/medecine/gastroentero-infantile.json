@@ -1,0 +1,78 @@
+{
+    "id": "gastroentero-infantile",
+    "title": "Pédiatrie : Gastro-entérologie et nutrition infantile",
+    "shortDescription": "Maîtrisez les bases de la nutrition et les principaux troubles digestifs de l’enfant, et apportez le suivi adapté à chaque patient.",
+    "supports": [
+        "",
+        ""
+    ],
+    "teaser": "680040855",
+    "description": "Les troubles digestifs de l’enfant sont des motifs fréquents de consultation médicale, et peuvent être le point d’appel des pathologies aiguës ou chroniques très variées.<br/><br/>  Les parents sont par ailleurs très soucieux de l’alimentation de leurs enfants, à juste titre car de bonnes pratiques alimentaires et un bon état nutritionnel sont des gages d’une bonne santé future.<br/><br/>  En tant que médecin de premier recours, le généraliste joue un rôle important pour repérer les différentes maladies digestives et conseiller les familles. <br/><br/>Nous verrons dans cette formation : Comment s’orienter devant les différents symptômes digestifs : constipation, diarrhée chronique, douleurs abdominales, reflux gastro-œsophagien ? Comment prendre en charge les principaux tableaux digestifs aigus, afin de ne pas méconnaître une urgence médicale ou chirurgicale ? Comment aider les parents confrontés aux difficultés d’alimentation de leur enfant ?<br/><br/> Ensuite, nous aborderons les régimes inadaptés du nourrisson et leurs conséquences parfois dramatiques, les troubles des conduites alimentaires de l’adolescent, ainsi que le surpoids et l’obésité chez l’enfant. <br/><br/> Pour ces différents thèmes, nous proposerons : des cas cliniques illustrant les différentes pathologies, des arbres diagnostiques synthétisant la démarche clinique, des éléments de prise en charge ambulatoire, notamment les principaux examens complémentaires utiles en pratique libérale et les traitements de première ligne,  enfin le descriptif des situations nécessitant un avis spécialisé.<br/><br/> À l’issue de cette formation vous posséderez les outils pratiques pour prendre en charge les principaux troubles digestifs et nutritionnels des enfants",
+    "goals": [
+        "Comprendre les enjeux et principes d'une alimentation adaptée à l'enfant",
+        "Avoir la bonne démarche clinique afin de poser un diagnostic précis face à des troubles digestifs ",
+        "Accompagner et apporter un suivi adapté à chaque enfant   ",
+        "Connaitre les principaux troubles de l’alimentation du jeune enfant",
+        "Savoir dépister une anorexie mentale de la jeune fille ",
+        "Savoir dépister précocement une obésité infantile ",
+        "Connaitre les différentes causes de syndrome abdominal aigu chez l’enfant  ",
+        "Savoir évoquer une urgence chirurgicale abdominale chez l’enfant  "
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : Reflux gastro-oesophagien chez l’enfant",
+            "description": "Dans un premier temps, nous distinguerons RGO physiologique et pathologique chez le nourrisson et l’enfant. Nous parlerons des manifestations cliniques et des complications du RGO pathologique ; ainsi que des examens complémentaires nécessaires et des traitements à mettre en place."
+        },
+        {
+            "title": "Partie 2 : Constipation et encoprésie ",
+            "description": "A travers quelques exemples, nous verrons quelle est la démarche diagnostique à adopter face à une constipation de l’enfant. Nous verrons dans quels cas il faut penser à une constipation secondaire, en particulier à la maladie de Hirschsprung. Nous verrons en quoi consiste la prise en charge d’une constipation fonctionnelle du nourrisson et de l’enfant, et d’une encoprésie."
+        },
+        {
+            "title": "Partie 3 : Douleurs abdominales récidivantes ",
+            "description": "Nous étudierons les différentes orientations cliniques possibles des douleurs abdominales chroniques, en distinguant les symptômes dyspeptiques, intestinaux et extra-digestifs. Nous rappellerons les « drapeaux rouges » qui doivent nous conduire à demander un avis spécialisé."
+        },
+        {
+            "title": "Partie 4 : Diarrhée chronique",
+            "description": "Nous verrons comment confirmer avec certitude la présence d’une diarrhée chronique chez le nourrisson et l’enfant, quels éléments rechercher pour en identifier la cause. Nous rappellerons quand évoquer l’allergie aux protéines du lait de vache, la maladie cœliaque, une maladie inflammatoire chronique de l’intestin …. Nous verrons dans quels cas un avis spécialisé est nécessaire. "
+        },
+        {
+            "title": "Partie 5 : Gastro-entérites aiguës",
+            "description": "Nous rappellerons comment évaluer un nourrisson ou jeune enfant atteint de gastro-entérite aiguë (GEA) au cabinet. Nous rappellerons les signes devant faire évoquer une GEA bactérienne ainsi que les principes du traitement des GEA en ambulatoire. "
+        },
+        {
+            "title": "Partie 6 : Urgences abdominales au cabinet",
+            "description": "Nous détaillerons les éléments d’orientation devant un syndrome abdominal aigu, fébrile ou non fébrile. Nous verrons en particulier comment ne pas passer à côté des urgences médicales ou chirurgicales au cabinet. "
+        },
+        {
+            "title": "Partie 7 : Régimes alimentaires inadaptés du nourrisson ",
+            "description": "Nous étudierons les besoins nutritionnels du nouveau-né et du nourrisson. Les risques et complications de certains régimes alimentaires parfois mis en place par les parents seront passés en revue. "
+        },
+        {
+            "title": "Partie 8 : Nourrison ou enfant qui ne grossit pas  ",
+            "description": "Cette partie portera sur les causes pouvant être à l’origine de la dérégulation du poids d’un nourrisson ou d’un enfant, et sur les explorations à mener face à cette absence de prise de poids. "
+        },
+        {
+            "title": "Partie 9 : Troubles des conduites alimentaires ",
+            "description": "Nous verrons les différentes caractéristiques des troubles des conduites alimentaires existant et leurs conséquences."
+        },
+        {
+            "title": "Partie 10 : Repérages et prise en charge de l’obésité ",
+            "description": "Nous ferons tout d’abord un point sur l’évolution de la prévalence du surpoids dans le monde. Nous détaillerons ensuite les facteurs associés à cette pathologie afin de mieux la comprendre, la dépister et la prendre en charge."
+        },
+        {
+            "title": "Partie 11 : Troubles des conduites alimentaires de l’adolescent ",
+            "description": "Les troubles des conduites alimentaires de l’adolescent (anorexie, boulimie) sont fréquents et préoccupants pour les parents. Nous verrons comment les dépister et comment orienter les familles vers une prise en charge adaptée. "
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "lamireau",
+            "name": "Pr Thierry LAMIREAU",
+            "description": "Le Pr Thierry LAMIREAU a étudié à Londres et Montréal avant de prendre la responsabilité du service d’Hépato-Gastroentérologie et Nutrition Pédiatriques du CHU de Bordeaux. Ses centres d’intérêt cliniques sont principalement la maladie coeliaque, les maladies inflammatoires chroniques intestinales, les cholestases néonatales. Il travaille sur les conséquences nutritionnelles des évènements périnataux au sein de l’équipe INSERM “Lifelong exposures, health and ageing”. Il coordonne le Diplôme Inter-Universitaire d’Hépatologie, Gastroentérologie et Nutrition Pédiatriques et le Diplôme Universitaire de Médecine Générale de l’Enfant. Il est rédacteur en chef de la revue Perfectionnement en Pédiatrie. "
+        }
+    ]
+}

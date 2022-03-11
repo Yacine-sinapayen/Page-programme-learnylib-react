@@ -1,63 +1,45 @@
 {
-    "id": "",
-    "title": "",
-    "shortDescription": "",
+    "id": "management",
+    "title": "Management et communication à l’officine",
+    "shortDescription": "Déterminez vos axes prioritaires de progrès, votre portrait et votre plan managérial pour développer votre performance et la communication au sein de votre équipe officinale.",
     "supports": [
         "",
         ""
     ],
-    "teaser": "",
-    "description": " <br/><br/>  <br/><br/>  <br/><br/>  <br/><br/> ",
+    "teaser": "665679573",
+    "description": " Quelle que soit la tactique que vous ayez choisie pour réaliser votre performance, sa réussite dépendra de la façon dont vous managerez votre équipe officinale.<br/><br/> En effet, les métiers dans l’officine sont en perpétuel changement et son manager est un personnage clé de la vie dans la pharmacie. <br/><br/> Il est le producteur, metteur en scène et directeur des opérations pour faire réaliser son projet d’entreprise. <br/><br/> ",
     "goals": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Faire appliquer une méthode de travail et la suivre",
+        "Créer un esprit d’équipe harmonieux",
+        "Mettre en place une communication efficace au sein de l’officine : communication verbale, communication verbale non violente et communication interne",
+        "Savoir éviter et gérer les conflits au sein de son officine : les stades d'un conflit, les réactions managériales et la prévention",
+        "Identifier ses points forts et ses compétences managériales à développer",
+        "Savoir appliquer et adapter son style de management : connaître les 7 erreurs à ne pas reproduire et les 12 leviers de motivation à activer"
     ],
     "program": [
         {
-            "title": "Partie 1 : ",
-            "description": ""
+            "title": "Partie 1 : Comprendre les qualités de son management",
+            "description": "L’enjeu dans cette première partie est de comprendre votre capacité à accompagner votre équipe en identifiant vos compétences pour lesquelles vous vous estimez à l’aise et celles qui vous semblent à développer au regard des besoins de votre équipe."
         },
         {
-            "title": "Partie 2 : ",
-            "description": ""
+            "title": "Partie 2 : Comprendre le fonctionnement de son management",
+            "description": "Ensuite vous verrez que les enjeux sont la compréhension des moyens donnés au manager pour accompagner ses collaborateurs dans l’application de sa stratégie et garantir l’efficacité. L’objectif du chapitre est de s’approprier comment développer les compétences de ses collaborateurs, comment développer leur envie de les utiliser pour le collectif, tout en participant au bon fonctionnement de l’entreprise officinale. Et nous verrons également les différentes communications qui existent, la communication non verbale, la communication verbale non violente et la communication interne. La bonne communication au sein de votre officine est essentielle afin d’identifier les besoins de votre équipe mais également vos besoins en tant que manager. Vous apprendrez également à gérer votre communication afin de trouver le bon équilibre entre trop et pas assez de communication."
         },
         {
-            "title": "Partie 3 : ",
-            "description": ""
+            "title": "Partie 3 : Identifier son style de management",
+            "description": "Dans cette partie l’enjeu est de prendre conscience des styles que vous pouvez utiliser, souvent de façon inconsciente, et de vérifier leur impact à court et moyen terme sur votre efficacité. L’objectif est de séparer les actions qui ont peu d’efficacité de celles qui doivent mieux fonctionner en s’appuyant sur votre réalité du quotidien."
         },
         {
-            "title": "Partie 4 : ",
-            "description": ""
+            "title": "Partie 4 : Comprendre ce qui motive son équipe",
+            "description": "L’enjeu ici est d’avoir un regard professionnel bienveillant sur la connaissance de l’autre dans ses points forts et ses faiblesses pour le faire progresser dans sa motivation. Les objectifs seront en premier de vérifier que certaines erreurs managériales classiques et habituelles sont évitées ou au moins minimisées. En second, de maitriser les besoins spécifiques individuels et collectifs pour garder ce « mouvement en action », sans oublier d’apporter les compétences supplémentaires et nécessaires à la pharmacie par un plan de formation détaillé."
         },
         {
-            "title": "Partie 5 : ",
-            "description": ""
+            "title": "Partie 5 : Savoir communiquer en réunion",
+            "description": "La communication est essentielle et les enjeux sont la motivation, le sentiment d’appartenance, les valeurs de votre officine, l’équilibre parole/écoute. Les objectifs ici sont de structurer les échanges, d’adapter le type de réunion au besoin perçu (motif, lieu, durée, participants…) mais également de connaître tous les enjeux d’une réunion et ses a-côtés : une bonne préparation en amont, une structure adaptée pendant la réunion, savoir réagir face aux différentes réactions, sentiments et attitudes des participants, et enfin, clore de la meilleure manière chaque type de réunion."
         },
         {
-            "title": "Partie 6 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 7 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 8 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 9 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 10 : ",
-            "description": ""
+            "title": "Partie 6 : Apprendre à gérer les conflits",
+            "description": "Dans cette dernière partie vous verrez une des situations les plus complexes du management, la gestion des conflits. C’est souvent la situation la plus redoutée du manager, car il peut s’en apercevoir souvent tard au moment où cela éclate. L’enjeu est simple, maintenir la motivation de ses équipes. L’objectif est de travailler sur la prévention, choisir la réaction managériale adaptée aux circonstances et à votre objectif et savoir dire non."
         },
         {
             "title": "Exercices et fiches à télécharger",
@@ -66,9 +48,9 @@
     ],
     "teachers": [
         {
-            "id": "",
-            "name": "",
-            "description": ""
+            "id": "vedrine",
+            "name": "Dr Olivier VEDRINE",
+            "description": "Directeur régional puis Directeur des ventes dans l’industrie du médicament et des dispositifs médicaux, 25 ans d’expérience managériale dans les fonctions ventes et transverses, spécialiste dans l’élaboration de plan stratégique et du développement des compétences et 7 ans d’activité en officine, il accompagne aussi les managers des métiers dans la santé."
         }
     ]
 }

@@ -1,63 +1,42 @@
 {
-    "id": "",
-    "title": "",
-    "shortDescription": "",
+    "id": "phytotherapie",
+    "title": "Phytothérapie",
+    "shortDescription": "Maîtrisez la phytothérapie afin de conseiller vos patients et répondre à leurs maux quotidiens.",
     "supports": [
         "",
         ""
     ],
-    "teaser": "",
-    "description": " <br/><br/>  <br/><br/>  <br/><br/>  <br/><br/> ",
+    "teaser": "665680337",
+    "description": " Depuis 2009, la phytothérapie est de plus en plus plébiscitée, avec un chiffre d’affaires en pharmacie d’officine de 162 millions d’euros en 2015, qui augmente d’année en année <br/><br/> 75% des Français envisagent d’y avoir recours dans le futur, tandis que les traitements de phytothérapie génèrent moins d’1% des effets indésirables documentés et ce tous traitements confondus.<br/><br/>En tant qu’experte du médicament et très souvent première interlocutrice du patient, l’équipe officinale a vocation à se former sur la large palette de solutions que propose la phytothérapie.  <br/><br/>  <br/><br/> Nous détaillerons les différentes branches de la phytothérapie, les notions de qualité puis le contexte législatif dans lequel elle s’inscrit.<br/><br/> Vous les vendez au quotidien à l’officine, tisanes, extraits fluides ou gélules, mais les avez-vous déjà manipulés ?<br/><br/> Nous vous montrerons ces produits en détails. <br/><br/>Nous vous donnerons tous les conseils pour répondre aux maux quotidiens de vos patients : la fatigue, l’immunité, les problèmes respiratoires, articulaires et digestifs, le stress, le sommeil, les baisses de moral, ainsi que le désir de minceur.  <br/><br/>Cette formation sera ponctuée de nombreux cas pratiques rencontrés au comptoir et basée sur des résultats d’études cliniques récentes. <br/><br/> Vous aurez ainsi à disposition des outils pratiques vous permettant dès demain de mettre en place ces conseils à l’officine.",
     "goals": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Approfondir ses connaissances sur l’histoire de la phytothérapie",
+        "Connaitre et maîtriser les différentes formes galéniques utilisées en phytothérapie",
+        "Mieux comprendre les besoins du patient et améliorer sa prise en charge officinale"
     ],
     "program": [
         {
-            "title": "Partie 1 : ",
-            "description": ""
+            "title": "Partie 1 : Grandes figures historiques de la phytothérapie",
+            "description": "Nous débuterons cette formation par retracer l’histoire de la phytothérapie depuis l’antiquité jusqu’à aujourd’hui, nous reverrons les grands phytothérapeutes qui ont contribué à l’essor de la phytothérapie au fil du temps."
         },
         {
-            "title": "Partie 2 : ",
-            "description": ""
+            "title": "Partie 2 : Définition de la phytothérapie",
+            "description": "Dans un second temps nous reverrons la définition exacte de la phytothérapie et les différentes branches qui la constitue : l’herboristerie avec les tisanes, la phytothérapie proprement dites, avec les extraits de plantes, l’aromathérapie, l’hydrolathérapie, la gemmothérapie,les fleurs de Bach et élixirs floraux."
         },
         {
-            "title": "Partie 3 : ",
-            "description": ""
+            "title": "Partie 3 : Contexte législatif",
+            "description": "Dans cette partie nous reverrons la législation des plantes médicinales sous le monopole pharmaceutique inscrites à la pharmacopée, les plantes vendues hors monopole et enfin la législation concernant des compléments alimentaires à base de plantes médicinales."
         },
         {
-            "title": "Partie 4 : ",
-            "description": ""
+            "title": "Partie 4 : Notions de qualité",
+            "description": "La qualité des plantes en vrac est essentielle, vous verrez dans cette partie, les contrôles nécessaires à réception, comment conserver vos plantes et combien de temps."
         },
         {
-            "title": "Partie 5 : ",
-            "description": ""
+            "title": "Partie 5 : Formes galéniques utilisées en phytothérapie",
+            "description": "Nous continuerons par voir les différentes galéniques qui existent : les tisanes, les formes galéniques liquides, les formes galéniques sèches et les semi-solides."
         },
         {
-            "title": "Partie 6 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 7 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 8 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 9 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 10 : ",
-            "description": ""
+            "title": "Partie 6 : Conseils en phytothérapie pour les segments les plus vendus en pharmacie d’officine",
+            "description": "Enfin nous verrons les différentes plantes à conseiller pour une meilleure vitalité, immunité, pour les voies respiratoires (Rhinopharyngite et sinusite, laryngite, angine…), les douleurs articulaires (arthrose et arthrite, polyarthrite rhumatoïde…), le confort digestif ( dyspepsie, reflux gastro-oesophagien, constipation…), le stress, sommeil, moral et le désir de minceur."
         },
         {
             "title": "Exercices et fiches à télécharger",
@@ -66,9 +45,9 @@
     ],
     "teachers": [
         {
-            "id": "",
-            "name": "",
-            "description": ""
+            "id": "minker",
+            "name": "Dr Carole MINKER",
+            "description": "Formée en médecines naturelles depuis plus de 15 ans, Carole Minker est Docteur en Pharmacie et en Pharmacognosie. Titulaire de plusieurs D.U. (micronutrition, aromathérapie, stérilité) et formations privées, elle est également formatrice en phyto-aromathérapie et herboristerie pour plusieurs organismes de formation. Passionnée par beaucoup de sujets, elle se forme continuellement pour acquérir de nouveaux savoirs. Elle partage ses passions par l’intermédiaire l’écriture de divers livres et articles et conseille les couples en situation d’infertilité à travers sa structure Fertibébé Conseils."
         }
     ]
 }

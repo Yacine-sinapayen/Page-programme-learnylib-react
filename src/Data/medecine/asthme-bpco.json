@@ -1,0 +1,140 @@
+{
+    "id": "asthme-bpco",
+    "title": "Asthme et BPCO chez l'adulte",
+    "shortDescription": "Maîtrisez les pathologies de la BPCO et de l’asthme pour mieux diagnostiquer ces maladies, apporter un suivi adapté et prodiguer les meilleurs traitements à vos patients.",
+    "supports": [
+        "",
+        ""
+    ],
+    "teaser": "679951260",
+    "description": "En France, environ 15% de la population est atteinte de maladies bronchiques. En effet, la BPCO et l’asthme sont des maladies fréquentes, dont le suivi repose avant tout sur le médecin généraliste.<br/><br/>Après avoir défini les bases de la BPCO, nous évoquerons quels symptômes doivent constituer des signes d’alerte pour le médecin généraliste, comme une toux matinale ou une dyspnée d’effort, trop souvent banalisées par les patients fumeurs.<br/><br/> Nous verrons ensemble comment proposer un bilan diagnostic prenant en compte à la fois la sévérité de la maladie et les comorbidités associées.<br/><br/>Nous aborderons comment traiter les exacerbations, causes fréquentes de consultation en médecine générale. <br/><br/>Nous préciserons les modalités du dépistage, en insistant sur les avantages et les limites d’un diagnostic précoce.<br/><br/>La deuxième partie de cette formation portera sur l’asthme et ses spécificités. <br/><br/> Après avoir rappelé les modalités pratiques du diagnostic de l’asthme, de son suivi, et de son traitement, nous détaillerons plus particulièrement l’association entre asthme et grossesse, entre asthme et sport.<br/><br/>Dans cette formation, nous vous proposerons une prise en charge globale de ces maladies, en abordant à la fois les traitements pharmacologiques mais aussi non pharmacologiques, comme le sevrage tabagique, la réhabilitation à l’exercice physique ou encore la vaccination.<br/><br/> Cette approche vous permettra de faire le tri dans les différents traitements disponibles, d’en connaître les intérêts et les limites. <br/><br/>Cette formation sera ponctuée de cas cliniques reflétant les problématiques quotidiennes rencontrées par le médecin généraliste. Vous aurez ainsi toutes les clés pour prendre en charge de manière pratique et individualisée les patients atteints de maladies bronchiques.",
+    "goals": [
+        "Maîtriser la BPCO et l'asthme et leurs prises en charge",
+        "Être capable d'établir un diagnostic précis",
+        "Maîtriser les différents traitements possibles à mettre en place ",
+        "Connaître les démarches médico-administratives de ces deux maladies respiratoires",
+        "Accompagner et apporter un suivi adapté au patient  ",
+        "Savoir prendre en charge l’insuffisance respiratoire chronique"
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : BPCO : définition et épidémiologie",
+            "description": "Nous commencerons par une introduction avec quelques rappels, les bases et les caractéristiques de la maladie respiratoire qu’est la BPCO. "
+        },
+        {
+            "title": "Partie 2 : Cas clinique",
+            "description": ""
+        },
+        {
+            "title": "Partie 3 : Étiologie et physiopathologie",
+            "description": "Nous verrons un peu plus en détails l’étiologie et la physiopathologie. "
+        },
+        {
+            "title": "Partie 4 : Abord clinique de la BPCO",
+            "description": "Nous verrons comment les différents symptômes se manifestent ainsi que les signes physiques qui caractérisent cette pathologie.La planification et l’intervention n’auront plus aucun secret pour vous."
+        },
+        {
+            "title": "Partie 5 : Diagnostic de la maladie ",
+            "description": "Nous verrons dans quel cas il est préférable de proposer un dépistage ou un diagnostic de la BPCO en médecine générale et quels sont les outils à utiliser et à mettre en oeuvre."
+        },
+        {
+            "title": "Partie 6 : Bilan initial",
+            "description": "L’enjeu de cette partie sera de comprendre comment effectuer un bilan le plus juste possible. Elle nous permettra de voir comment éliminer les diagnostiques différentiels, de voir les comorbidités de la BPCO et leurs dépistages et, également, les principales causes de décès des patients atteints de cette maladie. "
+        },
+        {
+            "title": "Partie 7 : Évaluation de la sévérité",
+            "description": "Nous étudierons les différents outils permettant de graduer la sévérité de la maladie chez nos patients. Nous verrons notamment les différentes classifications (GOLD, classification clinique), la quantification de la dyspnée ainsi que la scorification BODE."
+        },
+        {
+            "title": "Partie 8 : Traitements non pharmacologiques ",
+            "description": "Nous aborderons ensuite les conseils à délivrer au patient et les traitements non pharmacologiques à mettre en place. "
+        },
+        {
+            "title": "Partie 9 : Traitements pharmacologiques ",
+            "description": "Nous détaillerons dans un second temps les traitements pharmacologiques."
+        },
+        {
+            "title": "Partie 10 : Suivi du patient ",
+            "description": "Nous verrons de quelle façon il est nécessaire de mettre en place un suivi adapté à chaque patient et quand il est préférable de demander l’avis d’un pneumologue. "
+        },
+        {
+            "title": "Partie 11 : Démarches médico-administratives ",
+            "description": "Les démarches médico-administratives représentent une étape importante, nous aborderons donc les prises en charge et les déclarations qui concernent cette maladie respiratoire ainsi que les mesures médico-sociales qui y sont associées.  "
+        },
+        {
+            "title": "Partie 12 : Dépistage de la BPCO",
+            "description": "Le dépistage est une phase essentielle car nous verrons qu’il permet d’identifier de façon présomptive les sujets atteints d’une maladie ou d’une anomalie qui jusque-là n’avait pas encore été décelée. Nous en étudierons les outils mais aussi les limites.  "
+        },
+        {
+            "title": "Partie 13 : Asthme : introduction ",
+            "description": "Nous commencerons par une introduction avec quelques rappels, les bases et les caractéristiques de la maladie respiratoire qu’est l’asthme. "
+        },
+        {
+            "title": "Partie 14 : Épidémiologie et physiopathologie",
+            "description": "Nous verrons quels peuvent être les différents éléments déclenchants ainsi que les facteurs favorisant l’asthme."
+        },
+        {
+            "title": "Partie 15 : Présentation clinique",
+            "description": "Nous ferons ensuite la présentation clinique de cette pathologie afin de mieux comprendre son fonctionnement."
+        },
+        {
+            "title": "Partie 16 : Diagnostic de l’asthme",
+            "description": "Cette partie nous permettra de mieux comprendre comment établir un diagnostic en consultation programmée mais aussi dans le cadre d’une urgence. "
+        },
+        {
+            "title": "Partie 17 : Diagnostics différentiels ",
+            "description": "Nous aborderons ensuite les différents diagnostics différentiels cliniques et fonctionnels. "
+        },
+        {
+            "title": "Partie 18 : Bilan initial ",
+            "description": "Nous verrons de quelle façon établir un bilan complet et quels outils sont disponibles et nécessaires à mettre en oeuvre lors de cette étape importante, en passant par le bilan allergologique et la radiographie thoracique. Nous verrons ensuite les traitements à mettre en place. "
+        },
+        {
+            "title": "Partie 19 : Traitement de l’asthme ",
+            "description": "Nous détaillerons les différents traitements possibles et leurs indications. "
+        },
+        {
+            "title": "Partie 20 : Suivi du patient",
+            "description": "Nous verrons de quelle façon il est nécessaire de mettre en place un suivi adapté à chaque patient ainsi que sa périodicité. "
+        },
+        {
+            "title": "Partie 21 : Prise en charge des facteurs associés ",
+            "description": "Dans cette partie nous déterminerons comment prendre en charge les facteurs associés (tel que la rhinite chronique) et les traitements adaptés."
+        },
+        {
+            "title": "Partie 22 : Quand adresser le patient à un pneumologue ? ",
+            "description": "Nous étudierons dans cette partie, dans quelles situations et selon quels critères il est préférable d’adresser le patient à un pneumologue. "
+        },
+        {
+            "title": "Partie 23 : Asthme et grossesse",
+            "description": "Le but de cette partie est de mettre en lumière les risques et les traitements possibles des patientes enceintes mais aussi comment les mettre en oeuvre selon l’avancée de la grossesse. "
+        },
+        {
+            "title": "Partie 24 : Asthme et sport ",
+            "description": "Nous verrons quels risques représente l’asthme chez les patients sportifs et pratiquant une activité physique régulière et quels sont les traitements associés."
+        },
+        {
+            "title": "Partie 25 : Ashtme et professionnel",
+            "description": "L’asthme est l’une des maladies professionnelles les plus fréquentes, nous verrons quels sont les métiers les plus régulièrement concernés et quelles sont les prises en charges les plus adaptées."
+        },
+        {
+            "title": "Partie 26 : Exacerbations",
+            "description": "Nous déterminerons les différents facteurs de risques d’exacerbation de cette maladie respiratoire et comment en évaluer la sévérité par le biais d’examens complémentaires et les traitements correspondants."
+        },
+        {
+            "title": "Partie 27 : Conclusion",
+            "description": "Enfin, nous terminerons par une conclusion résumant l’importance d’une bonne observance, d’une prise en charge adaptée au patient et à sa pathologie ainsi que la vérification de la technique de prise des médicaments. Nous ferons également un point sur les nouvelles thérapeutiques."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "trzepizur",
+            "name": "Pr Wojciech TRZEPIZUR",
+            "description": "Particulièrement impliqué dans la prise en charge des patients présentant des pathologies respiratoires chroniques, le Pr Wojciech TRZEPIZUR participe et coordonne l’enseignement sur différentes thématiques au niveau local et national. Titulaire de plusieurs DIU portant sur le diagnostic et la prise en charge des pathologies respiratoires chroniques, il est actuellement coordonnateur national du DIU « le sommeil et sa pathologie ». L’implication à la fois dans l’enseignement et dans la recherche autour de la santé respiratoire a pour but un objectif commun : la prévention des maladies respiratoires chroniques et l’amélioration de la prise en charge des patients."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "denutrition-anticancereux",
+    "title": "Adaptation de l'alimentation et prévention de la dénutrition lors des traitements anticancéreux",
+    "shortDescription": "Savoir adapter l’alimentation liées aux effets indésirables des traitements anticancéreux et de la pathologie cancéreuse et savoir se prémunir de la dénutrition.",
+    "supports": [
+        "",
+        ""
+    ],
+    "teaser": "684142945",
+    "description": "Savez-vous que 40% des patients atteints d’un cancer sont dénutris, et que ce chiffre peut monter jusqu’à 70 % en ce qui concerne les cancers ORL et digestifs. <br/><br/> Perte d’appétit, altérations du goût ou troubles de la déglutition, les effets secondaires des traitements anticancéreux sont en effet nombreux.<br/><br/> Concernant les effets secondaires, vous trouverez des réponses pratiques, avec des conseils hygiéno-diététiques, des mesures posturales et des produits à conseiller. ",
+    "goals": [
+        "Connaître les différentes phases de prise en charge alimentaire face au cancer",
+        "Savoir poser les bonnes questions au patient pour identifier une probable dénutrition.",
+        "Délivrer des conseils hygiéno-diététiques pertinents (dont les techniques d'enrichissement) et délivrer des denrées alimentaires spécialisées, destinées à des fins médicales.",
+        "Savoir proposer des adaptations alimentaires et des conseils pratiques lors de nombreuses mucites ou lors de goût métallique dans la bouche",
+        "Savoir proposer des conseils pratiques, des mesures posturales et des denrées alimentaires destinées à des fins médicales spéciales lors de dysphagie",
+        "Savoir poser les bonnes questions au patient pour identifier la présence réelle d'une constipation, proposer des adaptations alimentaires et des mesures posturales"
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : Introduction",
+            "description": "Nous commencerons par voir les différentes phases de prise en charge alimentaire face au cancer, les situations à risque de dénutrition, définition et critères de diagnostic de la dénutrition, quelques chiffres et conséquences de la dénutrition en cas de pathologie cancéreuse."
+        },
+        {
+            "title": "Partie 2 : Préventions primaire et tertiaire",
+            "description": "Au sein de cet item, nous verrons les différents types de préventions. Il y a celle dite « primaire » avec des facteurs exogènes liés à notre mode de vie et notre alimentation, mais nous parlerons également des 5 facteurs nutritionnels qui réduisent le risque de cancer. Et également celle dite « tertiaire » ayant pour but de prévenir la récidive du cancer, de prévenir la prise excessive de poids et la remobilisation corporelle."
+        },
+        {
+            "title": "Partie 3 : Adaptation de l’alimentation aux traitements anticancéreux",
+            "description": "Dans cette partie nous verrons comment adapter l’alimentation aux traitements anticancéreux en fonction des différents troubles digestifs (dyspepsie), en de perte d’appétit et d’anorexie , de nausées et de vomissements, de mucites et d’aphtes, d’altérations du goût (dysgueusie), de sécheresse buccale (xérostomie), de troubles de la mastication et de la déglutition (dysphagie), de diarrhées et de constipation."
+        },
+        {
+            "title": "Partie 4 : Adaptation de l’alimentation à la prévention de la dénutrition et alimentation artificielle (entérale et parentérale)",
+            "description": "Ensuite nous continuerons par la spirale de la dénutrition et les rappels des recommandations nutritionnelles de la HAS, des conseils nutritionnels, le principe et les objectifs de l’enrichissement de l’alimentation et un point sur les dernières données scientifiques sur la pratique du régime sans sucre et du jeun lors d’un cancer. Enfin nous verrons un arbre décisionnel du soin nutritionnel, une présentation de l’alimentation entérale : composition, prince, complications et précautions, une présentation de l’alimentation parentérale : composition, principe et schéma des différents niveaux de prise en charge nutritionnelle."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "collet",
+            "name": "Dr Adeline COLLET",
+            "description": "Docteur en Pharmacie, titulaire d’un DU en cosmétologie et d’un Master en Marketing Pharmaceutique, Adeline Collet a longtemps travaillé comme consultante en formation pour l’industrie pharmaceutique et cosmétique et elle se passionne pour la pédagogie, le partage des connaissances et la personnalisation du conseil au patient."
+        }
+    ]
+}

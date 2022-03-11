@@ -1,63 +1,54 @@
 {
-    "id": "",
-    "title": "",
-    "shortDescription": "",
+    "id": "femme-enceinte",
+    "title": "Suivi de la femme enceinte et de l’enfant de 0 à 18 ans ",
+    "shortDescription": "Maîtrisez la prise en charge de la femme enceinte mais aussi de l’enfant et de toutes les étapes importantes de sa vie : de nourrisson à adolescent.",
     "supports": [
         "",
         ""
     ],
-    "teaser": "",
-    "description": " <br/><br/>  <br/><br/>  <br/><br/>  <br/><br/> ",
+    "teaser": "672655496",
+    "description": "Est ce qu’il y a des aliments à éviter pendant la grossesse ? Quel lait infantile donner à mon enfant ? Quels sont les aliments à introduire au moment de la diversification ? <br/><br/> Au sein de l’officine, vous êtes régulièrement sollicités sur ces thématiques. <br/><br/>En effet, bien nourrir son enfant est une préoccupation pour tous les parents. L’équipe officinale est un interlocuteur privilégié pour donner des précieux conseils et orienter le patient vers le praticien adapté.  <br/><br/> De la femme enceinte, à l’alimentation du nourrisson jusqu’à l’adolescent, cette formation très complète vous permettra une prise en charge à toutes les étapes importantes de la vie de l’enfant. <br/><br/> L’objectif est d’optimiser votre rôle de conseiller et de renforcer le lien avec votre patient.",
     "goals": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Renforcer les compétences et connaissances de l’équipe officinale sur l’alimentation de la femme enceinte et allaitante",
+        "Dépister et repérer les enfants présentant des symptômes anormaux",
+        "Prévenir et prendre en charge un enfant atteint de surpoids et d'obésité",
+        "Dépister et orienter un enfant présentant des troubles du comportement alimentaire (anorexie, boulimie...)",
+        "Accompagner la femme avant et après l’accouchement",
+        "Prise en charge du diabète gestationnel",
+        "Conseiller les parents et les accompagner dans l’évolution alimentaire de leur enfant de 0 à 18 ans"
     ],
     "program": [
         {
-            "title": "Partie 1 : ",
-            "description": ""
+            "title": "Partie 1 : Alimentation de la femme enceinte",
+            "description": "Nous débuterons cette formation par étudier l’alimentation à avoir au quotidien. Nous verrons également quelle alimentation à privilégier et celle à éviter. Cette partie résumera l’alimentation de la femme enceinte."
         },
         {
-            "title": "Partie 2 : ",
-            "description": ""
+            "title": "Partie 2 : Diabète gestationnel",
+            "description": "Dans cette partie, nous verrons la définition, les symptômes, les conséquences pour la mère et l’enfant, le dépistage et diagnostic ainsi que les règles hygiéno-diététique à adopter."
         },
         {
-            "title": "Partie 3 : ",
-            "description": ""
+            "title": "Partie 3 : Enfant de 0-6 mois",
+            "description": "Dans cette partie, nous verrons les bénéfices de l’allaitement maternel et l’ensemble des laits infantiles notamment en cas de troubles de l’oralité."
         },
         {
-            "title": "Partie 4 : ",
-            "description": ""
+            "title": "Partie 4 : Enfant de 4/6 mois-1 an",
+            "description": "Nous aborderons toute la diversification alimentaire et l’introduction des catégories des aliments, les laits 2ème âge ainsi que les troubles liés à l’intolérance au gluten."
         },
         {
-            "title": "Partie 5 : ",
-            "description": ""
+            "title": "Partie 5 : Enfant de 1 an -3 ans",
+            "description": "Nous verrons l’alimentation générale, les laits de croissance, la néophobie alimentaire ainsi que les allergies alimentaires pouvant apparaître à cet âge là."
         },
         {
-            "title": "Partie 6 : ",
-            "description": ""
+            "title": "Partie 6 : Déshydratation et boissons",
+            "description": "Dans cette partie, nous étudierons les causes et les conséquences de la désydratation et les eaux recommandées pour les nourissons de 0 à 3 ans."
         },
         {
-            "title": "Partie 7 : ",
-            "description": ""
+            "title": "Partie 7 : Récapitulatif de l’enfant de 0 à 3 ans",
+            "description": "Dans cette partie, nous résumerons les différentes étapes de l’alimentation du nourisson ainsi que les troubles pouvant intervenir à cet âge là."
         },
         {
-            "title": "Partie 8 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 9 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 10 : ",
-            "description": ""
+            "title": "Partie 8 : Enfant 4-18 ans et équilibre alimentaire",
+            "description": "Enfin, nous terminerons par l’alimentation générale avec les références nutritionnelles en fonction des âges, dans le but de maintenir un équilibre alimentaire. Nous verrons aussi les troubles pouvant apparaîtres à cette tranche d’âge (le diabète de type 1, surpoids et obésité infantile et les troubles du comportements alimentaires comme la boulimie et l’anorexie chez l’adolescent)."
         },
         {
             "title": "Exercices et fiches à télécharger",
@@ -66,9 +57,9 @@
     ],
     "teachers": [
         {
-            "id": "",
-            "name": "",
-            "description": ""
+            "id": "oullion-simon",
+            "name": "Mélanie OULLION-SIMON",
+            "description": "Diététicienne-nutritionniste et diplômée du Master Nutrition & Sciences des Aliments à AgroParisTech ainsi que du MSc Entrepreneurs Ecole Polytechnique - HEC Paris parcours international UC Berkeley. Auteur et chroniqueuse dans la presse spécialisée, elle forme également les pharmaciens sur la prise en charge nutritionnelle à l’officine. Et prends régulièrement la parole lors de conférences et d’interviews, notamment au cours d’un TEDx Talks afin de promouvoir l’éducation nutritionnelle. Passionnée, elle s’engage à partager les valeurs d’une alimentation saine et durable en exerçant en cabinet à Paris. En 2019, elle lance MOS Nutrition, la première startup française développant des aliments performants et d’excellence approuvés par les Forces Spéciales."
         }
     ]
 }

@@ -1,0 +1,61 @@
+{
+    "id": "chimio-1-conseils",
+    "title": "Accompagnement du patient sous chimiothérapie : conseils à l’officine",
+    "shortDescription": "Maîtrisez la mise en place des entretiens pharmaceutiques, visant à améliorer la prise en charge personnalisée des patients atteints de cancers.",
+    "supports": [
+        "",
+        ""
+    ],
+    "teaser": "",
+    "description": "La prise en charge personnalisée du patient atteint de cancer est primordiale à l’officine. <br/><br/> Cancer de la prostate, du sein, du poumon ou colo rectal sont les 4 cancers pour lesquels le pharmacien est le plus sollicité. <br/><br/> En effet, il est l’interlocuteur privilégié pour gérer les traitements et les possibles effets iatrogènes.<br/><br/>Pour répondre à ces objectifs, le pharmacien d’officine a la possibilité de mettre en place des programmes d’éducation thérapeutiques.<br/><br/> Au cours de cette formation, nous vous présenterons les modalités et les outils permettant la mise en place de ces programmes.",
+    "goals": [
+        "Approfondir ses connaissances relatives à la prise en charge des cancers",
+        "Connaître les (nouveaux) médicaments anticancéreux délivrés à l’officine",
+        "Améliorer les conseils de dispensation",
+        "Prévenir la iatrogénie médicamenteuse",
+        "Mieux comprendre les besoins du patient atteint de cancer",
+        "Améliorer la prise en charge officinale du patient atteint de cancer",
+        "Participer au dépistage et à la prévention des cancers les plus fréquents"
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : L’éducation thérapeutique du patient et de son entourage",
+            "description": "Dans cette partie nous débuterons par voir le développement de compétences par le patient grâce à l’éducation relative à la prise de son traitement ou à la gestion des effets indésirables.<br/>Améliorer la communication avec le patient et ses proches en proposant des outils permettant de rendre autonome le patient."
+        },
+        {
+            "title": "Partie 2 : Prise en charge d’un patient atteint de cancer de la prostate",
+            "description": "Le cancer de la prostate est un cancer horno-dépendant de l’homme. Nous aborderons dans cette partie la prise en charge par chirurgie, hormonothérapie ou radiothérapie. Nous allons également recenser les métastases le plus souvent osseuses avec douleur associée."
+        },
+        {
+            "title": "Partie 3 : La douleur cancéreuse",
+            "description": "Le but est de prendre en charge la douleur cancéreuse le plus tôt possible. Dans cette séquence, nous verrons les différents antalgiques adaptés à l’intensité de la douleur à proposer selon les paliers de douleurs. Ne pas hésiter à avoir recours aux morphiniques si les douleurs sont trop conséquentes. Nous verrons également à apprendre à gérer au mieux les effets iatrogènes associés à la prise d’antalgiques tels que la constipation ou la sédation."
+        },
+        {
+            "title": "Partie 4 : Les besoins nutritionnels et la maladie cancéreuse",
+            "description": "Nous détaillerons ensuite, les principaux marqueurs de dénutrition sont l’IMC (Indice de Masse Corporelle), le pourcentage de perte de poids, les marqueurs biologiques (albumine, pré-albumine) et la surveillance alimentaire. On peut prévenir de la dénutrition en tentant de corriger les insuffisances d’apports qualitatifs et quantitatifs. L’alimentation se doit d’être régulière, équilibrée, appétissante, conviviale et adaptée. On montrera aussi comment proposer des actions de renutrition (enrichir, compenser, compléter, fractionner) en cas de besoin."
+        },
+        {
+            "title": "Partie 5 : Prise en charge d’une patiente atteinte de cancer du sein",
+            "description": "Nous poursuivrons avec le sujet du cancer du sein qui est un cancer horno-dépendant de la femme. Il peut être pris en charge par chirurgie, hormonothérapie ou radiothérapie. Comment les traitements adjuvants durant les 5 ans suivant la fin du traitement curatif peuvent se mettre en place. L’étude des métastases le plus souvent osseuses ou pulmonaires. La délivrance de prothèses mammaires en cas de reconstruction post-mammectomie."
+        },
+        {
+            "title": "Partie 6 : Prise en charge officinale du cancer colorectal",
+            "description": "Ensuite, nous aborderons l’importance de la sensibilisation au dépistage du cancer colorectal. Les possibles stomies après chirurgie anticancéreuse : règles d’hygiène et alimentaires à adapter selon le type de stomies."
+        },
+        {
+            "title": "Partie 7 : Les soins palliatifs au travers d’un cas de cancer bronchique",
+            "description": "Enfin, nous nous arrêterons sur le cancer bronchique qui est un cancer d’assez mauvais pronostic avec une incidence qui augmente chez la femme. Le choix du traitement est en fonction du stade au diagnostic. Nous verrons également un point à ne pas négliger, la gestion des patients et de leurs proches en cas de soins palliatifs. En cas de soins palliatifs, assurer la prise en charge des symptômes associés à l’évolution de la pathologie cancéreuse."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "clere",
+            "name": "Dr Nicolas CLERE",
+            "description": "Impliqué dans de nombreux projets visant à améliorer la prise en charge des patients atteints de cancer, le Dr Nicolas Clere s’est spécialisé en oncopharmacologie. Titulaire d’un doctorat de l’Université d’Angers, il partage ses activités entre formation universitaire et activités de recherche en cancérologie. Docteur en Pharmacie, Nicolas Clere participe à la formation continue des pharmaciens d’officine en vue d’améliorer leurs pratiques et d'assurer une bonne prise en charge des patients."
+        }
+    ]
+}

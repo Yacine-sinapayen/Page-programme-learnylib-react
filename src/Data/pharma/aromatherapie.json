@@ -1,63 +1,49 @@
 {
-    "id": "",
-    "title": "",
-    "shortDescription": "",
+    "id": "aromatherapie",
+    "title": "Aromathérapie",
+    "shortDescription": "Apprenez à conseiller vos patients avec des huiles essentielles adaptées à leurs maux et sans toxicité. Ensemble nous verrons comment répondre à 80% des maux quotidiens grâce à l’aromathérapie.",
     "supports": [
         "",
         ""
     ],
-    "teaser": "",
-    "description": " <br/><br/>  <br/><br/>  <br/><br/>  <br/><br/> ",
+    "teaser": "665680643",
+    "description": "Aujourd’hui, plus de 30% des Français achètent des huiles essentielles, et la médecine ancestrale qu’est l’aromathérapie connaît aujourd’hui un véritable engouement. <br/><br/> Les huiles essentielles sont aujourd’hui employées soit en super adjuvant de la médecine traditionnelle allopathique soit en principale intention. <br/><br/> Bien qu’étant une technique naturelle qui utilise les arômes et les principes actifs des plantes aromatiques, elle est loin d’être une médecine sans risque. <br/><br/> A savoir que la dermocausticité, hépatotoxicité, néphrotoxicité, photosensibilisation et neurotoxicité sont les principaux risques des HE. <br/><br/> C’est là que nous, pharmaciens, devons assurer notre rôle de professionnels de la santé en conseillant nos patients au plus juste avec bien sûr des HE adaptées à leurs maux et sans toxicité.",
     "goals": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
+        "Maîtriser les bases de l’aromathérapie",
+        "Aider, accompagner et réconforter au mieux votre patientèle dans votre pratique professionnelle quotidienne",
+        "Avoir une approche éclairée des indications, bienfaits, contre-indications et précautions d’emploi des huiles essentielles.",
+        "Bien accompagner et conseiller vos patients grâce aux trousses automne-hiver et printemps-été",
+        "Être capable de conseiller les bonnes huiles essentielles comme par exemple pour les maux du système ostéoarticulaire, les maux du système digestif...",
         ""
     ],
     "program": [
         {
-            "title": "Partie 1 : ",
-            "description": ""
+            "title": "Partie 1 : Présentation des bases de l’aromathérapie",
+            "description": "Débutons par revoir les bases de l’aromathérapie, les différents modes d’extractions, les notions de chémotypes, la réglementation, les différentes voies d’utilisation, les précautions d’emploi et les contre-indications, la relation structure/activité des huiles essentielles et enfin les différents modes d’actions des huiles essentielles."
         },
         {
-            "title": "Partie 2 : ",
-            "description": ""
+            "title": "Partie 2 : Trousse automne hiver",
+            "description": "Nous verrons comment choisir les bonnes huiles essentielles pour booster ses défenses immunitaires et ainsi entrer dans l’hiver de la meilleure manière tout en apprenant à répondre aux demandes des patients pour tous les problèmes ORL."
         },
         {
-            "title": "Partie 3 : ",
-            "description": ""
+            "title": "Partie 3 : Trousse printemps été",
+            "description": "Dans cette partie, nous aborderons toutes les huiles essentielles nécessaires à la détoxication, les allergies saisonnières, la circulation veineuse, les hémorroïdes, la cellulite et enfin les petits maux de l’été auxquels vos patients sont confrontés."
         },
         {
-            "title": "Partie 4 : ",
-            "description": ""
+            "title": "Partie 4 : Les maux du système ostéoarticulaire",
+            "description": "Ensuite, dans ce chapitre nous apprendrons à choisir les bonnes huiles essentielles pour répondre aux pathologies articulaires et musculaires : arthrose, rhumatismes, contractures musculaires, entorses, sport (préparation et récupération)."
         },
         {
-            "title": "Partie 5 : ",
-            "description": ""
+            "title": "Partie 5 : Les maux du système digestif",
+            "description": "Nous poursuivrons avec les huiles essentielles qui répondent aux maux de la sphère buccale (abcès dentaire, aphtes, gingivites) et aux maux de la digestion (digestion difficile, diarrhées, constipation, ballonnements, spasmes)."
         },
         {
-            "title": "Partie 6 : ",
-            "description": ""
+            "title": "Partie 6 : La Dermo-Cosmétique",
+            "description": "Enfin, nous nous intéresserons aux huiles essentielles nécessaires en Dermo-Cosmétique dans le cadre de l’acné, herpès, zona, mycoses cutanées, mycoses des phanères, verrues, allergies cutanées, eczéma de contact et cosmétologie."
         },
         {
-            "title": "Partie 7 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 8 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 9 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 10 : ",
-            "description": ""
+            "title": "Partie 7 : Le système nerveux et les émotions",
+            "description": "Nous continuerons avec les huiles essentielles à utiliser en cas d’anxiété, d’angoisse, de stress et des troubles du sommeil. Nous verrons également dans ce chapitre les bienfaits de l’olfactothérapie."
         },
         {
             "title": "Exercices et fiches à télécharger",
@@ -66,9 +52,9 @@
     ],
     "teachers": [
         {
-            "id": "",
-            "name": "",
-            "description": ""
+            "id": "thomas",
+            "name": "Dr Marcelle THOMAS",
+            "description": "Depuis plusieurs années, Dr Marcelle Thomas a décidé de positionner sa pharmacie, située au coeur du Comtat Venaissin (Carpentras), sur une activité, qui la passionne depuis longtemps et lui permet d’accompagner ses clients sur une approche différenciante : le conseil Phytothérapique et Aromatique. Ce qui l’a amenée à devenir Formatrice, au sein de plusieurs écoles d’aromathérapies où elle anime des cours destinés à un public de Professionnels de la Santé (médecins, pharmaciens, infirmières, dentistes, kiné-ostéopathes,…). Sa formation Universitaire s’est déroulée à la faculté de Pharmacie de Montpellier et s’est clôturée par l’obtention d’un doctorat en pharmacie avec soutenance de thèse sur « le mode d’action des dilutions homéopathiques »."
         }
     ]
 }

@@ -1,63 +1,32 @@
 {
-    "id": "",
-    "title": "",
-    "shortDescription": "",
+    "id": "micronutrition",
+    "title": "Micronutrition",
+    "shortDescription": "Maîtrisez les techniques et connaissances de la micronutrition de A à Z afin d’aider au mieux vos patients atteints de maladies digestives ou en prévention, avant que celle-ci n’apparaissent.",
     "supports": [
         "",
         ""
     ],
-    "teaser": "",
-    "description": " <br/><br/>  <br/><br/>  <br/><br/>  <br/><br/> ",
+    "teaser": "665679946",
+    "description": "La micronutrition est une solution thérapeutique moderne qui répond au bien-être et à la demande de vos patients. <br/><br/> La nutrition est la base de notre santé, les aliments que l’on ingère chaque jour jouent un rôle essentiel sur le fonctionnement de notre organisme. Hippocrate le disait déjà « que ton aliment soit ton seul médicament. » <br/><br/> De nos jours 9 français sur 10 connaissent des épisodes de stress, environ 80% de la population est concernée par des troubles digestifs et plus de 65% des plus de 65 ans sont concernés par l’arthrose. <br/><br/> De plus en plus de scientifiques étudient le rôle de notre intestin et l’impact d’un intestin en mauvaise santé sur de nombreuses pathologies.<br/><br/> Nous parlons également beaucoup du lien entre l’intestin et notre système nerveux au point de qualifier notre intestin de deuxième cerveau. <br/><br/> Cette formation a donc pour but de vous expliquer l’importance d’une alimentation équilibrée, d’avoir un intestin en bonne santé et comment nous pouvons aider au mieux nos patients au sein de leurs maladies ou en prévention avant que celles-ci apparaissent.",
     "goals": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Maîtriser la phtisiologie des différentes étapes de la digestion",
+        "Conseiller les patients atteints de reflux gastro oeasophagien",
+        "Poser les bonnes questions aux patients pour cibler les bons compléments alimentaires",
+        "Comprendre le lien entre l’intestin et les maladies : la dysbiose, l’hyperperméabilité intestinale, l’inflammation de bas grade",
+        "Apporter les meilleurs conseils à ses patients pour éviter ces pathologies"
     ],
     "program": [
         {
-            "title": "Partie 1 : ",
-            "description": ""
+            "title": "Partie 1 : La physiologie de notre système digestif",
+            "description": "Nous débuterons par quelques rappels physiologiques des différentes étapes de la digestion puis des conseils pour les patients atteints de reflux gastro-oesophagien"
         },
         {
-            "title": "Partie 2 : ",
-            "description": ""
+            "title": "Partie 2 : Le microbiote",
+            "description": "Dans cette partie, vous verrez les différentes espèces et organismes du microbiote ainsi que les différents rôles de ce dernier. Vous verrez aussi les différentes questions à poser aux patients pour cibler les bons compléments alimentaires."
         },
         {
-            "title": "Partie 3 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 4 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 5 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 6 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 7 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 8 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 9 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 10 : ",
-            "description": ""
+            "title": "Partie 3 : Le lien entre l’intestin et les maladies",
+            "description": "Enfin, nous aborderons le lien entre l’intestin et les différentes maladies comme la dysbiose, l’hyper-perméabilité intestinale, l’inflation de bas grade et les solutions à apporter à vos patients pour chaque pathologie. Nous terminerons par voir les différents terrains pathologiques des patients."
         },
         {
             "title": "Exercices et fiches à télécharger",
@@ -66,9 +35,9 @@
     ],
     "teachers": [
         {
-            "id": "",
-            "name": "",
-            "description": ""
+            "id": "tisserent",
+            "name": "Dr Florence TISSERANT",
+            "description": "Docteur en pharmacie, Florence Tisserant se spécialise par le biais de deux diplômes en alimentation et santé et micronutrition mais aussi en phytothérapie et aromathérapie afin d’accompagner au mieux les patients de son officine ainsi que son entourage."
         }
     ]
 }

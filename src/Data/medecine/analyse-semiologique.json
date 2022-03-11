@@ -1,0 +1,60 @@
+{
+    "id": "analyse-semiologique",
+    "title": "Analyse sémiologique d'une douleur : le big-bang du raisonnement rhumatologique",
+    "shortDescription": "Apprenez les différentes étapes et astuces pour analyser de façon précise la douleur de vos patients et leur apporter la meilleure prise en charge possible.",
+    "supports": [
+        "",
+        ""
+    ],
+    "teaser": "677272092",
+    "description": " Les douleurs musculo-squelettiques représentent un tiers des motifs de consultation en médecine générale. Elles peuvent révéler plus de 200 pathologies rhumatismales différentes, dont certaines peuvent être graves et/ou urgentes. <br/><br/> En tant que médecins de première ligne, vous devez être capable d’élaborer un raisonnement clinique et diagnostic complet dans un laps de temps limité. <br/><br/> Dans cette formation nous vous donnerons les clés, astuces et réflexes permettant de guider votre raisonnement dans ce labyrinthe d’hypothèses diagnostiques.<br/><br/>  Nous aborderons les trois temps principaux de l’interrogatoire d’une douleur rhumatismale : où/quand/comment. <br/><br/>Vous saurez distinguer une douleur inflammatoire d’une douleur mécanique. <br/><br/> Vous apprendrez à gagner du temps en consultation en posant directement les questions les plus pertinentes pour vous orienter et décider d’une conduite à tenir.<br/><br/>La douleur a-t-elle débuté brutalement ou progressivement ? Êtes-vous réveillé la nuit par des changements de positions douloureux ou est-ce que c’est la douleur qui vous réveille et qui vous impose de changer de position ?<br/><br/> Nous illustrerons toutes ces subtilités à travers plusieurs cas cliniques.<br/><br/> À l’issue de cette formation, vous vous sentirez pleinement capable de réfléchir efficacement face à une douleur rhumatismale et vos patients en seront les premiers bénéficiaires ! ",
+    "goals": [
+        "Améliorer son raisonnement clinique pour élaborer une démarche diagnostique adaptée face au symptôme 'douleur'.",
+        "Savoir poser les bonnes questions aux patients afin d'identifier les éléments essentiels à l'analyse d'une douleur",
+        "Connaître les pièges à éviter lors du diagnostic ",
+        "Maîtriser toutes les étapes de l'analyse sémiologique d'une douleur ",
+        "Connaître les clés et astuces pour économiser du temps en consultation devant une douleur",
+        "Savoir économiser sa prescription d’examens complémentaires"
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : Introduction et principes généraux",
+            "description": "Nous aborderons dans un premier temps les principes généraux qui nous permettront de comprendre l’importance de l’analyse sémiologique d’une douleur et ce que sa mise en pratique vous apportera."
+        },
+        {
+            "title": "Partie 2 : Où ? Analyse topographique de la douleur",
+            "description": "Parmi les points essentiels à éclaircir nous verrons, dans cette partie, l’importance de la localisation de la douleur : distinguer atteinte axiale et périphérique, atteinte mono-articulaire ou polyarticulaire et pouvoir en préciser le caractère symétrique ou non."
+        },
+        {
+            "title": "Partie 3 : Quand ? Analyse chronologique de la douleur",
+            "description": "Nous verrons ensuite qu’il est important de caractériser le contexte d’apparition de la douleur et son évolution jusqu’à la consultation."
+        },
+        {
+            "title": "Partie 4 : Comment ? Analyse du rythme, de la sémantique et analyse positionnelle",
+            "description": "Enfin, nous verrons comment cette douleur se manifeste. Ceci passe par la description du rythme de la douleur, du type de douleur, du caractère positionnel ou non."
+        },
+        {
+            "title": "Partie 5 : Contexte : recherche de signes associés",
+            "description": "Afin de pousser l’analyse de la douleur un peu plus loin, nous verrons l’importance du rôle de l’analyse contextuelle de la douleur et des signes qui peuvent y être associés."
+        },
+        {
+            "title": "Partie 6 : Clefs et astuces",
+            "description": "Nous terminerons par les clefs et astuces à connaître afin d’éviter les différents pièges lors du diagnostic que nous verrons au travers de différents cas et mises en situation."
+        },
+        {
+            "title": "Partie 7 : Cas cliniques",
+            "description": "Nous allons illustrer les notions abordées à travers de cas cliniques."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "vercruysse",
+            "name": "Dr François Vercruysse",
+            "description": "Ancien Chef de Clinique du CHU de Bordeaux, ancien conférencier de Rhumatologie et auteur de plusieurs ouvrages à destination des étudiants préparant l’ECN, l’enseignement et la formation sont des passions pour ce Rhumatologue maintenant installé à l’Hôpital Privé Saint-Martin à Pessac en Gironde. Titulaire de nombreux DU , il partage son activité entre rhumatologie inflammatoire, pathologies osseuses ou métaboliques, pathologies mécaniques, pathologies dégénératives et réalisation de gestes infiltratifs sous guidage échographique. Auteurs de plusieurs articles scientifiques, il met un point d’honneur à la rigueur scientifique des informations délivrées au cours de ses formations et saura vous donner les clés et astuces qui vous feront gagner un temps précieux dans votre pratique clinique quotidienne."
+        }
+    ]
+}

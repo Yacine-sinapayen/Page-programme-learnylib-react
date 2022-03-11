@@ -1,63 +1,52 @@
 {
-    "id": "",
-    "title": "",
-    "shortDescription": "",
+    "id": "accueil-emotions",
+    "title": "L'accueil des émotions au service de la performance",
+    "shortDescription": "Apprenez à décrypter le langage des émotions pour mieux les réguler au quotidien et ainsi reprendre le contrôle de votre émotionnel.<br/> De la définition des émotions, en passant par l’apprentissage de leur accueil, la compréhension de leurs codes secrets, l’identification de leurs messages, jusqu’à leur régulation, la formation présentée décrit toutes les étapes pour devenir plus conscient-e et ainsi améliorer les relations à moi-même et aux autres.",
     "supports": [
         "",
         ""
     ],
-    "teaser": "",
-    "description": " <br/><br/>  <br/><br/>  <br/><br/>  <br/><br/> ",
+    "teaser": "665676498",
+    "description": "En tant que professionnel de santé, l’équipe officinale vit un lot constant d’émotions diverses et variées, parfois difficiles à gérer.<br/><br/>Stress, fatigue, colère, énergies négatives : grâce à cette formation, vous êtes en mesure de décrypter le langage des émotions pour mieux les réguler au quotidien et ainsi reprendre le contrôle de votre émotionnel.  <br/><br/>L’objectif est de rester centré, tranquille tout en étant sensible à l’autre.  <br/><br/> Cette formation est conçue en créant des ponts entre la psychologie, les sciences cognitives et le développement personnel, avec une expertise de plus de 20 ans, au service de la personne dans son environnement de travail.  <br/><br/> Son processus est rapide et éprouvé.",
     "goals": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Comprendre mes émotions et celles des autres",
+        "Maîtriser toutes les étapes de l’accueil, du décodage et de la régulation",
+        "Appliquer des protocoles détaillés, grâce à des cas pratiques et des mises en situation filmées en officine",
+        "Communiquer efficacement avec tout le monde",
+        "Utiliser des trucs et astuces pour simplifier immédiatement ma pratique quotidienne"
     ],
     "program": [
         {
-            "title": "Partie 1 : ",
-            "description": ""
+            "title": "Partie 1 : Bienvenue",
+            "description": "Vous apprenez à repérer où en sont vos difficultés émotionnelles, les identifier, les exprimer et les ressentir."
         },
         {
-            "title": "Partie 2 : ",
-            "description": ""
+            "title": "Partie 2 : Qui est le maître ?",
+            "description": "Vous prenez conscience du pouvoir de vos émotions, et précisément qui a le pouvoir et comment l’exercer."
         },
         {
-            "title": "Partie 3 : ",
-            "description": ""
+            "title": "Partie 3 : Qu’est-ce qu’une émotion ?",
+            "description": "Vous reconnaissez et comprenez ce qu’est véritablement une émotion, comment elle se caractérise et comment je la décode pour identifier son message."
         },
         {
-            "title": "Partie 4 : ",
-            "description": ""
+            "title": "Partie 4 : Les 4 émotions principales ressenties",
+            "description": "A travers 4 principales émotions choisies, vous allez apprendre à repérer vos propres émotions, à les vivre, à découvrir leurs caractéristiques, leurs avantages et inconvénients."
         },
         {
-            "title": "Partie 5 : ",
-            "description": ""
+            "title": "Partie 5 : Ce que les émotions me disent de mes besoins",
+            "description": "Vous allez rentrer par une porte non habituelle, l’expression de vos besoins, apprendre à reconnaître, identifier chaque besoin, derrière chaque émotion ressentie et décoder les messages associés.<br/>Comprendre qu’un besoin qui n’est pas satisfait déclenche une émotion qui est une réaction instinctive non élaborée.<br/> Et de fait, y répondre de façon appropriée."
         },
         {
-            "title": "Partie 6 : ",
-            "description": ""
+            "title": "Partie 6 : Comment réguler mes émotions ?",
+            "description": "Maintenant que vous savez comment fonctionnent les émotions, vous pouvez apprendre à les apprivoiser et apporter une réponse adaptée en pratiquant des techniques de régulation.<br/> Et vous expérimentez les techniques proposées."
         },
         {
-            "title": "Partie 7 : ",
-            "description": ""
+            "title": "Partie 7 : Cas pratiques",
+            "description": "Nous profiterons de cette partie pour illustrer toutes les notions vues précédemment par des capsules vidéo tournées en pharmacie. Grâce à une professionnelle de santé, vous pourrez prendre conscience des bonnes pratiques à avoir selon les émotions des clients au comptoir."
         },
         {
-            "title": "Partie 8 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 9 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 10 : ",
-            "description": ""
+            "title": "Partie 8 : Le début du voyage",
+            "description": "Réaliser que comprendre est un début et que tout est une question de pratique des techniques de régulation proposées."
         },
         {
             "title": "Exercices et fiches à télécharger",
@@ -66,9 +55,9 @@
     ],
     "teachers": [
         {
-            "id": "",
-            "name": "",
-            "description": ""
+            "id": "stivin",
+            "name": "Christine STIVIN",
+            "description": "Psychologue, thérapeute, coach et formatrice, Christine STIVIN est aussi fascinée par la facilité des personnes à mettre en place des comportements d’excellence, si les clés leur sont données et qu’ils les utilisent.Elle adapte depuis 20 ans l’approche de la psychologie, des sciences cognitives et du développement personnel au monde de l’entreprise, quelle que soit sa taille et son secteur d’activité. Elle met au service des personnes et des organisations, des outils concrets, ludiques, pour une vision inexplorée jusqu’alors. Les changements observés sont ainsi rapides et insufflent une nouvelle énergie, clé de voute de la performance et réussite individuelle et collective."
         }
     ]
 }

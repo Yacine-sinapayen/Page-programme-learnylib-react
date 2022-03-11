@@ -1,63 +1,38 @@
 {
-    "id": "",
-    "title": "",
-    "shortDescription": "",
+    "id": "cardio-2",
+    "title": "Cardiovasculaire : pathologies et traitement (trouble du rythme cardiaque et coagulation)",
+    "shortDescription": "Maîtriser le suivi des patients traités pour différentes maladies thromboemboliques au comptoir, de l’analyse des prescriptions à la prévention des potentielles complications.",
     "supports": [
         "",
         ""
     ],
-    "teaser": "",
-    "description": " <br/><br/>  <br/><br/>  <br/><br/>  <br/><br/> ",
+    "teaser": "665678358",
+    "description": "On estime à 6000 le nombre de décès par an liés aux mésusages des anticoagulants, dont une majorité serait évitable.  <br/><br/>En dépit des bénéfices incontestables qu’apportent ces médicaments, l’enjeu pour l’équipe officinale est d’accompagner les patients traités afin de réduire la iatrogénie.   <br/><br/>Les femmes sont particulièrement touchées avec des facteurs de risque spécifiques tels que la prise d’hormones pour différentes indications, lors de la grossesse ou de la ménopause.",
     "goals": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Connaître les principaux médicaments indiqués dans les maladies cardio-vasculaires",
+        "Discuter les différentes stratégies thérapeutiques pour une pathologie CV donnée ",
+        "Adapter les thérapeutiques en fonction de la situation physiologique (âge, grossesse, allaitement,...) et/ou pathologique (insuffisance rénale, insuffisance hépatique, diabète...)",
+        "Justifier le choix du traitement en fonction des thérapeutiques associées (interactions pharmacodynamiques et/ou pharmacocinétiques)",
+        "Prendre en compte les paramètres pharmacocinétiques d’un médicament et proposer un plan de prise optimal",
+        "Participer à la mise en œuvre du bon usage du médicament et de la prévention de la iatrogénie",
+        "Déduire le médicament le plus adapté à une situation et discuter son rapport bénéfice/risque"
     ],
     "program": [
         {
-            "title": "Partie 1 : ",
-            "description": ""
+            "title": "Partie 1 : Le risque thrombo-embolique",
+            "description": "Nous débuterons avec les facteurs de risque des pathologies trombo-emboliques: phlébite, embolie pulmonaire ou fibrillation atriale."
         },
         {
-            "title": "Partie 2 : ",
-            "description": ""
+            "title": "Partie 2 : Les anticoagulants",
+            "description": "Ensuite, nous détaillerons les différents anticoagulants, des plus anciens aux plus récents mis sur le marché. <br/> Ce sera l’occasion d’aborder le suivi du patient traité par des anticoagulants au comptoir mais aussi la mise en place d’entretiens pharmaceutiques."
         },
         {
-            "title": "Partie 3 : ",
-            "description": ""
+            "title": "Partie 3 : Les anti-agrégats plaquettaires",
+            "description": "Puis nous passerons en revue d’autres médicaments comme les anti-agrégants plaquettaires."
         },
         {
-            "title": "Partie 4 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 5 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 6 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 7 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 8 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 9 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 10 : ",
-            "description": ""
+            "title": "Partie 4 : Stratégies thérapeutiques",
+            "description": "Enfin, nous aborderons les stratégies de prise en charge des différentes maladies thromboemboliques."
         },
         {
             "title": "Exercices et fiches à télécharger",
@@ -66,9 +41,9 @@
     ],
     "teachers": [
         {
-            "id": "",
-            "name": "",
-            "description": ""
+            "id": "faure",
+            "name": "Dr Sébastien FAURE",
+            "description": "Docteur en pharmacie et professeur de pharmacologie à la Faculté de Pharmacie d’Angers, Sébastien Faure développe une activité d’enseignement en filière officine et de recherche sur les soins primaires. Il est également conférencier en formation continue, rédacteur en chef adjoint de la revue « Actualités pharmaceutiques » (Elsevier Masson) et a écrit ou coordonné plusieurs ouvrages sur les médicaments. Secrétaire général de la Société Francophone des sciences pharmaceutiques officinales, il a à cœur de proposer des formations aux pharmaciens afin d’améliorer les pratiques et leur faciliter l’appropriation des nouvelles missions d’accompagnement (éducation thérapeutique du patient, entretiens pharmaceutiques, bilans partagés de vaccination...), particulièrement adaptées aux patients souffrant de diabète."
         }
     ]
 }

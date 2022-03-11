@@ -1,64 +1,38 @@
 {
-    "id": "",
-    "title": "",
-    "shortDescription": "",
+    "id": "denutrition",
+    "title": "Adaptation de l'alimentation et prévention de la dénutrition lors des traitements anticancéreux",
+    "shortDescription": "Savoir adapter l’alimentation liées aux effets indésirables des traitements anticancéreux et de la pathologie cancéreuse et savoir se prémunir de la dénutrition. ",
     "supports": [
         "",
         ""
     ],
-    "teaser": "",
-    "description": " <br/><br/>  <br/><br/>  <br/><br/>  <br/><br/> ",
+    "teaser": "665678772",
+    "description": "Savez-vous que 40% des patients atteints d’un cancer sont dénutris, et que ce chiffre peut monter jusqu’à 70 % en ce qui concerne les cancers ORL et digestifs. <br/><br/>Perte d’appétit, altérations du goût ou troubles de la déglutition, les effets secondaires des traitements anticancéreux sont en effet nombreux. Pourtant ce n’est pas une fatalité !  <br/><br/> Au comptoir comme au cabinet, cette formation a pour but de vous sensibiliser à ces différentes problématiques et vous donner des clés pour y remédier. <br/><br/>Concernant les effets secondaires, vous trouverez des réponses pratiques, avec des conseils hygiéno-diététiques, des mesures posturales et des produits à conseiller.",
     "goals": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Connaître les différentes phases de prise en charge alimentaire face au cancer",
+        "Savoir poser les bonnes questions au patient pour identifier une probable dénutrition, proposer des conseils hygiéno-diététiques dont des techniques d'enrichissement et des denrées alimentaires destinées à des fins médicales spéciales lors de dénutrition",
+        "Savoir proposer des adaptations alimentaires et des conseils pratiques lors de nombreuses mucites ou lors de goût métallique dans la bouche",
+        "Savoir proposer des conseils pratiques, des mesures posturales et des denrées alimentaires destinées à des fins médicales spéciales lors de dysphagie",
+        "Savoir poser les bonnes questions au patient pour identifier la présence réelle d'une constipation, proposer des adaptations alimentaires et des mesures posturales"
     ],
     "program": [
         {
-            "title": "Partie 1 : ",
-            "description": ""
+            "title": "Partie 1 : Préventions primaire et tertiaire",
+            "description": "Au sein de cet item, nous verrons les différents types de préventions. Il y a celle dite « primaire » avec des facteurs exogènes liés à notre mode de vie et notre alimentation, mais nous parlerons également des 5 facteurs nutritionnels qui réduisent le risque de cancer. Et également celle dite « tertiaire » ayant pour but de prévenir la récidive du cancer, de prévenir la prise excessive de poids et la remobilisation corporelle."
         },
         {
-            "title": "Partie 2 : ",
-            "description": ""
+            "title": "Partie 2 : Adaptation de l’alimentation aux traitements anticancéreux",
+            "description": "Au sein de cet item, nous verrons les différents types de préventions. Il y a celle dite « primaire » avec des facteurs exogènes liés à notre mode de vie et notre alimentation, mais nous parlerons également des 5 facteurs nutritionnels qui réduisent le risque de cancer. Et également celle dite « tertiaire » ayant pour but de prévenir la récidive du cancer, de prévenir la prise excessive de poids et la remobilisation corporelle."
         },
         {
-            "title": "Partie 3 : ",
-            "description": ""
+            "title": "Partie 3 : Adaptation de l’alimentation aux traitements anticancéreux",
+            "description": "Dans cette partie nous verrons comment adapter l’alimentation aux traitements anticancéreux en fonction des différents troubles digestifs (dyspepsie), en de perte d’appétit et d’anorexie , de nausées et de vomissements, de mucites et d’aphtes, d’altérations du goût (dysgueusie), de sécheresse buccale (xérostomie), de troubles de la mastication et de la déglutition (dysphagie), de diarrhées et de constipation."
         },
         {
-            "title": "Partie 4 : ",
-            "description": ""
+            "title": "Partie 4 : Adaptation de l’alimentation à la prévention de la dénutrition et alimentation artificielle (entérale et parentérale)",
+            "description": "Ensuite nous continuerons par la spirale de la dénutrition et les rappels des recommandations nutritionnelles de la HAS, des conseils nutritionnels, le principe et les objectifs de l’enrichissement de l’alimentation et un point sur les dernières données scientifiques sur la pratique du régime sans sucre et du jeun lors d’un cancer. Enfin nous verrons un arbre décisionnel du soin nutritionnel, une présentation de l’alimentation entérale : composition, prince, complications et précautions, une présentation de l’alimentation parentérale : composition, principe et un schéma de différents niveaux de prise en charge nutritionnelle."
         },
-        {
-            "title": "Partie 5 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 6 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 7 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 8 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 9 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 10 : ",
-            "description": ""
-        },
+        
         {
             "title": "Exercices et fiches à télécharger",
             "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
@@ -66,9 +40,9 @@
     ],
     "teachers": [
         {
-            "id": "",
-            "name": "",
-            "description": ""
+            "id": "collet",
+            "name": "Dr Adeline COLLET",
+            "description": "Docteur en Pharmacie, Adeline Collet a longtemps travaillé comme consultante en formation pour l’industrie cosmétique. Puis, elle s'est spécialisée en nutrition par l’obtention du diplôme de Diététicienne Nutritionniste qu'elle a complété par diverses formations dont celle de l’alimentation lors des traitements oncologiques et la prévention de la dénutrition qu'elle pratique au quotidien dans son cabinet et qu’elle enseigne en faculté de Pharmacie."
         }
     ]
 }

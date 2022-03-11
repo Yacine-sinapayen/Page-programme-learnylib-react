@@ -1,0 +1,44 @@
+{
+    "id": "detresse-psychologique",
+    "title": "Détresse psychologique liée au travail",
+    "shortDescription": "Apprenez comment prendre en charge les patients atteints de détresse psychologique au travail et comment leur apporter un suivi adapté.",
+    "supports": [
+        "",
+        ""
+    ],
+    "teaser": "677277364",
+    "description": "En France, 480 000 personnes seraient en détresse psychologique au travail, dont 30 000 personnes au stade de Burn out.<br/><br/>En tant que médecins généralistes, vous êtes en première ligne dans le recours au soin de ces patients. Burn out, harcèlement, stress chronique : cette formation va vous permettre de traiter des patients présentant des souffrances psychologiques en relation avec leur travail. <br/><br/>En effet, ce sont autant de problématiques amenées potentiellement par vos patients et qui nécessitent de leur offrir une écoute attentive et des « portes de sortie » au-delà de l’action médicamenteuse s’il y a lieu. <br/><br/>Dans cette formation, nous aborderons les différents facteurs de risques en entreprise, ce à quoi peut être confronté l’individu au travail : manque de reconnaissance, inadéquation moyens / objectifs, surcharge de travail par exemple. <br/><br/>Nous évoquerons les symptômes que le patient peut exprimer, tant physiques que psychiques. Nous détaillerons ensuite : Quelle aide pouvez-vous apporter ? Quelle posture pouvez-vous adopter ? Quelles réorientations pouvez-vous proposer pour accompagner votre patient vers un mieux-être ? <br/><br/>  A l’aide de cas cliniques et d’exemples concrets, vous aurez des connaissances pratiques et immédiatement applicables lors vos prochaines consultations. Vous disposerez également de sources documentaires pour développer davantage votre posture dans le cas de consultations en lien avec la souffrance au travail.<br/><br/> A l’issue de cette formation, vous pourrez accueillir et prendre en charge efficacement vos patients et travailler de concert avec les acteurs spécialisés dans ces thématiques. ",
+    "goals": [
+        "Comprendre ce que sont les risques psychosociaux ",
+        "Comprendre ce qu'est le burn out",
+        "Différencier le burn out de la dépression",
+        "Savoir identifier les causes du mal être du patient ",
+        "Connaître la meilleure posture à adopter en consultation pour accompagner son patient",
+        "Connaître les différents acteurs internes et externes pour bien orienter son patient"
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : Les risques psychosociaux : définitions et cas cliniques",
+            "description": "Dans cette partie nous comprendrons en quoi consistent les risques psychosociaux en entreprise. Nous verrons également les définitions des différentes sources de mal-être : harcèlement moral et sexuel, stress, burn out, etc. "
+        },
+        {
+            "title": "Partie 2 : La posture du médecin en consultation ",
+            "description": "Nous verrons de quelle façon il peut être possible d’accueillir la parole du patient. Il s’agira aussi de savoir quelle posture adopter pour amener le patient à mettre des mots sur son état et l’accompagner vers un plan d’actions efficace pour le sortir de sa problématique."
+        },
+        {
+            "title": "Partie 3 : Comment aider son patient à sortir de sa souffrance au travail ?",
+            "description": "Dans cette partie, nous exposerons quelques principes pour mener des consultations pouvant aider le patient et le placer dans une posture active afin qu’il puisse résoudre ses problématiques. L’apprenant aura également connaissance du tissu de professionnels pouvant agir de concert avec lui pour accompagner le patient vers un mieux-être."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "pangny",
+            "name": "Mélissa PANGNY",
+            "description": "Mélissa Pangny est psychologue du travail, spécialiste du psychisme et du comportement humain interagissant avec la sphère professionnelle. Elle possède des compétences lui permettant d’agir pour solutionner les problématiques de l’individu au travail. Elle connaît les risques professionnels (psychosociaux) que les individus peuvent rencontrer : charge de travail, insécurité de l’emploi, stress, mauvaise ambiance, inadéquation des valeurs, reconnaissance…grâce, entre autres, à ses interventions en entreprises en tant que consultante. Sa connaissance des différentes interactions dans le milieu professionnel et des souffrances que peut subir un individu (harcèlement, burn out etc.) lui permettent également d’intervenir en tant que formatrice pour des entreprises ou écoles de commerce."
+        }
+    ]
+}
