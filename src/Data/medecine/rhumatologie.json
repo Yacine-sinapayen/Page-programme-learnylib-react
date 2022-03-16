@@ -1,63 +1,73 @@
 {
-    "id": "",
-    "title": "",
-    "shortDescription": "",
+    "id": "rhumatologie",
+    "title": "Savoir prendre en charge un gonflement articulaire de A à Z",
+    "shortDescription": "Apprenez les caractéristiques de la rhumatologie de A à Z.",
     "supports": [
         "",
         ""
     ],
-    "teaser": "",
-    "description": " <br/><br/>  <br/><br/>  <br/><br/>  <br/><br/> ",
+    "teaser": "677272156",
+    "description": " Un gonflement articulaire peut révéler plus de 200 pathologies rhumatismales différentes. <br/><br/> C’est un symptôme fréquent, qui peut parfois révéler des maladies graves ou urgentes. <br/><br/> En tant que médecin généraliste, vous êtes les interlocuteurs privilégiés des patients. Le délai d’obtention d’une consultation auprès d’un rhumatologue est en moyenne de 45 jours.<br/><br/> Il est de ce fait capital que vous sachiez réagir et raisonner dans cette situation. <br/><br/> Quand et comment dois-je réaliser une ponction articulaire ? Quelles en sont les contre-indications ? Existe-il des risques à sa réalisation ? De quel matériel ai-je besoin ? Comment analyser un liquide de ponction ? Quand dois-je adresser le patient aux urgences ou à un rhumatologue ? <br/><br/> <br/><br/> Nous vous livrerons toutes les réponses à ces questions pratiques au cours de cette formation. Vous apprendrez les réflexes à adopter devant un gonflement articulaire. <br/><br/> Nous verrons comment réagir face à une suspicion d’arthrite septique. Nous vous livrerons les secrets de réalisation d’une ponction de genou, un acte tout à fait réalisable dans votre pratique clinique quotidienne. <br/><br/> Mécanique, microcristallin, inflammatoire sans microcristaux ou hémorragique : on abordera en détails l’analyse du liquide de ponction, qui est la clé de voûte du raisonnement devant un gonflement articulaire.<br/><br/> Nous allons vous guider afin d’élaborer une démarche clinique complète pour passer du symptôme au diagnostic. Vous aurez aussi l’occasion de mettre en pratique ces bases théoriques à travers de nombreux cas cliniques auxquels vous serez confrontés dans votre cabinet.<br/><br/> A l’issue de cette formation vous vous sentirez pleinement capables de gérer un gonflement articulaire de A à Z. <br/><br/>",
     "goals": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Évaluer ses connaissances générales sur la rhumatologie",
+        "Élaborer une démarche diagnostique complète face à un symptôme ou syndrome",
+        "Réaliser une ponction de liquide articulaire en respectant les règles de bonnes pratiques, et analyser son résultat ",
+        "Orienter son patient, et initier les thérapeutiques adaptées selon la situation",
+        "Savoir raisonner devant un résultat d’analyse de liquide de ponction articulaire ",
+        "Savoir identifier les situations potentiellement urgentes ou graves devant un gonflement articulaire"
     ],
     "program": [
         {
-            "title": "Partie 1 : ",
-            "description": ""
+            "title": "Partie 1 : QCM",
+            "description": "Évaluation des connaissances préalables à la formation."
         },
         {
-            "title": "Partie 2 : ",
-            "description": ""
+            "title": "Partie 2 : Introduction",
+            "description": "Nous commencerons par une introduction avec quelques rappels, les bases et les caractéristiques de la rhumatologie. "
         },
         {
-            "title": "Partie 3 : ",
-            "description": ""
+            "title": "Partie 3 : Poser le diagnostic",
+            "description": "Nous verrons les différentes étapes de l’examen et les bons questionnements permettant de poser un diagnostic précis."
         },
         {
-            "title": "Partie 4 : ",
-            "description": ""
+            "title": "Partie 4 : Les réflexes à avoir face à un gonflement articulaire",
+            "description": "Nous déterminerons quels sont les bons réflexes à avoir face à un gonflement articulaire et tout particulièrement les questions essentielles à poser au patient lors de l’examen."
         },
         {
-            "title": "Partie 5 : ",
-            "description": ""
+            "title": "Partie 5 : Réagir face à une suspicion d’arthrite septique",
+            "description": "Nous verrons l’importance de l’évaluation de la tolérance du sepsis face à une suspicion d’arthrite septique et nous verrons ensuite ce qu’il faut faire pour accompagner au mieux le patient."
         },
         {
-            "title": "Partie 6 : ",
-            "description": ""
+            "title": "Partie 6 : La ponction de liquide articulaire",
+            "description": "Cette partie nous permettra de tout savoir sur la ponction de liquide articulaire : quand la réaliser, comment, quels en sont les risques et comment les réduire."
         },
         {
-            "title": "Partie 7 : ",
-            "description": ""
+            "title": "Partie 7 : L’analyse d’un liquide de ponction articulaire ",
+            "description": "Nous verrons comment analyser un liquide de ponction articulaire, et quels sont les différents types de liquides articulaires existants."
         },
         {
-            "title": "Partie 8 : ",
-            "description": ""
+            "title": "Partie 8 : Raisonner devant un liquide mécanique ",
+            "description": "Dans cette partie nous verrons quels sont les diagnostics à évoquer face à un liquide mécanique. Nous verrons quels examens complémentaires sont nécessaires selon chaque cas, ainsi que les bases de traitements pour chaque pathologie."
         },
         {
-            "title": "Partie 9 : ",
-            "description": ""
+            "title": "Partie 9 : Raisonner devant un liquide inflammatoire",
+            "description": "Nous verrons comment élaborer notre démarche diagnostique face à un liquide inflammatoire stérile dans les cas suivants : avec et sans microcristaux. Nous apprendrons à évaluer le degré d’urgence de chaque situation. Nous verrons quels examens complémentaires prescrire selon la situation. Nous rappellerons les tableaux cliniques des pathologies évoquées ainsi que leurs prises en charge en pratique au cabinet."
         },
         {
-            "title": "Partie 10 : ",
-            "description": ""
+            "title": "Partie 10 : Raisonner devant une hémarthrose",
+            "description": "Dans cette partie nous verrons quelles pathologies évoquer devant une hémarthrose sans oublier le piège de l’arthrite septique."
+        },
+        {
+            "title": "Partie 11 : Savoir adresser le patient en conséquences",
+            "description": "Nous ferons un récapitulatif des situations pour lesquelles il est recommandé d’adresser le patient aux urgences ou à un rhumatologue, et sous quel délai."
+        },
+        {
+            "title": "Partie 12 : Les traitements à initier en première intention en fonction des différentes situations",
+            "description": "Chaque cas nécessite un traitement adapté, nous verrons dans cette partie comment initier les bons traitements en fonction de la situation présente."
+        },
+        {
+            "title": "Partie 13 : Conclusion « take-home messages »",
+            "description": "Enfin pour terminer, nous conclurons avec le récapitulatif des points essentiels."
         },
         {
             "title": "Exercices et fiches à télécharger",
@@ -66,9 +76,9 @@
     ],
     "teachers": [
         {
-            "id": "",
-            "name": "",
-            "description": ""
+            "id": "vercuysse",
+            "name": "Dr François VERCUYSSE",
+            "description": "Ancien Chef de Clinique du CHU de Bordeaux, ancien conférencier de Rhumatologie et auteur de plusieurs ouvrages à destination des étudiants préparant l’ECN, l’enseignement et la formation sont des passions pour ce Rhumatologue maintenant installé à l’Hôpital Privé Saint-Martin à Pessac en Gironde. Titulaire de nombreux DU , il partage son activité entre rhumatologie inflammatoire, pathologies osseuses ou métaboliques, pathologies mécaniques, pathologies dégénératives et réalisation de gestes infiltratifs sous guidage échographique. Auteurs de plusieurs articles scientifiques, il met un point d’honneur à la rigueur scientifique des informations délivrées au cours de ses formations et saura vous donner les clés et astuces qui vous feront gagner un temps précieux dans votre pratique clinique quotidienne."
         }
     ]
 }

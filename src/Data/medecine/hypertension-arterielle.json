@@ -1,63 +1,89 @@
 {
-    "id": "",
-    "title": "",
-    "shortDescription": "",
+    "id": "hypertension-arterielle",
+    "title": "L’hypertension artérielle de A à Z pour le médecin généraliste",
+    "shortDescription": "Apprenez toutes les étapes de A à Z. De l’analyse 3D et la planification, à l’intervention chirurgicale en secteur esthétique antérieur.",
     "supports": [
         "",
         ""
     ],
-    "teaser": "",
-    "description": " <br/><br/>  <br/><br/>  <br/><br/>  <br/><br/> ",
+    "teaser": "672343775",
+    "description": "L’Hypertension artérielle est le premier motif de consultation en médecine générale. Elle positionne le médecin généraliste comme référent incontournable et véritable spécialiste de cette maladie qui touche 30% de la population adulte et 12 millions de Français.<br/><br/> Un patient sur 2 qui ouvre la porte de votre cabinet est un hypertendu. Durant votre cursus, de moins en moins de temps est consacré à l’hypertension artérielle et beaucoup d’entre nous se retrouvent avec des connaissances perfectibles ou parfois datées pour une maladie en constante évolution.<br/><br/>  Pour ces raisons, une réactualisation est primordiale.<br/><br/> Nous avons construit cette formation spécifiquement dédiée à la prise en charge de l’HTA en médecine générale en reprenant les situations cliniques fréquemment rencontrées au cabinet pour lesquelles vous éprouvez parfois des difficultés diagnostiques ou thérapeutiques. <br/><br/> De la phase initiale aux situations plus complexes que peuvent représenter l’HTA résistante ou associée à d’autres comorbidités, comme le diabète, l’insuffisance rénale ou certaines situations d’urgences, cette formation vous apportera les fondamentaux et les clefs pour une prise en charge en phase avec les données les plus récentes.<br/><br/>Elle vous permettra ainsi d’offrir à vos patients la nécessaire qualité de soins qu’impose cette pathologie. <br/><br/> Dès le lendemain de cette formation, vous aurez l’occasion d’appliquer les enseignements acquis afin de contribuer à l’amélioration du contrôle tensionnel de vos patients.",
     "goals": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
+        "Savoir appliquer les recommandations officielles sur l'hypertension artérielle en pratique au cabinet",
+        "Établir un diagnostic précis d'après les critères HAS",
+        "Accompagner et apporter un suivi adapté à chaque patient",
+        "Connaître et maîtriser les différents traitements de l'hypertension artérielle",
+        "Savoir prendre en charge un(e) patient(e) hypertendu(e) atteint de comorbidités",
         ""
     ],
     "program": [
         {
-            "title": "Partie 1 : ",
-            "description": ""
+            "title": "Partie 1 : Hypertension artérielle : rappels épidémiologiques et situation en France",
+            "description": "Dans un premier temps, nous verrons les bases de l’hypertension artérielle via des rappels epidémiologiques ainsi que des éléments contextuels."
         },
         {
-            "title": "Partie 2 : ",
-            "description": ""
+            "title": "Partie 2 : Diagnostic de l’HTA : annonce, bilan initial et traitement non pharmacologique",
+            "description": "Nous verrons les étapes essentielles au diagnostic de l’hypertension artérielle. Nous aborderons également les points clefs de la consultation et de l’annonce au patient."
         },
         {
-            "title": "Partie 3 : ",
-            "description": ""
+            "title": "Partie 3 : Pharmacologie des traitements antihypertenseurs",
+            "description": "Nous détaillerons de plus près la pharmacologie des traitements antihypertenseurs en démarrant par les différentes classes de traitements existantes mais aussi leurs contre-indications et possibles effets secondaires."
         },
         {
-            "title": "Partie 4 : ",
-            "description": ""
+            "title": "Partie 4 : Règles de titration du traitement antihypertenseur",
+            "description": "La titration du traitement est une étape très importante et nous verrons, dans cette partie, le rôle qu’elle tient et les règles précises auxquelles elle répond."
         },
         {
-            "title": "Partie 5 : ",
-            "description": ""
+            "title": "Partie 5 : Suivi d’un hypertendu au cours des 6 premiers mois",
+            "description": "Les 6 premiers mois du suivi d’un patient hypertendu représente une période dynamique et très dense et nous allons voir en quoi elle consiste. Nous verrons pourquoi, à quel rythme et avec quel contenu organiser ces premières consultations."
         },
         {
-            "title": "Partie 6 : ",
-            "description": ""
+            "title": "Partie 6 : Quand prescrire des examens complémentaires cardiologiques ?",
+            "description": "Nous déterminerons pour quels patients, et à quel moment il est nécessaire de prescrire des examens complémentaires."
         },
         {
-            "title": "Partie 7 : ",
-            "description": ""
+            "title": "Partie 7 : HTA résistante : définition et CAT",
+            "description": "Nous aborderons les éléments à connaître concernant l’hypertension artérielle résistante, ainsi que la conduite à tenir en tant que médecin généraliste."
         },
         {
-            "title": "Partie 8 : ",
-            "description": ""
+            "title": "Partie 8 : Quels facteurs de résistance doit-on rechercher en médecine générale ?",
+            "description": "Nous verrons quels facteurs de non-contrôle de l’HTA sont à rechercher."
         },
         {
-            "title": "Partie 9 : ",
-            "description": ""
+            "title": "Partie 9 : Auto mesure tensionnelle : quand, comment et les pièges",
+            "description": "Les mesures ambulatoires font partie intégrante de la prise en charge moderne d’un hypertendu, nous étudierons de quelle façon le patient peut effectuer des automesures et les pièges à éviter."
         },
         {
-            "title": "Partie 10 : ",
-            "description": ""
+            "title": "Partie 10 : Suivi d’un hypertendu après un évènement coronaire",
+            "description": "Une proportion non négligeable d’hypertendus traités va malgré tout faire un événement coronaire. Nous verrons comment continuer à suivre et traiter notre patient après cet évènement."
+        },
+        {
+            "title": "Partie 11 : Hypertendu diabétique : quelles particularités",
+            "description": "Nous aborderons les particularités du traitement et du suivi d’un patient hypertendu diabétique."
+        },
+        {
+            "title": "Partie 12 : HTP et insuffisance rénale : quand passer la main au néphrologue ?",
+            "description": "Afin de répondre au mieux à la prise en charge d’un patient hypertendu et atteint d’insuffisance rénale nous verrons les bons réflexes et à avoir face à certaines anomalies clinico-biologiques afin de déterminer quand passer la main au néphrologue."
+        },
+        {
+            "title": "Partie 13 : HTA et grossesse : les fondamentaux à ne pas oublier",
+            "description": "Nous distinguerons HTA chronique, gestationnelle et pré-éclampsie et détaillerons la conduite à tenir face à nos patientes enceintes hypertendues en pratique au cabinet."
+        },
+        {
+            "title": "Partie 14 : Hypotension orthostatique : quand la rechercher et que faire ?",
+            "description": "L’hypotension orthostatique est fréquente et sous-diagnostiquée. Nous étudierons comment l’éviter, la dépister et la prendre en charge."
+        },
+        {
+            "title": "Partie 15 : HTA et EHPAD : quels objectifs ?",
+            "description": "Nous aborderons l’importance de la réévaluation des traitements des patients atteints d’hypertension artérielle en EHPAD et les différents objectifs qui en découlent."
+        },
+        {
+            "title": "Partie 16 : Quelles sont les situations où le traitement antihypertenseur doit être suspendu ?",
+            "description": "Afin d’améliorer le pronostic du patient nous verrons dans quels cas de figure et les différentes situations dans lesquelles il va être indispensable d’interrompre leurs traitements antihypertenseur."
+        },
+        {
+            "title": "Partie 17 : HTA sévère au cabinet : CAT",
+            "description": "Cette dernière partie nous apportera toutes les clefs afin de gérer au mieux les cas d’hypertension artérielle sévère au cabinet."
         },
         {
             "title": "Exercices et fiches à télécharger",
@@ -66,9 +92,9 @@
     ],
     "teachers": [
         {
-            "id": "",
-            "name": "",
-            "description": ""
+            "id": "mourad",
+            "name": "Pr Jean-Jacques MOURAD",
+            "description": "Jean-Jacques Mourad est actuellement professeur de médecine et chef du service de médecine interne à l'hôpital Saint-Joseph de Paris. Il a obtenu ses diplômes universitaires à l'Université Pierre et Marie Curie, Paris 6, en médecine interne et un doctorat en pharmacologie cardiovasculaire. <br/><br/> Il s’est spécialisé dans le domaine de l’hypertension artérielle (HTA) et de ses conséquences artérielles.Le Professeur Mourad est l'ancien président du Comité Français de Lutte contre l’HTA (CFLHTA) et Président du conseil scientifique du Collège Français de Pathologie Vasculaire (CFPV). <br/><br/>Les travaux du Professeur Mourad portent sur l'épidémiologie de l'HTA, des conséquences des facteurs néfastes sur la structure et la fonction des artères, les déterminants de l'adhésion des patients aux traitements chroniques (observance). Il a également coordonné plusieurs essais nationaux et internationaux ayant pour objectif de mieux précisé l’efficacité et la tolérance des médicaments anti-hypertenseurs. <br/><br/> En tant que président du CFLHTA, Il a contribué à l'élaboration du plan AVC mené par le Ministère de la Santé et a promu le remboursement intégral des coûts des soins des patients souffrant de formes sévères d’HTA.<br/><br/> Depuis 20 ans, il a été successivement responsable de plusieurs services de Médecine interne dédiés à la prise en charge de malades polypathologiques, consultant les services d’urgence. A l’hôpital Saint-Michel (1998-2002), à l’hôpital Européen Georges Pompidou (2002-2004) et à l’hôpital Avicenne (2004-2019).<br/><br/> Jean-Jacques Mourad est co-auteur de plus de 170 publications et de plus de 1100 communications présentées lors de rencontres nationales et internationales."
         }
     ]
 }

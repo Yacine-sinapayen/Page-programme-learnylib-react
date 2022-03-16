@@ -1,63 +1,63 @@
 {
-    "id": "",
-    "title": "",
-    "shortDescription": "",
+    "id": "nouveau-ne",
+    "title": "Suivi du nouveau-né et du nourrisson",
+    "shortDescription": "De l’examen clinique à la nutrition en passant par l’hygiène, apprenez tout ce qu’il y a à savoir pour un meilleur suivi du nouveau-né et du nourrisson.",
     "supports": [
         "",
         ""
     ],
-    "teaser": "",
-    "description": " <br/><br/>  <br/><br/>  <br/><br/>  <br/><br/> ",
+    "teaser": "679950478",
+    "description": "La période allant de la conception aux deux premières années de vie est primordiale pour le développement de l’enfant et déterminante pour sa santé future. C’est le concept des 1000 jours, de plus en plus reconnu en santé publique. <br/><br/> Le médecin généraliste, interlocuteur privilégié de la famille doit connaître les particularités de l’examen du nouveau-né et du nourrisson et doit être en mesure de repérer les difficultés parentales. <br/><br/>  Dans cette formation complète, nous verrons : <ul> <li>Comment aborder l’examen du nouveau-né et du nourrisson ?</li><li>Comment dépister des troubles sensoriels, notamment visuels ?</li> <li>Comment accompagner les parents en cas de pleurs et de troubles du sommeil ?</li> </ul> <br/><br/> Ensuite, nous allons consacrer une partie de cette formation à l’alimentation du nourrisson. En effet, la nutrition de l’enfant de 0 à 3 ans est essentielle à connaître, car elle contribue à la prévention des maladies cardiovasculaires et métaboliques à l’âge adulte. <br/><br/>Une bonne éducation du « manger et bouger » permettra à l’enfant de démarrer une vie saine. <br/><br/> Nous aborderons ainsi :<ul> <li>Comment accompagner la maman qui allaite son bébé et l’aider en cas de difficultés ?</li><li>Comment conseiller les parents dans le choix des laits infantiles ?</li><li>Comment mener à bien la diversification alimentaire ?</li><li>Comment faire face en cas de troubles digestifs dans les premiers mois de vie ?</li> </ul> <br/><br/> À l’issue de cette formation, vous aurez tous les outils pratiques pour être très vite opérationnel(le) dans l’accompagnement de vos jeunes patients et de leurs parents; en passant par le simple conseil d’hygiène de vie au repérage des situations pathologiques. ",
     "goals": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Savoir repérer une anomalie de développement chez un nouveau-né et un nourrisson",
+        "Mieux connaître l'allaitement et les laits infantiles pour apporter des conseils adaptés aux parents",
+        "Comprendre les enjeux de la diversification",
+        "Accompagner et apporter le meilleur suivi aux nouveau-nés et nourrissons au sein de son entourage",
+        "Connaitre les éléments du suivi du nourrisson",
+        "Mieux accompagner les parents en cas de pleurs du 1er trimestre",
+        "Savoir comment prendre en charge les troubles digestifs bénins du nourrisson",
+        "Connaître les troubles du sommeil chez l’enfant"
     ],
     "program": [
         {
-            "title": "Partie 1 : ",
-            "description": ""
+            "title": "Partie 1 : Examen clinique du nouveau-né",
+            "description": "Nous verrons les étapes de l’examen global d’un nouveau-né puis plus en détails comment procéder pour chaque partie du corps et être capable de détecter une malformation."
         },
         {
-            "title": "Partie 2 : ",
-            "description": ""
+            "title": "Partie 2 : Hygiène et soins puériculture",
+            "description": "Nous détaillerons ensuite l’hygiène du nourrisson et les différents soins à apporter selon les parties du corps, qu’il s’agisse des oreilles, du cordon ombilical ou encore des yeux."
         },
         {
-            "title": "Partie 3 : ",
-            "description": ""
+            "title": "Partie 3 : Allaitement",
+            "description": "Cet item nous permettra de faire le tour de ce qu’il y a à savoir sur l’allaitement maternel et savoir conseiller la mère en cas de difficultés."
         },
         {
-            "title": "Partie 4 : ",
-            "description": ""
+            "title": "Partie 4 : Laits infantiles",
+            "description": "Nous étudierons les différents types de laits infantiles et dans quel cas les recommander."
         },
         {
-            "title": "Partie 5 : ",
-            "description": ""
+            "title": "Partie 5 : Diversification alimentaire",
+            "description": "Nous verrons comment se déroule la diversification alimentaire du nourrisson en fonction des différentes catégories d’aliments et les trois périodes principales qui la composent."
         },
         {
-            "title": "Partie 6 : ",
-            "description": ""
+            "title": "Partie 6 : Suivi du nourisson",
+            "description": "Nous verrons les éléments importants de la consultation de suivi d’un nourrisson aux différents âges, les certificats obligatoires, l’utilisation des courbes de croissance"
         },
         {
-            "title": "Partie 7 : ",
-            "description": ""
+            "title": "Partie 7 : Dépistage des troubles sensoriels",
+            "description": "Dès les premiers mois de la vie d’un nourrisson, les troubles sensoriels peuvent être dépistés. Nous verrons les principaux signes d’alerte, ainsi que les tests permettant de mettre en évidence pour des troubles visuels et auditifs."
         },
         {
-            "title": "Partie 8 : ",
-            "description": ""
+            "title": "Partie 8 : Troubles du sommeil",
+            "description": "Nous étudierons les rythmes du sommeil d’un nourrisson selon son âge ainsi que les troubles pouvant y être associés."
         },
         {
-            "title": "Partie 9 : ",
-            "description": ""
+            "title": "Partie 9 : Pleurs",
+            "description": "Nous étudierons les causes de pleurs du 1er trimestre, rythmes du sommeil d’un nourrisson selon son âge ainsi que les troubles pouvant y être associés."
         },
         {
-            "title": "Partie 10 : ",
-            "description": ""
+            "title": "Partie 10 : Troubles digestifs bénins",
+            "description": "Régurgitations, selles anormales et coliques sont des troubles digestifs bénins et nous les aborderons en détails dans cette partie afin de permettre aux parents une prise en charge plus sereine."
         },
         {
             "title": "Exercices et fiches à télécharger",
@@ -66,9 +66,14 @@
     ],
     "teachers": [
         {
-            "id": "",
-            "name": "",
-            "description": ""
+            "id": "lamireau",
+            "name": "Dr Delphine LAMIREAU",
+            "description": "Soucieuse de la prévention en santé publique dans le domaine de la petite enfance, le Dr Delphine Lamireau , praticien hospitalier , pédiatre néonatologiste à l’hôpital pédiatrique du CHU de Bordeaux, a travaillé 15 ans en réanimation pédiatrique et en néonatologie, avant de prendre la responsabilité de la direction des lactariums du Chu de Bordeaux en 2011. Depuis, devenue consultante en lactation, elle accompagne et soutient les mères dans leur projet d’allaitement. Elle est également spécialisée dans la nutrition du nourrisson et guide les mères dans l’éducation de l’alimentation de leur enfant. Titulaire de plusieurs DU notamment en pédagogie , elle a à cœur de partager ses connaissances et son expérience en tant que conférencière et formatrice aux professionnels de santé recevant des nourrissons dans leur patientèle."
+        },
+        {
+            "id": "thierry-lamireau",
+            "name": "Pr Thierry LAMIREAU",
+            "description": "Le Pr Thierry LAMIREAU a étudié à Londres et Montréal avant de prendre la responsabilité du service d’Hépato-Gastroentérologie et Nutrition Pédiatriques du CHU de Bordeaux. Ses centres d’intérêt cliniques sont principalement la maladie coeliaque, les maladies inflammatoires chroniques intestinales, les cholestases néonatales. Il travaille sur les conséquences nutritionnelles des évènements périnataux au sein de l’équipe INSERM “Lifelong exposures, health and ageing”. Il coordonne le Diplôme Inter-Universitaire d’Hépatologie, Gastroentérologie et Nutrition Pédiatriques et le Diplôme Universitaire de Médecine Générale de l’Enfant. Il est rédacteur en chef de la revue Perfectionnement en Pédiatrie."
         }
     ]
 }

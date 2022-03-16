@@ -1,0 +1,71 @@
+{
+    "id": "urgences-pediatriques",
+    "title": "Pédiatrie générale : urgence et cadre médico-social",
+    "shortDescription": "Maîtrisez les différentes urgences pédiatriques et améliorer la prise en charge des enfants face à la douleur ou face à des suspicion de maltraitance.",
+    "supports": [
+        "",
+        ""
+    ],
+    "teaser": "680871728",
+    "description": "En tant que médecin généraliste, vous voyez vos jeunes patients grandir, au sein de leur foyer familial et scolaire.<br/><br/> Vous êtes confrontés à des situations très variées allant de problèmes d’ordre social, à des problèmes purement médicaux.<br/><br/> Vous avez un rôle primordial dans le repérage des cas de violences ou de négligences d’enfants. <br/><br/> Or, face à ces problèmes de santé publique, trop peu de médecins généralistes sont formés beaucoup n’ont pas les clés pour bien réagir. <br/><br/>Grâce à cette formation, vous serez en mesure de mieux repérer les enfants en danger, et de lancer des procédures d’alerte lorsque cela est nécessaire.<br/><br/> Vous serez aussi capable de repérer les patients nécessitant des soins urgents, face à des symtpômes fréquents comme la fièvre et la douleur.<br/><br/> L’évaluation et la prise en charge d’une fièvre et d’une douleur chez un enfant sont différentes de celles d’un adulte, ce qui complexifie le rôle du médecin généraliste. <br/><br/> Dans un premier temps, nous détaillerons la prise en charge des fièvres aiguës isolées du nourrisson, les fièvres prolongées et récidivantes. <br/><br/> Ensuite, nous verrons les différents types de douleur et comment les mesurer quel que soit l’âge de l’enfant.<br/><br/> Nous consacrerons une partie de cette formation à la suspicion de maltraitance : Quels sont les facteurs de vulnérabilité de l’enfant et de son entourage ? Quels sont les feux rouges qui doivent nous alerter ? Comment réagir de manière rapide face à une suspicion de violences sexuelles ? Comment aborder le sujet avec la famille et quelles démarches effectuer ?<br/><br/> Nous aborderons également en détail le syndrome du Münchhausen par procuration, ainsi que le syndrome du bébé secoué.<br/><br/>Ensuite, nous aborderons des aspects du cadre légal en pratique : l’autorité parentale, le secret médical et ses exceptions ainsi que les droits du mineur.<br/><br/>Nous ferons également un focus sur les différents certificats médicaux que vous pouvez être amenés à rédiger.<br/><br/>Enfin, nous verrons avec un médecin scolaire comment le partenariat entre vous et la médecine scolaire permet aux enfants ayant des besoins spécifiques, tels que les enfants malades et en situation de handicap, de s’épanouir pleinement.<br/><br/> A l’issue de cette formation, vous aurez les clés pour mieux accompagner et prendre en charge vos jeunes patients au cabinet. <br/><br/> ",
+    "goals": [
+        "Savoir dépister les situations de maltraitance de l’enfant",
+        "Connaître les droits de l’enfant, de son ou ses parents dans le cadre de la santé du mineur et du médecin dans le cadre du secret médical",
+        "Savoir prendre en charge la douleur de l’enfant, quel que soit son âge",
+        "Connaitre les différentes orientations diagnostiques dans le cas des fièvres prolongées et des fièvres récurrentes de l’enfant",
+        "Savoir prendre en charge une fièvre aiguë isolée du nourrisson",
+        "Savoir rédiger (ou refuser de rédiger) les certificats médicaux en pédiatrie",
+        "Connaître le champ des missions de la santé scolaire afin d'optimiser la collaboration médecine scolaire - médecine de ville autour de la scolarisation des enfants et adolescents",
+        "Connaître les avancées récentes dans les possibilités d'accueil et de prise en charge des élèves à besoin éducatifs particuliers à l'École"
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : Fièvre récidivante",
+            "description": "Dans cette première partie nous aborderons quelques définitions et caractéristiques de la fièvre ainsi que la démarche diagnostique et la conduite à tenir face à celle-ci."
+        },
+        {
+            "title": "Partie 2 : PEC douleur de l’enfant",
+            "description": "Pour une meilleure prise en charge de la douleur de l’enfant nous verrons tout d’abord les différents types de douleurs et les différentes échelles de mesure. Nous verrons ensuite les thérapeutiques médicamenteuses et non médicamenteuses."
+        },
+        {
+            "title": "Partie 3 : CAT devant une suspicion de maltraitance",
+            "description": "Dans cet item, nous aborderons les cas de suspicion de maltraitance et la conduite à tenir. Nous verrons les différents types de maltraitance telles que la négligence, le syndrome du Münchhausen par procuration, le syndrome du Bébé Secoué ou encore les violences sexuelles. "
+        },
+        {
+            "title": "Partie 4 : Cadre légal en pratique ",
+            "description": "Nous aborderons certains fondamentaux du cadre légal pédiatrique en pratique : l’autorité parentale, les autorisations de soin, le secret médical et les droits du mineur."
+        },
+        {
+            "title": "Partie 5 : Certificats médicaux en pédiatrie",
+            "description": "Nous terminerons par les différents types de certificats médicaux que le médecin généraliste peut être amené à rédiger : du simple certificat médical de non contre-indication à la pratique du sport aux certificats plus particuliers en cas de suspicion de violence."
+        },
+        {
+            "title": "Partie 6 : Généralité sur la santé scolaire",
+            "description": "Nous décrirons dans un premier temps le fonctionnement du service de santé en faveur des élèves de l’éducation nationale (EN). Par la connaissance des différents types de missions des médecins scolaires, il sera ensuite possible de mieux comprendre les articulations avec les partenaires internes et extérieurs à l’école."
+        },
+        {
+            "title": "Partie 7 : Les différents champs d’intervention dans le domaine de la santé de l’élève et le partenariat avec les médecins de ville",
+            "description": "Il s’agira dans cette partie de se centrer sur l’approche individuelle de la santé des élèves : d’une part auprès des élèves à besoins éducatifs particuliers (aménagements possibles pour les élèves porteurs de troubles de la santé, présentant des difficultés d’apprentissage, ou en situations de handicap,) mais aussi par l’intervention auprès des élèves en situation de vulnérabilité (fragilité psychique, protection de l’enfance, troubles du comportement)."
+        },
+        {
+            "title": "Partie 8 : Particularités de la médecine scolaire – Collaboration avec le médecin de ville ",
+            "description": "Parallèlement aux inégalités sociales de santé, il est important de comprendre que sans accompagnement particulier, les enfants et adolescents qui en sont victimes subiront de même des inégalités scolaires progressant inéluctablement depuis les inégalités de traitement aux inégalités de résultats en passant par les inégalités d’orientation puis de diplomation et enfin au niveau de l’insertion professionnelle. Décrire les particularités de l’exercice du médecin scolaire permettra au médecin de ville de mieux saisir les opportunités de collaborer avec lui et d’améliorer le parcours scolaire des enfants et adolescents chaque fois que cela s’avèrera nécessaire."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "lerouge",
+            "name": "Dr Marion BAILHACHE-LEROUGE",
+            "description": "Pédiatre au sein du CHU de Bordeaux, le Dr. Marion Bailhache s’est formée tout particulièrement à la prise en charge des urgences pédiatriques et des enfants en danger. Elle est actuellement responsable des urgences pédiatriques. Titulaire d’une thèse d’épidémiologie sur la maltraitance de l’enfant, elle est également médecin référent violences faites aux enfants au sein du CHU de Bordeaux. Dans ce cadre, elle a à cœur de partager et transmettre ses connaissances sur la pédiatrie générale, et au sein de celle-ci, tout particulièrement, l’enfance en danger"
+        },
+        {
+            "id": "genet",
+            "name": "Dr Caroline GENET",
+            "description": "Sensibilisée aux inégalités sociales de santé et aux inégalités scolaires, engagée au sein de l'association française pour la santé scolaire et universitaire (AFPSSU) et membre du collège des enseignants de médecine scolaire (CNEMS), le Dr Caroline Genet, médecin de l’éducation nationale (médecin scolaire), œuvre pour que l'accueil à l'Ecole des élèves à besoins éducatifs particuliers ne cesse de s'améliorer. Titulaire d'un DU de pédiatrie sociale, d'un DU de médecine d'urgence de l'enfant et du nourrisson et d’une formation à l’EHESP, elle a partagé durant 25 ans son activité médicale entre la santé scolaire et les urgences pédiatriques. Elle accorde une grande importance à la formation et à la transmission, auprès des personnels de l'éducation nationale et des internes en médecine stagiaires (FST), et dans le cadre de l'université de Bordeaux II."
+        }
+    ]
+}

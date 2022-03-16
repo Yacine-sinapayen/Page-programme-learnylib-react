@@ -12,7 +12,6 @@ import TeachersContainer from './Components/Teachers/TeachersContainer/TeachersC
 function App() {
   return (
     <>
-    
       <Header />
       <Teaser />
       <Button />

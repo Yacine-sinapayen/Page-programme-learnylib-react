@@ -1,0 +1,54 @@
+{
+    "id": "accueil-patient.json",
+    "title": "L'accueil du patient",
+    "shortDescription": "LearnyLib, ce sont des formations uniques, 100 % en ligne, répondant à vos obligations légales et à jour des dernières recommandations; réalisées par des praticiens-formateurs, experts dans leur domaine, pour accroître vos compétences et la prise en charge de vos patients.",
+    "supports": [
+        "",
+        ""
+    ],
+    "teaser": "",
+    "description": "L’accueil constitue la « porte d’entrée », le premier contact du patient avec votre Centre ophtalmologique. Parce que nous n’avons qu’une seule occasion de faire une bonne première impression, cette étape est essentielle.<br/><br/> Parce que l’ophtalmologie entre dans une ère de plus en plus concurrentielle, l’objectif de cette formation est de vous donner les clés pour mettre en place et réussir vos process d’accueil patient sur tout un ensemble de points.<br/><br/> Avec une organisation efficace et structurée, c’est un double bénéfice à la clé : augmentation de la qualité de l’expérience vécue au sein du Centre (tant pour les patients que pour le personnel) et croissance du nombre de rendez-vous. <br/><br/>  <br/><br/> Dans cette formation, nous verrons l’ensemble des éléments constitutifs d’un accueil patient réussi et de qualité. ",
+    "goals": [
+        "Mettre en place un site web fonctionnel et efficace en terme de promotion pour le Centre",
+        "Générer du trafic sur son site grâce au S.E.O. ",
+        "Maximiser sa note sur Google My Business",
+        "Mesurer la qualité et l’efficacité de votre standard téléphonique",
+        "Comment bien accueillir son patient",
+        "L’aménagement du Centre ophtalmologique",
+        "L’accueil par les assistant(e)s et les médecins ",
+        "La gestion du patient difficile",
+        "Le discours secteur 2",
+        "Gérer sa communication en cas de retard",
+        "Différence entre patient et client",
+        "Bonus : Le parcours d’un client / patient réfractif ou esthétique"
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : L’accueil numérique et téléphonique ",
+            "description": "L’accueil du patient débute dès la prise d’information, bien avant qu’il ne se rende physiquement au sein de votre Centre. Son expérience démarre dès le premier point de contact, généralement au téléphone ou sur Internet. Voyons ensemble les différentes composantes du premier accueil et comment le réussir. "
+        },
+        {
+            "title": "Partie 2 : L’accueil physique ",
+            "description": "Votre patient arrive au Centre. Nous allons apprendre à identifier les différents points clés à maîtriser et comment les optimiser. Aménagement du Centre, signalétique, parcours, posture et discours du personnel : l’accueil patient est un sujet global."
+        },
+        {
+            "title": "Partie 3 : Les points clés d’un accueil patient réussi",
+            "description": "La perception par un patient du « bon accueil » pourra se cristalliser chez certains sur des points bien particuliers. Parmi ces points, on retrouve notamment le discours secteur 2 ou encore la communication en cas de retard de consultation. Voyons ensemble comment aborder ces points clés, et plus globalement comment gérer le patient dit difficile. "
+        },
+        {
+            "title": "Partie 4 : Bonus : parcours d’un client / patient réfractif ou esthétique",
+            "description": "En bonus, nous verrons comment définir un parcours de prise en charge premium pour les patients pouvant être considérés comme « clients »."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "degoute",
+            "name": "Sébastien DEGOUTE",
+            "description": "Diplômé d’un 3ème cycle en gestion d’entreprise, Sébastien est un ancien Responsable de Centres ophtalmologiques, fondateur et ancien président de l’ARCEN (Association des Responsables de CENtres). Il oeuvre désormais dans le domaine du consulting auprès d’ophtalmologues partout en France métropolitaine et dans les DOM-TOM. Il propose ses services de recrutements, d’audit, de rationalisation, de perfectionnement afin d’optimiser le fonctionnement de Centres petits et grands."
+        }
+    ]
+}

@@ -1,63 +1,67 @@
 {
-    "id": "",
-    "title": "",
-    "shortDescription": "",
+    "id": "pediatre-mixte",
+    "title": "Suivi pédiatrique : focus en dermatologie, endocrinologie et pneumologie",
+    "shortDescription": "Maîtrisez le suivi des nourrissons, enfants et adolescents au cabinet de médecine générale et les particularités pédiatriques en endocrinologie, dermatologie et pneumologie",
     "supports": [
         "",
         ""
     ],
-    "teaser": "",
-    "description": " <br/><br/>  <br/><br/>  <br/><br/>  <br/><br/> ",
+    "teaser": "680041210",
+    "description": "Dès la naissance de son patient, le médecin généraliste est amené à exercer son rôle de médecin traitant. <br/><br/> Il a pour mission le suivi, le dépistage, la prise en charge de motifs aigus, l’éducation à la santé, l’élaboration de plan de soins, et la bonne coordination avec les médecins spécialistes référents. <br/><br/> Dans cette formation pluridisciplinaire, ces missions seront déclinées autour des plusieurs domaines médicaux que le médecin généraliste aborde au quotidien avec ses patients de leur naissance à l’adolescence. <br/><br/> Ainsi, nous vous aiderons à renforcer ou améliorer vos pratiques professionnelles avec vos jeunes patients en dermatologie, endocrinologie, gynécologie et pneumologie pédiatrique. Dans un premier temps, nous détaillerons les différentes étiologies des taches et rougeurs cutanées en pédiatrie, ainsi que les traitements pouvant être proposés. <br/><br/> <br/><br/> Dans un deuxième temps, nous verrons : Comment dépister et prendre en charge des retards de croissance et situations de pubertés pathologiques ? Comment diagnostiquer et suivre les enfants et adolescents atteints de diabète de type I ? Comment réaliser un examen gynécologique chez la petite fille pré-pubère, afin de prendre en charge la majorité des motifs de consultation ?<br/><br/> Nous finirons cette formation par un volet consacré à la pneumologie pédiatrique : la dyspnée, la toux chronique ainsi que l’asthme de l’enfant y seront détaillés. <br/><br/> A l’issue de cette formation, vous serez en mesure de repérer, bilanter et adresser aux spécialistes les patients le requérant.",
     "goals": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Décrire les étapes de la croissance staturo-pondérale normale de l'enfant",
+        "Suivre le développement staturo-pondéral de l'enfant dès la naissance et savoir repérer précocement les anomalies",
+        "Conduire une démarche diagnostique efficace en pédiatrie",
+        "Améliorer la coordination des soins en ayant recours de manière adaptée aux médecins spécialistes et acteurs médico-sociaux",
+        "Prendre en charge les nouveau-nés, nourrissons et enfants consultant pour un motif dermatologique",
+        "Savoir décrire la dyspnée, la toux chronique et en connaître leurs principales étiologies",
+        "Savoir diagnostiquer un asthme, élaborer une prise en charge adaptée à l'enfant et améliorer ses compétences en éducation thérapeutique",
+        "Améliorer ses compétences dans le suivi et l'organisation du parcours de soins de l'enfant diabétique de type I"
     ],
     "program": [
         {
-            "title": "Partie 1 : ",
-            "description": ""
+            "title": "Partie 1 : Introduction à la dermatologie pédiatrique",
+            "description": "Dans un premier temps nous aborderons quelques idées reçues sur les spécificités de la peau de l’enfant et l’importance du rôle des parents."
         },
         {
-            "title": "Partie 2 : ",
-            "description": ""
+            "title": "Partie 2 : La peau du nouveau-né",
+            "description": "Après avoir détaillé les particularités de la peau du nouveau-né à terme, nous aborderons les éruptions cutanées transitoires habituelles, mais aussi les situations urgentes à reconnaitre. Ensuite, nous parlerons des lésions vasculaires congénitales ou précoces, en insistant sur les hémangiomes infantiles, en particularité sur les indications thérapeutiques des béta-bloquants. Pour finir, nous définirons l’attitude à tenir devant des lésions pigmentées congénitales."
         },
         {
-            "title": "Partie 3 : ",
-            "description": ""
+            "title": "Partie 3 : Rougeur cutanée",
+            "description": "Les érythèmes fessiers et la dermatite atopique sont deux causes de consultation fréquentes en pédiatrie. Nous aiderons le praticien à mieux s’orienter devant une dermite du siège, pour adapter son traitement. Après avoir rappelé les aspects étiologiques et cliniques de la dermatite atopique, nous donnerons des clés pour optimiser les soins locaux sans forcément recourir au spécialiste."
         },
         {
-            "title": "Partie 4 : ",
-            "description": ""
+            "title": "Partie 4 : Pathologies infectieuses",
+            "description": "La gale reste une affection fréquente chez l’enfant et le nourrisson, avec des particularités cliniques à reconnaitre. Nous vous aiderons à proposer des traitements adaptés à l’âge de vos patients. La teigne est également une dermatose infectieuse fréquente dans ces tranches d’âge ; plusieurs dermatophytes peuvent en être responsables, définissant le traitement à employer. Pour cela nous nous appuierons sur les récentes recommandations de mars 2021."
         },
         {
-            "title": "Partie 5 : ",
-            "description": ""
+            "title": "Partie 5 : Endocrinologie : le retard de croissance",
+            "description": "Dans cette partie nous verrons comment définir le retard de croissance et ses principales etiologies."
         },
         {
-            "title": "Partie 6 : ",
-            "description": ""
+            "title": "Partie 6 : Puberté normale et pathologique",
+            "description": "Nous étudierons les caractéristiques d’une puberté normale, et définirons la puberté précoce et le retard pubertaire afin de pouvoir mieux prendre en charge les jeunes patients selon chaque situation."
         },
         {
-            "title": "Partie 7 : ",
-            "description": ""
+            "title": "Partie 7 : Repérer et suivre un diabète chez l’enfant",
+            "description": "Nous aborderons ensuite le diabète de type 1 chez l’enfant : nous verrons quelles sont les étapes du diagnostic, du suivi et des traitements de cette pathologie ; et quel est le rôle du médecin généraliste."
         },
         {
-            "title": "Partie 8 : ",
-            "description": ""
+            "title": "Partie 8 : Gynécologie de la petite fille",
+            "description": "Nous verrons en détail l’examen gynécologique de la petite fille et les différents pièges à éviter. Nous ferons un point sur la conduite à tenir face à des motifs fréquents au cabinet de médecine générale, tels que les leucorrhées ou encore les prurits."
         },
         {
-            "title": "Partie 9 : ",
-            "description": ""
+            "title": "Partie 9 : Dyspnée de l’enfant",
+            "description": "Nous verrons les étapes importantes à l’examen physique de l’enfant ainsi que les signes fonctionnels afin de diagnostiquer les différents troubles pulmonaires possibles."
         },
         {
-            "title": "Partie 10 : ",
-            "description": ""
+            "title": "Partie 10 : Toux chronique de l’enfant",
+            "description": "Nous étudierons les différentes causes possibles d’une toux chronique chez l’enfant et les différents traitements et prises en charge associés."
+        },
+        {
+            "title": "Partie 10 : Prise en charge de l’asthme en pédiatrie",
+            "description": "Nous verrons quels signes d’alertes doivent nous faire rechercher un asthme; ainsi que les diagnostics différentiels que l’on doit écarter.Nous verrons également qu’il existe plusieurs types d’asthme. Nous rappellerons les modalités de prise en charge de l’asthme en vous donnant des outils pratiques pour améliorer l’éducation thérapeutique des enfants asthmatiques et de leurs parents."
         },
         {
             "title": "Exercices et fiches à télécharger",
@@ -66,9 +70,19 @@
     ],
     "teachers": [
         {
-            "id": "",
-            "name": "",
-            "description": ""
+            "id": "legrand",
+            "name": "Dr Adeline LEGRAND",
+            "description": "Ayant une sensibilité particulière pour les enfants et soucieuse de leur offrir une prise en charge adaptée à leur âge, le Dr Adeline LEGRAND s’est formée en dermatologie pédiatrique. Elle exerce comme chef de clinique au sein de l’unité de Dermatologie pédiatrique du CHU de Bordeaux, où elle prend en charge toutes les dermatoses pouvant toucher le nourrisson, l’enfant et l’adolescent. Elle souhaite aider le médecin généraliste dans la prise en charge de dermatoses courantes chez l’enfant, mais aussi à connaître les situations requérant un avis spécialisé."
+        },
+        {
+            "id": "lacoste",
+            "name": "Dr Aurélie LACOSTE",
+            "description": "Après un externat et internat pédiatrique bordelais, complétés d’un semestre à l’hôpital Trousseau à Paris dans le service des explorations fonctionnelles endocriniennes, le Dr LACOSTE a validé un master 2 de Biologie Santé à l’Université Bordeaux 2, puis un clinicat d’endocrinologie et diabétologie pédiatriques au CHU de Bordeaux. Sa pratique actuelle, exclusivement libérale, se répartit entre la maternité de Lormont (33310) et des consultations de pédiatrie spécialisés en endocrinologie, diabétologie et gynécologie. Elle réalise par ailleurs de nombreuses missions d’enseignement auprès des médecins généralistes, pédiatres, sages-femmes."
+        },
+        {
+            "id": "galode",
+            "name": "Dr François GALODE",
+            "description": "Praticien hospitalier au CHU de Bordeaux, le Dr François GALODE travaille au sein du service de pneumologie pédiatrique. Sa formation et son activité s’articule essentiellement autour de cette activité. Il lui tient à cœur de partager ses connaissances et sa formation auprès de ses confrères/consœurs afin d’optimiser au mieux la prise en charge des patients présentant une pathologie respiratoire."
         }
     ]
 }

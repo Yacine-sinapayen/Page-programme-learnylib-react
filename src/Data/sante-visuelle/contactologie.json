@@ -1,0 +1,49 @@
+{
+    "id": "contactologie",
+    "title": "Les bases de la contactologie",
+    "shortDescription": "Redécouvrons ensemble les notions de base de la contactologie et assurez-vous de maîtriser les pré-requis à l’acquisition de compétences pratiques.",
+    "supports": [
+        "",
+        ""
+    ],
+    "teaser": "",
+    "description": " La contactologie est une spécialité de plus en plus plébiscitée par les praticiens puisqu’elle permet d’adresser un nombre croissant de pathologies avec des résultats supérieurs dans certains cas à ce que l’on pouvait observer jusque-là avec d’autres équipements.<br/><br/>Cet élan est bien accompagné par les laboratoires qui ont mis ces dernières années sur le marché un grand nombre de produits innovants afin de répondre aux évolutions observées, comme pour la freination de la myopie par exemple.<br/><br/> Avec cette formation dédiée à la contactologie, replongez-vous dans les bases de la théorie avant de poursuivre sur le perfectionnement pratique !",
+    "goals": [
+        "Connaître les définitions et le cadre légal",
+        "Redécouvrir l’histoire de la contactologie",
+        "Apprendre à reconnaître les différents types de lentilles de contact et citer leurs indications",
+        "Savoir nommer les principaux matériaux et citer leurs caractéristiques",
+        "Identifier les différentes classes de produits d’entretien ",
+        "Décrire les principales étapes de l’adaptation en lentilles de contact"
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : Introduction aux bases de la contactologie ",
+            "description": "Quelques rappels et définitions sur la contactologie, son cadre légal, mais aussi son histoire et les chiffres clés pour bien appréhender la pratique. "
+        },
+        {
+            "title": "Partie 2 : Les différents types de lentilles",
+            "description": "Une première partie autour des lentilles de contact souples, les matériaux et les indications possibles. Un deuxième point sur les lentilles de contact rigides avec un déroulé identique matériaux et indications."
+        },
+        {
+            "title": "Partie 3 : Les produits d’entretien",
+            "description": "Après une introduction générale sur les produits d’entretien, un focus sera fait sur les solutions multifonctions puis les solutions oxydantes. Objectif : savoir nommer les différents types de produits d’entretien et citer leurs indications. Une ouverture sera faite sur les autres produits existants."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "peyre",
+            "name": "Dr Catherine PEYRE",
+            "description": "Le Docteur Catherine Peyre est ophtalmologiste contactologue et ancienne présidente de la SFOALC d’Île-De-France. Avec une pratique à la fois hospitalière et en libéral, le Dr Peyre a consacré beaucoup de temps durant sa carrière à la pathologie du segment antérieur et des surfaces oculaires."
+        },
+        {
+            "id": "ghezal",
+            "name": "Soumeya ROUX GHEZAL",
+            "description": "Soumeya Roux Ghezal est opticienne-optométriste au sein d’un cabinet de groupe d’ophtalmologiste à Paris. Elle assiste le Dr Catherine PEYRE depuis plus de 4 ans dans les adaptations de lentilles de contact de tous types. Son expérience du terrain et son envie de transmettre l’ont amené à reprendre ses études pour se spécialiser dans la formation pour adultes. Sa philosophie pédagogique s’inspire notamment de Philippe Carré « On apprend toujours seul mais jamais sans les autres »."
+        }
+    ]
+}

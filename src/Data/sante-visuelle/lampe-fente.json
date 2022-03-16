@@ -1,0 +1,61 @@
+{
+    "id": "",
+    "title": "L’utilisation de la lampe à fente",
+    "shortDescription": "Apprenons ensemble comment bien maîtriser la lampe à fente !",
+    "supports": [
+        "",
+        ""
+    ],
+    "teaser": "",
+    "description": "La lampe à fente est utilisée pour étudier les différentes structures oculaires et périoculaires. C’est un appareil que l’on trouve chez de plus en plus de professionnels de santé car il permet de mettre en évidence certaines pathologies spécifiques. C’est un outil incontournable dans le suivi du patient / client.<br/><br/> La lampe à fente est aussi beaucoup utilisée en contactologie ; alors que le nombre de porteurs de lentilles est en augmentation, tant pour des raisons esthétiques, sportives, visuelles ou de gestion d’évolution de la myopie. <br/><br/> Démarrons donc cette formation durant laquelle nous verrons ensemble divers points comme la structure de l’appareil, ses spécificités, comment maîtriser son utilisation mais aussi des trucs et astuces pour votre pratique quotidienne. L’objectif : faire de vous un expert de la lampe à fente !",
+    "goals": [
+        "La structure d'une lampe à fente",
+        "Maîtriser les différents types d'éclairages ",
+        "Savoir observer les différents éléments : de la paupière à la cornée",
+        "Maîtriser son utilisation afin de gagner en efficacité",
+        "Connaître les astuces pour faire une observation binoculaire",
+        "Noter dans votre suivi d’adaptation les différentes observations ",
+        "Reconnaître certaines anomalies"
+    ],
+    "program": [
+        {
+            "title": "Partie 1 : Rappels anatomique",
+            "description": "Faire le point sur les connaissances."
+        },
+        {
+            "title": "Partie 2 : Présentation du matériel",
+            "description": "Descriptif des différents composants de la lampe à fente : les grossissements, les éclairages, les angles d’observation et les filtres utilisés."
+        },
+        {
+            "title": "Partie 3 : Présentation du fonctionnement des différentes étapes de l’observation",
+            "description": "Chaque éclairage ainsi que sa manipulation sera développé en détails. Photos et vidéos vous permettront de vous projeter à l’aide d’explications."
+        },
+        {
+            "title": "Partie 4 : Optimisation de l’observation",
+            "description": "Repérer et quantifier la profondeur d’une anomalie de la cornée."
+        },
+        {
+            "title": "Partie 5 : L’observation des 2 yeux",
+            "description": "Nous vous apporterons des conseils pour optimiser le temps d’examen binoculaire de votre patient / client. "
+        },
+        {
+            "title": "Partie 6 : Une notation efficace et lisible de tous ",
+            "description": "Normer un compte rendu pour une lecture simplifiée entre professionnels de santé. "
+        },
+        {
+            "title": "Partie 7 : Des exemples d’observations anormales : films de larmes, cils, paupières, etc",
+            "description": "Représentation et schématisation des anomalies observables à la lampe à fente."
+        },
+        {
+            "title": "Exercices et fiches à télécharger",
+            "description": "Évaluez vos connaissances acquises tout le long de votre formation(QCM), téléchargez et imprimez toutes les fiches récapitulatives."
+        }
+    ],
+    "teachers": [
+        {
+            "id": "duguez",
+            "name": "Aurélie DUGUEZ",
+            "description": "Aurélie est opticienne optométriste chez les opticiens KRYS J.Torrilhon sur Écully (69) depuis plus de 10 ans. Son activité est dédiée en grande partie à la contactologie. Elle adapte tous types d’équipements lentilles (lentilles souples, rigides, sclérales et orthokératologie). Elle enseigne depuis septembre 2021 à l’université PARIS-SACLAY la contactologie de la Licence jusqu’au Master. Elle intervient également en D.U de Contactologie pour la Licence à ISO Lyon depuis novembre 2017. Aurélie est diplômée du Master Sciences de la Vision de l’Université PARIS-SACLAY depuis 2013."
+        }
+    ]
+}

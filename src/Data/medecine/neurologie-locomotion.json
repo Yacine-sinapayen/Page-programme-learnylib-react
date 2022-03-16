@@ -1,63 +1,72 @@
 {
-    "id": "",
-    "title": "",
-    "shortDescription": "",
+    "id": "neurologie-locomotion",
+    "title": "Suivi du développement neurologique de l'enfant",
+    "shortDescription": "Améliorez vos connaissances sur le développement psycho-moteur normal de l’enfant, et maîtrisez les principales pathologies en neurologie, orthopédie et rhumatologie pédiatrique.",
     "supports": [
         "",
         ""
     ],
-    "teaser": "",
-    "description": " <br/><br/>  <br/><br/>  <br/><br/>  <br/><br/> ",
+    "teaser": "683364213",
+    "description": "Le médecin généraliste est en première ligne dans le suivi du développement de ses jeunes patients. <br/><br/> Il a un rôle primordiale de repérage d’éventuelles anomalies du développement psycho-moteur, afin d’élaborer rapidement une prise en charge adaptée en coordination avec les acteurs médico-sociaux de son territoire.  <br/><br/> Dans cette formation, nous aiderons le médecin généraliste à réaliser une évaluation optimale du développement psycho-moteur de ses jeunes patients, à reconnaître une anomalie de développement, et à solliciter les interlocuteurs adaptés quand cela est nécéssaire. <br/><br/>  Nous l’aiderons à raisonner face à divers motifs de consultation en rapport avec la neuro-pédiatrie : mouvements anormaux, céphalées, et troubles de la marche. <br/><br/> Nous aborderons également le rôle du médecin généraliste dans le repérage et la prise en charge de pathologie de l’appareil locomoteur du nourrisson, de l’enfant et de l’adolescent.<br/><br/>Nous verrons entre-autres les troubles de la statique rachidienne et des membres inférieurs ainsi que les pathologies de l’adolescent sportif. <br/><br/> Enfin, nous verrons quelles douleurs de l’enfant doivent faire suspecter une pathologie rhumatologique, et comment guider le médecin généraliste dans son raisonnement clinique et dans la prise en charge de ces jeunes patients. <br/><br/>",
     "goals": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
+        "Savoir suivre le développement psychomoteur des enfants dès leur naissance",
+        "Savoir repérer une anomalie de développement et faire appel aux professionnels adaptés quand cela est nécéssaire",
+        "Savoir repérer les enfants nécessitant une prise en charge urgente en cas de symptôme neurologique (céphalées, mouvements anormaux, trouble de la marche)",
+        "Savoir évaluer l'intensité des troubles orthopédiques et rhumatologiques de l'enfant, et solliciter les acteurs médicaux du territoire quand cela est nécéssaire",
         ""
     ],
     "program": [
         {
-            "title": "Partie 1 : ",
-            "description": ""
+            "title": "Partie 1 : Développement psycho-moteur",
+            "description": "Dans cette partie nous verrons comment réaliser une évaluation clinique du développement psycho-moteur de l’enfant au cabinet de médecine générale. Nous verrons quels sont les signes d’alerte qui doivent nous conduire à réaliser des explorations supplémentaires, et quand passer la main au pédiatre."
         },
         {
-            "title": "Partie 2 : ",
-            "description": ""
+            "title": "Partie 2 : Mouvement anormaux non épileptiques, convulsions et épilepsies",
+            "description": "Nous verrons que les mouvements anormaux ne sont pas tous d’origine épileptique. Si la plupart sont bénins, certains doivent évoquer une pathologie grave et nécessitent l’avis rapide d’un pédiatre. Nous verrons quels sont les critères définissant une crise d’épilepsie, et quelles en sont les principales causes. Nous verrons également quel est le rôle du médecin traitant dans la reconnaissance et la prise en charge d’une crise fébrile simple."
         },
         {
-            "title": "Partie 3 : ",
-            "description": ""
+            "title": "Partie 3 : Anomalies de croissance du périmètre crânien",
+            "description": "Dans cet item nous rappellerons l’importance de la mesure du périmètre crânien chez les enfants de 0 à 5 ans. Nous détaillerons le repérage et la prise en charge d’une microcéphalie, macrocéphalie et des craniosténoses."
         },
         {
-            "title": "Partie 4 : ",
-            "description": ""
+            "title": "Partie 4 : Céphalées et migraines de l’enfant",
+            "description": "La céphalée est un motif de consultation fréquent, même chez les enfants. Nous verrons comment repérer les signes d’alerte évocateurs d’une céphalées secondaire. Nous verrons les principales causes de céphalées primaires et leurs prise en charge."
         },
         {
-            "title": "Partie 5 : ",
-            "description": ""
+            "title": "Partie 5 : Trouble de la marche d’origine neurologique",
+            "description": "Nous verrons comment repérer un trouble de la marche d’origine neurologique, et quelle démarche diagnostique initier en l’attente de l’avis du spécialiste, qui doit être systématique."
         },
         {
-            "title": "Partie 6 : ",
-            "description": ""
+            "title": "Partie 6 : Troubles de la statique vertébraleTroubles de la statique vertébrale",
+            "description": "Dans cet item, nous verrons les caractéristiques de la scoliose, de la dystrophie rachidienne de croissance ainsi que du spondylolisthésis."
         },
         {
-            "title": "Partie 7 : ",
-            "description": ""
+            "title": "Partie 7 : Troubles de la statique des membres inférieurs",
+            "description": "Nous verrons comment évaluer l’intensité des troubles de la statique des membres inférieurs : genu valgum et genu varum, marche pieds en dedans et également pieds plats et creux. Nous vous guiderons dans votre rôle de médecin généraliste en répondant aux questions suivantes : quand dois-je prescrire une imagerie? Quand dois-je adresser mon jeune patient a l’ortho-pédiatre?"
         },
         {
-            "title": "Partie 8 : ",
-            "description": ""
+            "title": "Partie 8 : Troubles de la hanche",
+            "description": "Nous vous guiderons dans le repérage et la prise en charge des troubles de la hanche tels que la dysplasie ou encore la luxation congénitale de hanche."
         },
         {
-            "title": "Partie 9 : ",
-            "description": ""
+            "title": "Partie 9 : Pathologie de l’adolescent sportif",
+            "description": "Enfin, nous vous aiderons à raisonner face aux douleurs de vos jeunes patients sportifs. Nous aborderons entre-autre la maladie d’Osgood Schlatter et de Sever. Nous verrons comment les prendre en charge et comment rassurer les enfants et leurs parents sur l’évolution de ces pathologies."
         },
         {
-            "title": "Partie 10 : ",
-            "description": ""
+            "title": "Partie 10 : Conduite à tenir devant une boiterie : le point de vue du pédiatre",
+            "description": "Nous verrons comment raisonner au cabinet de médecine générale face à un jeune patient qui présente une boiterie."
+        },
+        {
+            "title": "Partie 11 : Conduite à tenir devant une boiterie fébrile",
+            "description": "Nous analyserons par le biais de présentations cliniques la boiterie fébrile et les germes impliqués. Nous verrons quelle est la prise en charge urgente à réaliser en cas de boiterie fébrile."
+        },
+        {
+            "title": "Partie 12 : Quand suspecter une maladie inflammatoire chronique rhumatismale pédiatrique",
+            "description": "Nous verrons quand suspecter une maladie inflammatoire chronique rhumatismale pédiatrique. Nous étudierons ensuite les examens complémentaires à réaliser, les principaux traitements ainsi que le principe de surveillance de ces traitements et de leurs effets secondaires."
+        },
+        {
+            "title": "Partie 13 : Purpura rhumatoïde",
+            "description": "Dans cet item nous étudierons la présentation clinique, le diagnostic, les complications et évolutions possibles du purpura rhumatoïde, ainsi que sa prise en charge."
         },
         {
             "title": "Exercices et fiches à télécharger",
@@ -66,9 +75,19 @@
     ],
     "teachers": [
         {
-            "id": "",
-            "name": "",
-            "description": ""
+            "id": "bar",
+            "name": "Dr Claire BAR",
+            "description": "Pédiatre de formation, le Dr Claire Bar s’est spécialisé en neurologie pédiatrique et exerce actuellement comme Chef de Clinique dans le service de neurologie pédiatrique de l’hôpital des enfants au CHU de Bordeaux. Après avoir travaillé quelques années à l’hôpital Necker à Paris et soutenu une thèse de neurosciences réalisée au sein de l’institut des maladies génétiques « Imagine » à Paris, elle partage maintenant son activité entre la pratique clinique, la recherche scientifique et l’enseignement de la neurologie pédiatrique. Membre actif de la Société Française de Neurologie Pédiatrique, elle s’intéresse plus particulièrement aux épilepsies de l’enfant."
+        },
+        {
+            "id": "angelliaume",
+            "name": "Dr Audrey ANGELLIAUME",
+            "description": "Le Dr Audrey Angelliaume s’est formé à Bordeaux et à Paris. Après plusieurs années au CHU de Bordeaux, elle est désormais installée à Angers au centre du Rachis (Clinique Saint-Léonard). Elle y poursuit son activité d’orthopédie pédiatrique, elle prend en charge toutes les pathologies de l’appareil locomoteur de l’enfant et de l’adolescent. Elle prend en charge en particulier les pathologies de la colonne vertébrale (scoliose, spondylolisthésis..) et du polyhandicap. Elle reste active dans le secteur de la recherche et est membre de plusieurs sociétés savantes en lien avec sa spécialité (SoFOP, SoFCOT, EPOS)."
+        },
+        {
+            "id": "richer",
+            "name": "Dr Olivier RICHER",
+            "description": "Pédiatre hospitalier, associé à la pratique de la pédiatrie générale et d’urgences pédiatriques, le Dr Olivier Richer a développé une spécialité de rhumatologie et médecine interne pédiatrique. Il existe bien sûr un continuum entre ces trois activités (urgences, pédiatrie générale, rhumatologie) permettant des prises en charge optimales des patients. Les sujets abordés dans les conférences permettront aux praticiens de se positionner dans le début des prises en charge et dans le suivi de ces patients."
         }
     ]
 }
