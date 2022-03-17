@@ -20,15 +20,15 @@
     ],
     "program": [
         {
-            "title": "Partie 1 :Flux analogiques et numériques",
+            "title": "Partie 1 : Flux analogiques et numériques",
             "description": "Nous commencerons par définir les clés de compréhension du flux numérique, tout en faisant une mise en parallèle avec le flux conventionnel."
         },
         {
-            "title": "Partie 2 :Le fichier 3D",
+            "title": "Partie 2 : Le fichier 3D",
             "description": "Nous verrons l’ensemble des moyens et outils nécessaires à l’obtention d’un fichier 3D. L’empreinte optique, le scanner de table ou encore le CBCT seront présentés en détail afin de connaitre les indications et limites ainsi que les type de fichiers générés et leurs intérêts."
         },
         {
-            "title": "Partie 3 :La superposition des données numériques",
+            "title": "Partie 3 : La superposition des données numériques",
             "description": "Apprenons à exploiter le plein potentiel du flux numérique et à en tirer profit. Les coordonnées 3D, le Matching, l’empreinte sous digue, les problématique de l’occlusion numérique, l’empreinte sur implant, la prothèse amovible complète numérique et autre n’auront plus de secret pour vous."
         },
         {

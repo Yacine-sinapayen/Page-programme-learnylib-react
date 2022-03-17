@@ -1,12 +1,12 @@
 import React from 'react'
-import data from '../../../Data/installation-liberale.json';
 
-export default function TeachersItems() {
+export default function TeachersItems({data}) {
   return (
     <div className='teacher-container w75p'>
 
       <h1 className='center-content mrg-b30'>Qui sont vos conférenciers ?</h1>
-
+        
+    
       {data.teachers.map((teacher, index) => (
 
         <div className='teacher flex mrg-b20' key={index}>

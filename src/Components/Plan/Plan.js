@@ -1,10 +1,9 @@
 import React, { useState } from 'react';
 import './Plan.css';
-import data from '../../Data/installation-liberale.json';
 import chevron from '../../assets/chevron.svg';
 
 
-export default function Plan() {
+export default function Plan({data}) {
 
     const [toggle, setToggle] = useState([]);
 
@@ -28,19 +27,19 @@ export default function Plan() {
                 <h1 className='self-center'>Programe de la formation</h1>
                 {data.program.map((data, index) => (
 
-                    <div key={index} className='program'>
+                    <div key={index} className='program mrg-b10'>
 
                         <div onClick={() => {
                             toggleChapter(index);
                         }}
                             className="program-visible" >
-                            <img className={toggle.includes(index) ? 'animatedDown' : ''} src={chevron} alt="chevron down" />
+                            <img className={toggle.includes(index) ? 'animatedDown mrg-r10' : 'mrg-r10'} src={chevron} alt="chevron down" />
                             <h3 className='program-visible-h3 border-bottom w100p'> {data.title} </h3>
                         </div>
 
-                        {toggle.includes(index) && <p className='animate__animated animate__fadeIn mrg-l30'> {data.description} </p>
+                        {toggle.includes(index) && <p dangerouslySetInnerHTML={{ __html: data.description }} className='plan-description animate__animated animate__fadeIn '></p>
                         }
-
+                        
                     </div>
                 ))}
 

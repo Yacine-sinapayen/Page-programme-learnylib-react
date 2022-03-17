@@ -6,21 +6,22 @@ import Description from './Components/Description/Description';
 import Goals from './Components/Goals/Goals';
 import Plan from './Components/Plan/Plan';
 import TeachersContainer from './Components/Teachers/TeachersContainer/TeachersContainer';
+import data from './Data/pharma/cancero-2.json'
 
 
 
 function App() {
+
   return (
     <>
-      <Header />
-      <Teaser />
+      <Header data={data}/>
+      <Teaser  data={data} />
       <Button />
-      <Description />
-      <Goals />
-      <Plan />
+      <Description data={data} />
+      <Goals data={data}/>
+      <Plan data={data} />
       <Button />
-      <TeachersContainer />
-      {/* <Timer /> */}
+      <TeachersContainer data={data} />
     </>
   );
 }

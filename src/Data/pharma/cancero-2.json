@@ -1,63 +1,46 @@
 {
-    "id": "",
-    "title": "",
-    "shortDescription": "",
+    "id": "cancero-2",
+    "title": "Accompagnement du patient sous chimiothérapie : molécules et prévention de leurs iatrogènes",
+    "shortDescription": "Maîtrisez le sujet du cancer afin d’accompagner et dispenser les meilleurs conseils à vos patients au comptoir.",
     "supports": [
         "",
         ""
     ],
-    "teaser": "",
-    "description": " <br/><br/>  <br/><br/>  <br/><br/>  <br/><br/> ",
+    "teaser": "665681781",
+    "description": "Plus de 300 000 nouveaux cas de cancers sont diagnostiqués chaque année en France.<br/><br/> Plus de 300 000 nouveaux cas de cancers sont diagnostiqués chaque année en France.<br/><br/> En tant qu’expert du médicament, le pharmacien d’officine a vocation à se former sur ces nouveaux traitements anti-cancéreux. <br/><br/> Acteur de santé de proximité, il participe à renseigner sur les différentes modalités de prise et la gestion des effets indésirables, dans le cadre des entretiens pharmaceutiques.<br/><br/>Dans cette formation, nous aborderons quelques rappels sur la maladie cancéreuse.<br/><br/>Puis nous discuterons des nouvelles thérapies ciblées.",
     "goals": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Approfondir ses connaissances relatives à la prise en charge des cancers",
+        "Connaître les (nouveaux) médicaments anticancéreux délivrés à l’officine",
+        "Améliorer les conseils de dispensation",
+        "Prévenir la iatrogénie médicamenteuse",
+        "Mieux comprendre les besoins du patient atteint de cancer",
+        "Améliorer la prise en charge officinale du patient atteint de cancer",
+        "Participer au dépistage et à la prévention des cancers les plus fréquents"
     ],
     "program": [
         {
-            "title": "Partie 1 : ",
-            "description": ""
+            "title": "Partie 1 : Introduction panorama des cancers en France",
+            "description": "Débutons par constater qu’il existe une augmentation continue du nombre de cancers en France ainsi qu’une hausse de l’incidence du cancer pulmonaire chez la femme. Le taux de mortalité qui reste élevé mais contenu en raison d’amélioration de la prise en charge des cancers."
         },
         {
-            "title": "Partie 2 : ",
-            "description": ""
+            "title": "Partie 2 : Mieux comprendre la pathologie cancéreuse",
+            "description": "Le cancer est une maladie génétique auto-adaptative. Nous verrons dans cette partie les différentes classifications qui permettent d’appréhender l’évolution de la tumeur."
         },
         {
-            "title": "Partie 3 : ",
-            "description": ""
+            "title": "Partie 3 : La prise en charge du cancer ",
+            "description": "Nous continuerons avec un rappel des différents choix de prise en charge : chirurgie, chimiothérapie, radiothérapie. Nous verrons les différentes chimiothérapies : les cytotoxiques et l’hormonothérapie anticancéreuse.Mais également les nouvelles stratégies ciblées (anticorps monoclonaux – inhibiteurs de tyrosine kinase) qui sont proposées depuis une vingtaine d’année. "
         },
         {
-            "title": "Partie 4 : ",
-            "description": ""
+            "title": "Partie 4 : La prévention de la iatrogénie",
+            "description": "Puis nous aborderons les principaux effets toxiques des cytotoxiques : toxicité hématologique, cutanéo-muqueuse, digestive, gastro-intestinale, mucite. La toxicité des thérapies ciblées est moins importante avec des effets de classe majoritairement."
         },
         {
-            "title": "Partie 5 : ",
-            "description": ""
+            "title": "Partie 5 : L’accompagnement psychologique du patient et de son entourage",
+            "description": "Dans cette partie, nous détaillerons le savoir être et le savoir faire à adopter pour un bon accompagnement psychologique du patient et de son entourage :<ul><li> Partager et collaborer entre soignants du réseau Ville-Hôpital</li><li> Avoir de solides références professionnelles : expertise et technicité</li><li> Connaître les pathologies et leurs possibles évolutions</li><li> Identifier les symptômes prévisibles et les moyens pour y répondre efficacement </li><li> Réduire les décalages entre l’information donnée au patient et celle donnée à la famille</li><li>Faire preuve de discrétion professionnelle</li><li> Préserver la communication verbale et établir la non-verbale</li></ul>"
         },
         {
-            "title": "Partie 6 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 7 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 8 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 9 : ",
-            "description": ""
-        },
-        {
-            "title": "Partie 10 : ",
-            "description": ""
+            "title": "Partie 6 : Vers la mise en place des entretiens pharmaceutiques pour les patients traités par un anticancéreux oral",
+            "description": "L’entretien pharmaceutique est un suivi personnalisé du patient au cours de son traitement. Cette partie comprend également une explication des différents rôles clés de l’équipe officinale ainsi qu’une explication de la proximité de l’équipe officinale envers les patients.Le Pharmacien est un expert du médicament et il a besoin de formation sur les thérapeutiques anticancéreuses. Nous aurons l’explication des approches multiples."
         },
         {
             "title": "Exercices et fiches à télécharger",
@@ -66,9 +49,9 @@
     ],
     "teachers": [
         {
-            "id": "",
-            "name": "",
-            "description": ""
+            "id": "clere",
+            "name": "Dr Nicolas CLERE",
+            "description": "Impliqué dans de nombreux projets visant à améliorer la prise en charge des patients atteints de cancer, le Dr Nicolas Clere s’est spécialisé en oncopharmacologie. Titulaire d’un doctorat de l’Université d’Angers, il partage ses activités entre formation universitaire et activités de recherche en cancérologie. Docteur en Pharmacie, Nicolas Clere participe à la formation continue des pharmaciens d’officine en vue d’améliorer leurs pratiques et assurer une bonne prise en charge des patients."
         }
     ]
 }

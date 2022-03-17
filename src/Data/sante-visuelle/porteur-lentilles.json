@@ -26,8 +26,7 @@
             "description": "Qu’il vienne renouveler ses lentilles, ou les acheter pour la première fois. Qu’il en porte depuis longtemps ou que ce soit sa première fois. Que ce soit pour un produit, ou pour un problème avec sa lentille, vous allez découvrir dans cette partie comment répondre aux besoins de votre client de la façon la plus complète et professionnelle possible."
         },
         {
-            "title": "Partie 2 : Savoir vendre un produit d’entretien
-            ",
+            "title": "Partie 2 : Savoir vendre un produit d’entretien",
             "description": "Il existe de nombreux produits d’entretien pour lentilles sur le marché. Découvrez comment savoir de quoi le client a besoin, comment le conseiller, sans commettre d’erreur. Vous découvrirez quelques astuces pour optimiser votre offre en magasin. "
         },
         {
@@ -65,9 +64,9 @@
     ],
     "teachers": [
         {
-            "id": "",
-            "name": "",
-            "description": ""
+            "id": "froger",
+            "name": "Stéphanie FROGER",
+            "description": "Stéphanie est opticienne optométriste au sein du magasin ATOL Provansal à Lyon. Son activité est entièrement dédiée à la contactologie. Stéphanie enseigne également en DU de Contactologie au sein de l’ISO Lyon pour la Licence Professionnelle d’Optique depuis plus de 5 ans. Diplômée du Master Sciences de la Vision de l’Université de Paris Sud, elle exerce la contactologie depuis 2010 et équipe avec tous types de lentilles : souples, rigides, sclérales, orthoK. Stéphanie a également une pratique en pédiatrie. Membre AFELC (Association Française d’Experts en Lentilles de Contact) et membre AOF (Association des Optométristes de France)."
         }
     ]
 }

@@ -1,11 +1,9 @@
 import React from 'react'
 import "./Header.css"
-import data from '../../Data/installation-liberale.json';
 import Logo from '../../assets/Logo.svg';
 import arrow from '../../assets/arrow.svg';
 
-
-export default function Header() {
+export default function Header({data}) {
 
   return (
 
