@@ -3,7 +3,14 @@
 
 Les données de cette page sont totalement indépendantes du reste de l'application.
 
-À chaque formation mise en ligne, il va falloir importer manuellement les data dans le dossier "data" :wink:, pour alimenter la "page programme".
+À chaque formation mise en ligne, il va falloir importer manuellement les datas dans le dossier "data" :wink:, pour alimenter la "page programme".
+
+## Résultat
+
+![](src/assets/resultat-1.png)
+![](src/assets/resultat-2.png)
+![](src/assets/resultat-3.png)
+![](src/assets/resultat-4.png)
 
 ## Récupérer l'id du teaser 
 
@@ -23,9 +30,7 @@ Les données de cette page sont totalement indépendantes du reste de l'applicat
 
 ![vimeo-5](/src/assets/vimeo-5.png)
 
-![vimeo-6](/src/assets/vimeo-6.png)
 
+Remarque :
 
-Et voilà ! Si vous avez des idées d'amélioration de process n'hésitez pas. 
-
-Toutes ces infos sont valides l'instant T, si jamais l'une d'entre elle n'est plus à jour merci de prendre deux petites minutes pour vos futures collègues dev afin de leur fluidifier le travail. L'efficience collective passe par des actions comme ça.
+L'URL de l'api utilisé pour récupérer les photos dans le composant Teachers ne fonctionne plus.

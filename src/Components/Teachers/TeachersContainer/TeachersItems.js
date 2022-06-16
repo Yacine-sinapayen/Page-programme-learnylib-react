@@ -18,7 +18,8 @@ export default function TeachersItems({data}) {
 
         
           <div className='teacher-img-container mrg-l15 flex middle'>
-            <img className='teacher-img w200 ' src={'https://formations.learnylib.com/api/v1/uploads/public/teacher_' + teacher.id + '.jpg'} alt="teacher" />
+          {/* Le lien de l'api pour écupérer les photos ne fonctionnne plus */}
+            {/* <img className='teacher-img w200 ' src={'https://formations.learnylib.com/api/v1/uploads/public/teacher_' + teacher.id + '.jpg'} alt="teacher" /> */}
           </div>
 
         </div>

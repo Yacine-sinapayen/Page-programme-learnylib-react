@@ -14,3 +14,15 @@ html{
 
 	--font:'Poppins', sans-serif;
 }
+
+button {
+	font-size: 1em;
+	padding: 9px;
+	border-radius: 8px;
+	display: flex;
+	border: none;
+	cursor: pointer;
+	background-color: #4bbef2;
+	color: white;
+	margin: 10px 0;
+  }

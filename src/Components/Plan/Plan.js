@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import './Plan.css';
-import chevron from '../../assets/chevron.svg';
-
+import chevron from '../../assets/Chevron.svg';
 
 export default function Plan({data}) {
 

@@ -6,7 +6,7 @@ import Description from './Components/Description/Description';
 import Goals from './Components/Goals/Goals';
 import Plan from './Components/Plan/Plan';
 import TeachersContainer from './Components/Teachers/TeachersContainer/TeachersContainer';
-import data from './Data/pharma/cancero-2.json'
+import data from './Data/dentaire/chirurgie-muco'
 
 
 

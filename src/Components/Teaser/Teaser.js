@@ -1,4 +1,3 @@
-import React, { useState } from 'react'
 import "./Teaser.css"
 
 export default function Teaser({ data }) {
